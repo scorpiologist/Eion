@@ -1,0 +1,1299 @@
+﻿Log file open, 04/16/18 17:25:59
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Eion
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-978282871) SRandInit(-978282871).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 3989454, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 3.683145
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +3:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  5.518s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am Scorpiologist (192.168.0.106:0)
+LogInit: Build: ++UE4+Release-4.19-CL-3989454
+LogInit: Engine Version: 4.19.1-3989454+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr  6 2018 12:26:04
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line:  
+LogInit: Base Directory: D:/programs/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.024s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.04.16-14.26.06:663][  0]LogInit: Selected Device Profile: [Windows]
+[2018.04.16-14.26.06:664][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.04.16-14.26.06:854][  0]LogInit: Computer: SCORPIOLOGIST
+[2018.04.16-14.26.06:854][  0]LogInit: User: youce
+[2018.04.16-14.26.06:854][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.04.16-14.26.06:854][  0]LogInit: High frequency timer resolution =3.914059 MHz
+[2018.04.16-14.26.06:855][  0]LogMemory: Memory total: Physical=32.0GB (32GB approx)
+[2018.04.16-14.26.06:855][  0]LogMemory: Platform Memory Stats for Windows
+[2018.04.16-14.26.06:855][  0]LogMemory: Process Physical Memory: 277.39 MB used, 277.39 MB peak
+[2018.04.16-14.26.06:855][  0]LogMemory: Process Virtual Memory: 264.88 MB used, 264.88 MB peak
+[2018.04.16-14.26.06:855][  0]LogMemory: Physical Memory: 6348.69 MB used,  26371.05 MB free, 32719.74 MB total
+[2018.04.16-14.26.06:855][  0]LogMemory: Virtual Memory: 693.74 MB used,  26371.05 MB free, 134217728.00 MB total
+[2018.04.16-14.26.07:688][  0]LogInit: Using OS detected language (en-US).
+[2018.04.16-14.26.07:688][  0]LogInit: Using OS detected locale (en-US).
+[2018.04.16-14.26.08:000][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.04.16-14.26.08:941][  0]LogStreaming: Display: Took  1.235s to EndInitTextLocalization.
+[2018.04.16-14.26.08:962][  0]LogInit: Setting process to per monitor DPI aware
+[2018.04.16-14.26.09:564][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.04.16-14.26.09:564][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.04.16-14.26.14:610][  0]LogD3D11RHI: D3D11 adapters:
+[2018.04.16-14.26.14:704][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2018.04.16-14.26.14:704][  0]LogD3D11RHI:       8088/0/16359 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.04.16-14.26.14:707][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.04.16-14.26.14:707][  0]LogD3D11RHI:       0/0/16359 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.04.16-14.26.14:707][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.04.16-14.26.14:713][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.04.16-14.26.14:714][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2018.04.16-14.26.14:714][  0]LogWindows: EnumDisplayDevices:
+[2018.04.16-14.26.14:714][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2018.04.16-14.26.14:714][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:1)
+[2018.04.16-14.26.14:714][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2018.04.16-14.26.14:714][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2018.04.16-14.26.14:714][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.04.16-14.26.14:714][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2018.04.16-14.26.14:714][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.04.16-14.26.14:714][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.04.16-14.26.14:715][  0]LogRHI: Texture pool is 5661 MB (70% of 8088 MB)
+[2018.04.16-14.26.14:752][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.04.16-14.26.14:752][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.04.16-14.26.14:754][  0]LogD3D11RHI: Async texture creation enabled
+[2018.04.16-14.26.15:020][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.04.16-14.26.15:222][  0]LogShaderCompilers: Guid format shader working directory is 10 characters bigger than the processId version (../../../../../eion resp/backup/Eion/Intermediate/Shaders/WorkingDirectory/4460/).
+[2018.04.16-14.26.15:230][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/youce/AppData/Local/Temp/UnrealShaderWorkingDir/5E8A5A2A4B8340BD4A3F67ADB413DD7E/'.
+[2018.04.16-14.26.16:367][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.04.16-14.26.16:394][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.04.16-14.26.16:407][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.04.16-14.26.16:422][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.04.16-14.26.16:462][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.04.16-14.26.16:475][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.04.16-14.26.16:487][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.04.16-14.26.16:497][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.04.16-14.26.16:502][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.04.16-14.26.16:512][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.04.16-14.26.16:521][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.04.16-14.26.16:530][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.04.16-14.26.16:540][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.04.16-14.26.16:549][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.04.16-14.26.16:558][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.04.16-14.26.16:576][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.04.16-14.26.16:577][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.04.16-14.26.16:620][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.04.16-14.26.16:622][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.04.16-14.26.16:744][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.04.16-14.26.16:785][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.04.16-14.26.16:798][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.04.16-14.26.16:812][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.04.16-14.26.16:821][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.04.16-14.26.16:853][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.04.16-14.26.16:853][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.04.16-14.26.17:917][  0]LogXGEController: Cleaning working directory: C:/Users/youce/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.04.16-14.26.17:918][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.04.16-14.26.17:940][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.04.16-14.26.17:940][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.04.16-14.26.20:995][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.04.16-14.26.22:131][  0]LogDerivedDataCache: Loaded boot cache 1.14s 87MB C:/Users/youce/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.04.16-14.26.22:131][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/youce/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.04.16-14.26.22:132][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../eion resp/backup/Eion/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.04.16-14.26.22:132][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.04.16-14.26.22:132][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../eion resp/backup/Eion/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.04.16-14.26.22:132][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.04.16-14.26.22:252][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.04.16-14.26.22:265][  0]LogDerivedDataCache: Using Local data cache path C:/Users/youce/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.04.16-14.26.22:331][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.04.16-14.26.22:387][  0]LogSlate: Using Freetype 2.6.0
+[2018.04.16-14.26.22:498][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.04.16-14.26.22:498][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.04.16-14.26.28:011][  0]LogAssetRegistry: FAssetRegistry took 0.0385 seconds to start up
+[2018.04.16-14.26.33:279][  0]LogInit: Selected Device Profile: [Windows]
+[2018.04.16-14.26.36:974][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.04.16-14.26.37:006][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.04.16-14.26.37:026][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.04.16-14.26.37:034][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.04.16-14.26.37:034][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.04.16-14.26.37:034][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.04.16-14.26.37:525][  0]LogNetVersion: Eion , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1394248169)
+[2018.04.16-14.26.43:644][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 0.390821 seconds
+[2018.04.16-14.26.43:671][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.04.16-14.26.43:671][  0]LogUObjectAllocator: 7314304 out of 0 bytes used by permanent object pool.
+[2018.04.16-14.26.43:671][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.04.16-14.27.17:320][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.04.16-14.27.17:356][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.04.16-14.27.18:339][  0]SourceControl: Source control is disabled
+[2018.04.16-14.27.20:242][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.04.16-14.27.20:388][  0]LogOcInput: OculusInput pre-init called
+[2018.04.16-14.27.20:906][  0]LogEngine: Initializing Engine...
+[2018.04.16-14.27.20:939][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.04.16-14.27.20:974][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.04.16-14.27.20:974][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.04.16-14.27.22:337][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.04.16-14.27.22:485][  0]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.16-14.27.22:521][  0]LogInit: FAudioDevice initialized.
+[2018.04.16-14.27.22:607][  0]LogDerivedDataCache: Saved boot cache 0.09s 74MB C:/Users/youce/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.04.16-14.27.22:616][  0]LogInit: Texture streaming: Enabled
+[2018.04.16-14.27.22:713][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.04.16-14.27.22:854][  0]LogInit: Transaction tracking system initialized
+[2018.04.16-14.27.23:185][  0]BlueprintLog: New page: Editor Load
+[2018.04.16-14.27.24:165][  0]LocalizationService: Localization service is disabled
+[2018.04.16-14.27.24:978][  0]LogConsoleResponse: Display: 
+[2018.04.16-14.27.28:240][  0]LogFileCache: Scanning file cache for directory 'D:/eion resp/backup/Eion/Content/' took 0.03s
+[2018.04.16-14.27.28:240][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.04.16-14.27.28:241][  0]LogCook: Display: Mobile HDR setting 1
+[2018.04.16-14.27.28:241][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.04.16-14.27.28:241][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.04.16-14.27.28:241][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.04.16-14.27.30:206][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.04.16-14.27.30:306][  0]LightingResults: New page: Lighting Build
+[2018.04.16-14.27.30:440][  0]MapCheck: New page: Map Check
+[2018.04.16-14.27.30:440][  0]LightingResults: New page: Lighting Build
+[2018.04.16-14.27.32:134][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2018.04.16-14.27.32:553][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.04.16-14.27.32:659][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.04.16-14.27.32:725][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 65.861ms to complete.
+[2018.04.16-14.27.32:725][  0]LogFileHelpers: Loading map 'Template_Default' took 2.533
+[2018.04.16-14.27.34:600][  0]LogCollectionManager: Loaded 0 collections in 0.001427 seconds
+[2018.04.16-14.27.35:322][  0]LogFileCache: Scanning file cache for directory 'D:/eion resp/backup/Eion/Saved/Collections/' took 0.01s
+[2018.04.16-14.27.35:322][  0]LogFileCache: Scanning file cache for directory 'D:/eion resp/backup/Eion/Content/Developers/youce/Collections/' took 0.01s
+[2018.04.16-14.27.35:322][  0]LogFileCache: Scanning file cache for directory 'D:/eion resp/backup/Eion/Content/Collections/' took 0.01s
+[2018.04.16-14.27.35:322][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.04.16-14.27.35:385][  0]LogContentBrowser: Native class hierarchy populated in 0.0148 seconds. Added 2452 classes and 558 folders.
+[2018.04.16-14.27.35:601][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.04.16-14.27.37:888][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0013 seconds. Added 0 classes and 0 folders.
+[2018.04.16-14.27.37:948][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0013 seconds. Added 1 classes and 2 folders.
+[2018.04.16-14.27.38:958][  0]LogSlate: Took 0.018996 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.04.16-14.27.38:995][  0]LogSlate: Took 0.031215 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.04.16-14.27.39:092][  0]LogSlate: Took 0.034949 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.04.16-14.27.39:742][  0]LogRenderer: Reallocating scene render targets to support 1220x692 Format 10 NumSamples 1 (Frame:1).
+[2018.04.16-14.27.40:380][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2018.04.16-14.27.40:380][  0]LogLoad: (Engine Initialization) Total time: 117.78 seconds
+[2018.04.16-14.27.40:380][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.04.16-14.27.40:807][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.04.16-14.27.41:746][  3]LogAssetRegistry: Asset discovery search completed in 73.7576 seconds
+[2018.04.16-14.27.41:762][  3]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.04.16-14.27.41:762][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000193 seconds (updated 0 objects)
+[2018.04.16-14.27.43:388][  8]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.16-14.27.45:053][115]LogSlate: Took 0.020537 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.04.16-14.30.19:492][682]LogSkeletalMesh: Skeletal Mesh found in DDC [13.042215ms] /Game/third_person_model/character/base.base
+[2018.04.16-14.30.19:940][682]LogSlate: Took 0.000732 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.04.16-14.30.20:883][682]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0022 seconds. Added 116 classes and 0 folders.
+[2018.04.16-14.30.22:605][682]LogSlate: Took 0.026865 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.04.16-14.30.23:301][683]LogSlate: Took 0.030260 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.04.16-14.30.40:466][461]BlueprintLog: New page: Compile MYCHARACTER
+[2018.04.16-14.30.44:788][793]LogLinker: Warning: Can't find file '/Game/Mannequin/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4'
+[2018.04.16-14.30.44:788][793]LogLinker: Warning: Can't find file for asset '/Game/Mannequin/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4' while loading ../../../../../eion resp/backup/Eion/Content/thirdpersonreference/Mannequin/Character/Materials/M_UE4Man_Body.uasset.
+[2018.04.16-14.30.44:789][793]LoadErrors: Error: /Game/thirdpersonreference/Mannequin/Character/Materials/M_UE4Man_Body : Can't find file for asset. /Game/Mannequin/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4
+[2018.04.16-14.30.44:789][793]LogLinker: Warning: Can't find file '/Game/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige'
+[2018.04.16-14.30.44:789][793]LogLinker: Warning: Can't find file for asset '/Game/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige' while loading ../../../../../eion resp/backup/Eion/Content/thirdpersonreference/Mannequin/Character/Materials/M_UE4Man_Body.uasset.
+[2018.04.16-14.30.44:789][793]LoadErrors: Error: /Game/thirdpersonreference/Mannequin/Character/Materials/M_UE4Man_Body : Can't find file for asset. /Game/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige
+[2018.04.16-14.30.44:789][793]LogLinker: Warning: Can't find file '/Game/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO'
+[2018.04.16-14.30.44:790][793]LogLinker: Warning: Can't find file for asset '/Game/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO' while loading ../../../../../eion resp/backup/Eion/Content/thirdpersonreference/Mannequin/Character/Materials/M_UE4Man_Body.uasset.
+[2018.04.16-14.30.44:790][793]LoadErrors: Error: /Game/thirdpersonreference/Mannequin/Character/Materials/M_UE4Man_Body : Can't find file for asset. /Game/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO
+[2018.04.16-14.30.44:790][793]LogLinker: Warning: Can't find file '/Game/Mannequin/Character/Materials/MaterialLayers/ML_SoftMetal_UE4'
+[2018.04.16-14.30.44:790][793]LogLinker: Warning: Can't find file for asset '/Game/Mannequin/Character/Materials/MaterialLayers/ML_SoftMetal_UE4' while loading ../../../../../eion resp/backup/Eion/Content/thirdpersonreference/Mannequin/Character/Materials/M_UE4Man_Body.uasset.
+[2018.04.16-14.30.44:790][793]LoadErrors: Error: /Game/thirdpersonreference/Mannequin/Character/Materials/M_UE4Man_Body : Can't find file for asset. /Game/Mannequin/Character/Materials/MaterialLayers/ML_SoftMetal_UE4
+[2018.04.16-14.30.44:792][793]LogLinker: Warning: Can't find file '/Game/Mannequin/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4'
+[2018.04.16-14.30.44:792][793]LogLinker: Warning: Can't find file for asset '/Game/Mannequin/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4' while loading ../../../../../eion resp/backup/Eion/Content/thirdpersonreference/Mannequin/Character/Materials/M_UE4Man_Body.uasset.
+[2018.04.16-14.30.44:792][793]LogLinker: Warning: Can't find file '/Game/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige'
+[2018.04.16-14.30.44:792][793]LogLinker: Warning: Can't find file for asset '/Game/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige' while loading ../../../../../eion resp/backup/Eion/Content/thirdpersonreference/Mannequin/Character/Materials/M_UE4Man_Body.uasset.
+[2018.04.16-14.30.44:793][793]LogLinker: Warning: Can't find file '/Game/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO'
+[2018.04.16-14.30.44:793][793]LogLinker: Warning: Can't find file for asset '/Game/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO' while loading ../../../../../eion resp/backup/Eion/Content/thirdpersonreference/Mannequin/Character/Materials/M_UE4Man_Body.uasset.
+[2018.04.16-14.30.44:793][793]LogLinker: Warning: Can't find file '/Game/Mannequin/Character/Materials/MaterialLayers/ML_SoftMetal_UE4'
+[2018.04.16-14.30.44:793][793]LogLinker: Warning: Can't find file for asset '/Game/Mannequin/Character/Materials/MaterialLayers/ML_SoftMetal_UE4' while loading ../../../../../eion resp/backup/Eion/Content/thirdpersonreference/Mannequin/Character/Materials/M_UE4Man_Body.uasset.
+[2018.04.16-14.30.44:794][793]LogLinker: Warning: Can't find file '/Game/Mannequin/Character/Textures/UE4_Mannequin__normals'
+[2018.04.16-14.30.44:794][793]LogLinker: Warning: Can't find file for asset '/Game/Mannequin/Character/Textures/UE4_Mannequin__normals' while loading ../../../../../eion resp/backup/Eion/Content/thirdpersonreference/Mannequin/Character/Materials/M_UE4Man_Body.uasset.
+[2018.04.16-14.30.44:794][793]LoadErrors: Error: /Game/thirdpersonreference/Mannequin/Character/Materials/M_UE4Man_Body : Can't find file for asset. /Game/Mannequin/Character/Textures/UE4_Mannequin__normals
+[2018.04.16-14.30.44:794][793]LogLinker: Warning: Can't find file '/Game/Mannequin/Character/Textures/UE4_Mannequin_MAT_MASKA'
+[2018.04.16-14.30.44:794][793]LogLinker: Warning: Can't find file for asset '/Game/Mannequin/Character/Textures/UE4_Mannequin_MAT_MASKA' while loading ../../../../../eion resp/backup/Eion/Content/thirdpersonreference/Mannequin/Character/Materials/M_UE4Man_Body.uasset.
+[2018.04.16-14.30.44:795][793]LoadErrors: Error: /Game/thirdpersonreference/Mannequin/Character/Materials/M_UE4Man_Body : Can't find file for asset. /Game/Mannequin/Character/Textures/UE4_Mannequin_MAT_MASKA
+[2018.04.16-14.30.44:795][793]LogLinker: Warning: Can't find file '/Game/Mannequin/Character/Textures/UE4_Mannequin__normals'
+[2018.04.16-14.30.44:795][793]LogLinker: Warning: Can't find file for asset '/Game/Mannequin/Character/Textures/UE4_Mannequin__normals' while loading ../../../../../eion resp/backup/Eion/Content/thirdpersonreference/Mannequin/Character/Materials/M_UE4Man_Body.uasset.
+[2018.04.16-14.30.44:795][793]LogLinker: Warning: Can't find file '/Game/Mannequin/Character/Textures/UE4_Mannequin_MAT_MASKA'
+[2018.04.16-14.30.44:796][793]LogLinker: Warning: Can't find file for asset '/Game/Mannequin/Character/Textures/UE4_Mannequin_MAT_MASKA' while loading ../../../../../eion resp/backup/Eion/Content/thirdpersonreference/Mannequin/Character/Materials/M_UE4Man_Body.uasset.
+[2018.04.16-14.30.44:806][793]LogLinker: Warning: Can't find file '/Game/Mannequin/Character/Materials/M_UE4Man_Body'
+[2018.04.16-14.30.44:806][793]LogLinker: Warning: Can't find file for asset '/Game/Mannequin/Character/Materials/M_UE4Man_Body' while loading ../../../../../eion resp/backup/Eion/Content/thirdpersonreference/Mannequin/Character/Materials/M_UE4Man_ChestLogo.uasset.
+[2018.04.16-14.30.44:806][793]LoadErrors: Error: /Game/thirdpersonreference/Mannequin/Character/Materials/M_UE4Man_ChestLogo : Can't find file for asset. /Game/Mannequin/Character/Materials/M_UE4Man_Body
+[2018.04.16-14.30.44:806][793]LogLinker: Warning: Can't find file '/Game/Mannequin/Character/Materials/M_UE4Man_Body'
+[2018.04.16-14.30.44:806][793]LogLinker: Warning: Can't find file for asset '/Game/Mannequin/Character/Materials/M_UE4Man_Body' while loading ../../../../../eion resp/backup/Eion/Content/thirdpersonreference/Mannequin/Character/Materials/M_UE4Man_ChestLogo.uasset.
+[2018.04.16-14.30.44:807][793]LogLinker: Warning: Can't find file '/Game/Mannequin/Character/Textures/UE4Man_Logo_N'
+[2018.04.16-14.30.44:807][793]LogLinker: Warning: Can't find file for asset '/Game/Mannequin/Character/Textures/UE4Man_Logo_N' while loading ../../../../../eion resp/backup/Eion/Content/thirdpersonreference/Mannequin/Character/Materials/M_UE4Man_ChestLogo.uasset.
+[2018.04.16-14.30.44:807][793]LoadErrors: Error: /Game/thirdpersonreference/Mannequin/Character/Materials/M_UE4Man_ChestLogo : Can't find file for asset. /Game/Mannequin/Character/Textures/UE4Man_Logo_N
+[2018.04.16-14.30.44:807][793]LogLinker: Warning: Can't find file '/Game/Mannequin/Character/Textures/UE4Man_Logo_N'
+[2018.04.16-14.30.44:807][793]LogLinker: Warning: Can't find file for asset '/Game/Mannequin/Character/Textures/UE4Man_Logo_N' while loading ../../../../../eion resp/backup/Eion/Content/thirdpersonreference/Mannequin/Character/Materials/M_UE4Man_ChestLogo.uasset.
+[2018.04.16-14.30.44:815][793]LogBlueprint: Warning: [Compiler AI_TPC] Get : 'HP' variable not found. Base class was probably changed. /Game/blueprints/AI_TPC.AI_TPC
+[2018.04.16-14.30.44:818][793]LogBlueprint: Warning: [Compiler AI_TPC] Could not find a variable named "HP" in 'AI_TPC_C'.
+Make sure 'AI_TPC_C' has been compiled for  Get HP
+[2018.04.16-14.30.44:819][793]LogBlueprint: Error: [Compiler AI_TPC] This blueprint (self) is not a CharacterMovementComponent, therefore ' Target ' must have a connection.
+[2018.04.16-14.30.44:819][793]LogBlueprint: Error: [Compiler AI_TPC] Variable node  Get MaxWalkSpeed  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2018.04.16-14.30.44:820][793]LogBlueprint: Error: [Compiler AI_TPC] The property associated with  HP  could not be found
+[2018.04.16-14.30.44:822][793]LogBlueprint: Warning: [Compiler AI_TPC] [0302.22] Compile of AI_TPC failed. 3 Fatal Issue(s) 2 Warning(s) [in 8 ms] (/Game/blueprints/AI_TPC.AI_TPC)
+[2018.04.16-14.30.44:825][793]LogLinker: Warning: Can't find file '/Game/Mannequin/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4'
+[2018.04.16-14.30.44:825][793]LoadErrors: Failed to load /Game/Mannequin/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.ML_GlossyBlack_Latex_UE4 Referenced by M_UE4Man_Body
+[2018.04.16-14.30.44:825][793]LogLinker: Warning: Can't find file for asset '/Game/Mannequin/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4' while loading NULL.
+[2018.04.16-14.30.44:825][793]LogLinker: Warning: Can't find file '/Game/Mannequin/Character/Materials/MaterialLayers/ML_SoftMetal_UE4'
+[2018.04.16-14.30.44:825][793]LoadErrors: Failed to load /Game/Mannequin/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.ML_SoftMetal_UE4 Referenced by M_UE4Man_Body
+[2018.04.16-14.30.44:825][793]LogLinker: Warning: Can't find file for asset '/Game/Mannequin/Character/Materials/MaterialLayers/ML_SoftMetal_UE4' while loading NULL.
+[2018.04.16-14.30.44:825][793]LogLinker: Warning: Can't find file '/Game/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige'
+[2018.04.16-14.30.44:826][793]LoadErrors: Failed to load /Game/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.ML_Plastic_Shiny_Beige Referenced by M_UE4Man_Body
+[2018.04.16-14.30.44:826][793]LogLinker: Warning: Can't find file for asset '/Game/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige' while loading NULL.
+[2018.04.16-14.30.44:826][793]LogLinker: Warning: Can't find file '/Game/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO'
+[2018.04.16-14.30.44:826][793]LoadErrors: Failed to load /Game/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.ML_Plastic_Shiny_Beige_LOGO Referenced by M_UE4Man_Body
+[2018.04.16-14.30.44:826][793]LogLinker: Warning: Can't find file for asset '/Game/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO' while loading NULL.
+[2018.04.16-14.30.44:826][793]LogLinker: Warning: Can't find file '/Game/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige'
+[2018.04.16-14.30.44:826][793]LoadErrors: Failed to load /Game/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.ML_Plastic_Shiny_Beige Referenced by MaterialExpressionMaterialFunctionCall_13
+[2018.04.16-14.30.44:826][793]LogLinker: Warning: Can't find file for asset '/Game/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige' while loading NULL.
+[2018.04.16-14.30.44:827][793]LogLinker: Warning: Can't find file '/Game/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO'
+[2018.04.16-14.30.44:827][793]LoadErrors: Failed to load /Game/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.ML_Plastic_Shiny_Beige_LOGO Referenced by MaterialExpressionMaterialFunctionCall_3
+[2018.04.16-14.30.44:827][793]LogLinker: Warning: Can't find file for asset '/Game/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO' while loading NULL.
+[2018.04.16-14.30.44:827][793]LogLinker: Warning: Can't find file '/Game/Mannequin/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4'
+[2018.04.16-14.30.44:827][793]LoadErrors: Failed to load /Game/Mannequin/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.ML_GlossyBlack_Latex_UE4 Referenced by MaterialExpressionMaterialFunctionCall_8
+[2018.04.16-14.30.44:827][793]LogLinker: Warning: Can't find file for asset '/Game/Mannequin/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4' while loading NULL.
+[2018.04.16-14.30.44:827][793]LogLinker: Warning: Can't find file '/Game/Mannequin/Character/Materials/MaterialLayers/ML_SoftMetal_UE4'
+[2018.04.16-14.30.44:827][793]LoadErrors: Failed to load /Game/Mannequin/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.ML_SoftMetal_UE4 Referenced by MaterialExpressionMaterialFunctionCall_9
+[2018.04.16-14.30.44:828][793]LogLinker: Warning: Can't find file for asset '/Game/Mannequin/Character/Materials/MaterialLayers/ML_SoftMetal_UE4' while loading NULL.
+[2018.04.16-14.30.44:828][793]LogLinker: Warning: Can't find file '/Game/Mannequin/Character/Textures/UE4_Mannequin_MAT_MASKA'
+[2018.04.16-14.30.44:828][793]LoadErrors: Failed to load /Game/Mannequin/Character/Textures/UE4_Mannequin_MAT_MASKA.UE4_Mannequin_MAT_MASKA Referenced by MaterialExpressionTextureSample_4
+[2018.04.16-14.30.44:828][793]LogLinker: Warning: Can't find file for asset '/Game/Mannequin/Character/Textures/UE4_Mannequin_MAT_MASKA' while loading NULL.
+[2018.04.16-14.30.44:828][793]LogLinker: Warning: Can't find file '/Game/Mannequin/Character/Textures/UE4_Mannequin__normals'
+[2018.04.16-14.30.44:828][793]LoadErrors: Failed to load /Game/Mannequin/Character/Textures/UE4_Mannequin__normals.UE4_Mannequin__normals Referenced by MaterialExpressionTextureSampleParameter2D_0
+[2018.04.16-14.30.44:828][793]LogLinker: Warning: Can't find file for asset '/Game/Mannequin/Character/Textures/UE4_Mannequin__normals' while loading NULL.
+[2018.04.16-14.30.44:850][793]LogLinker: Warning: Can't find file '/Game/Mannequin/Character/Materials/M_UE4Man_Body'
+[2018.04.16-14.30.44:850][793]LoadErrors: Failed to load /Game/Mannequin/Character/Materials/M_UE4Man_Body.M_UE4Man_Body Referenced by M_UE4Man_ChestLogo
+[2018.04.16-14.30.44:850][793]LogLinker: Warning: Can't find file for asset '/Game/Mannequin/Character/Materials/M_UE4Man_Body' while loading NULL.
+[2018.04.16-14.30.44:850][793]LogLinker: Warning: Can't find file '/Game/Mannequin/Character/Textures/UE4Man_Logo_N'
+[2018.04.16-14.30.44:850][793]LoadErrors: Failed to load /Game/Mannequin/Character/Textures/UE4Man_Logo_N.UE4Man_Logo_N Referenced by M_UE4Man_ChestLogo
+[2018.04.16-14.30.44:850][793]LogLinker: Warning: Can't find file for asset '/Game/Mannequin/Character/Textures/UE4Man_Logo_N' while loading NULL.
+[2018.04.16-14.30.44:876][793]LogMaterial: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2018.04.16-14.30.44:900][793]LogMaterial: Warning: D:\eion resp\backup\Eion\Content\thirdpersonreference\Mannequin\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.04.16-14.30.44:900][793]LogMaterial: 	Missing Material Function
+[2018.04.16-14.30.44:900][793]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2018.04.16-14.30.44:900][793]LogMaterial: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2018.04.16-14.30.44:900][793]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.04.16-14.30.44:900][793]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2018.04.16-14.30.44:900][793]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2018.04.16-14.30.44:900][793]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2018.04.16-14.30.44:900][793]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2018.04.16-14.30.44:912][793]LogSkeletalMesh: Skeletal Mesh found in DDC [11.395076ms] /Game/thirdpersonreference/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2018.04.16-14.30.55:878][960]BlueprintLog: New page: Compile AI_TPC
+[2018.04.16-14.30.55:888][960]LogBlueprint: Error: [Compiler AI_TPC] Could not find a function named "removeplayerHP" in 'AI_TPC_C'.
+Make sure 'AI_TPC_C' has been compiled for  Removeplayer HP
+[2018.04.16-14.30.56:087][960]LogBlueprint: Warning: [Compiler AI_TPC] [0313.48] Compile of AI_TPC failed. 1 Fatal Issue(s) 0 Warning(s) [in 209 ms] (/Game/blueprints/AI_TPC.AI_TPC)
+[2018.04.16-14.31.05:257][ 32]BlueprintLog: New page: Compile AI_TPC
+[2018.04.16-14.31.07:207][233]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.16-14.31.07:225][233]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.16-14.31.07:242][233]PIE: New page: PIE session: Untitled_1 (Apr 16, 2018, 8:31:07 PM)
+[2018.04.16-14.31.07:242][233]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2018.04.16-14.31.07:260][233]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017861s)
+[2018.04.16-14.31.07:261][233]LogAIModule: Creating AISystem for world Untitled_1
+[2018.04.16-14.31.07:261][233]LogPlayLevel: PIE: World Init took: (0.000527s)
+[2018.04.16-14.31.07:261][233]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.018508s)
+[2018.04.16-14.31.07:284][233]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.16-14.31.07:290][233]LogInit: FAudioDevice initialized.
+[2018.04.16-14.31.07:390][233]LogLoad: Game class is 'MYGAMEMODE_C'
+[2018.04.16-14.31.07:414][233]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2018.04.16-17.31.07
+[2018.04.16-14.31.07:430][233]LogWorld: Bringing up level for play took: 0.016774
+[2018.04.16-14.31.07:464][233]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0012 seconds. Added 11 classes and 0 folders.
+[2018.04.16-14.31.07:464][233]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.04.16-14.31.07:464][233]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.04.16-14.31.07:464][233]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.04.16-14.31.07:531][233]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.04.16-14.31.07:554][233]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 0.966
+[2018.04.16-14.31.10:024][496]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.16-14.31.12:352][736]LogLinker: Warning: Can't find file '/Game/AI/NewBlueprint'
+[2018.04.16-14.31.12:353][736]LogLinker: Warning: Can't find file for asset '/Game/AI/NewBlueprint' while loading ../../../../../eion resp/backup/Eion/Content/Maps/Untitled.umap.
+[2018.04.16-14.31.12:353][736]LoadErrors: Error: /Game/Maps/Untitled : Can't find file for asset. /Game/AI/NewBlueprint
+[2018.04.16-14.31.12:378][736]LogLinker: Warning: Can't find file '/Game/AI/NewBlueprint'
+[2018.04.16-14.31.12:378][736]LogLinker: Warning: Can't find file for asset '/Game/AI/NewBlueprint' while loading ../../../../../eion resp/backup/Eion/Content/Maps/Untitled.umap.
+[2018.04.16-14.31.12:477][736]LogLinker: Warning: Can't find file '/Game/AI/NewBlueprint'
+[2018.04.16-14.31.12:477][736]LogLinker: Warning: Can't find file for asset '/Game/AI/NewBlueprint' while loading ../../../../../eion resp/backup/Eion/Content/Maps/Untitled.umap.
+[2018.04.16-14.31.12:480][736]LogLinker: Warning: Can't find file '/Game/AI/NewBlueprint'
+[2018.04.16-14.31.12:481][736]LogLinker: Warning: Can't find file for asset '/Game/AI/NewBlueprint' while loading ../../../../../eion resp/backup/Eion/Content/Maps/Untitled.umap.
+[2018.04.16-14.31.12:539][736]LogLinker: Warning: Can't find file '/Game/AI/NewBlueprint'
+[2018.04.16-14.31.12:540][736]LogLinker: Warning: Can't find file for asset '/Game/AI/NewBlueprint' while loading ../../../../../eion resp/backup/Eion/Content/Maps/Untitled.umap.
+[2018.04.16-14.31.12:543][736]LogLinker: Warning: Can't find file '/Game/AI/NewBlueprint'
+[2018.04.16-14.31.12:543][736]LogLinker: Warning: Can't find file for asset '/Game/AI/NewBlueprint' while loading ../../../../../eion resp/backup/Eion/Content/Maps/Untitled.umap.
+[2018.04.16-14.31.12:545][736]LogLinker: Warning: Can't find file '/Game/AI/NewBlueprint'
+[2018.04.16-14.31.12:545][736]LogLinker: Warning: Can't find file for asset '/Game/AI/NewBlueprint' while loading ../../../../../eion resp/backup/Eion/Content/Maps/Untitled.umap.
+[2018.04.16-14.31.12:546][736]LogLinker: Warning: Can't find file '/Game/AI/NewBlueprint'
+[2018.04.16-14.31.12:546][736]LogLinker: Warning: Can't find file for asset '/Game/AI/NewBlueprint' while loading ../../../../../eion resp/backup/Eion/Content/Maps/Untitled.umap.
+[2018.04.16-14.31.12:551][736]LogLinker: Warning: Can't find file '/Game/AI/NewBlueprint'
+[2018.04.16-14.31.12:551][736]LogLinker: Warning: Can't find file for asset '/Game/AI/NewBlueprint' while loading NULL.
+[2018.04.16-14.31.12:551][736]LogLinker: Warning: Can't find file '/Game/AI/NewBlueprint'
+[2018.04.16-14.31.12:552][736]LogLinker: Warning: Can't find file for asset '/Game/AI/NewBlueprint' while loading NULL.
+[2018.04.16-14.31.12:653][736]LogAIModule: Creating AISystem for world Untitled
+[2018.04.16-14.31.14:371][736]LogSlate: Window 'Save Content' being destroyed
+[2018.04.16-14.31.14:480][736]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/blueprints/AI_TPC" FILE="../../../../../eion resp/backup/Eion/Content/blueprints/AI_TPC.uasset" SILENT=true
+[2018.04.16-14.31.14:971][736]LogSavePackage: Save=106.78ms
+[2018.04.16-14.31.14:971][736]LogSavePackage: Moving '../../../../../eion resp/backup/Eion/Saved/AI_TPC1819E660497F8571ADB739922DB95BAB.tmp' to '../../../../../eion resp/backup/Eion/Content/blueprints/AI_TPC.uasset'
+[2018.04.16-14.31.14:974][736]LogSavePackage: Display: Finished SavePackage ../../../../../eion resp/backup/Eion/Content/blueprints/AI_TPC.uasset
+[2018.04.16-14.31.14:985][736]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/blueprints/MYCHARACTER" FILE="../../../../../eion resp/backup/Eion/Content/blueprints/MYCHARACTER.uasset" SILENT=true
+[2018.04.16-14.31.15:062][736]LogSavePackage: Save=66.77ms
+[2018.04.16-14.31.15:062][736]LogSavePackage: Moving '../../../../../eion resp/backup/Eion/Saved/MYCHARACTERE86C19B645443EDBFE40C6A821C7FBCD.tmp' to '../../../../../eion resp/backup/Eion/Content/blueprints/MYCHARACTER.uasset'
+[2018.04.16-14.31.15:065][736]LogSavePackage: Display: Finished SavePackage ../../../../../eion resp/backup/Eion/Content/blueprints/MYCHARACTER.uasset
+[2018.04.16-14.31.15:066][736]Cmd: MAP LOAD FILE="../../../../../eion resp/backup/Eion/Content/Maps/Untitled.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.04.16-14.31.15:066][736]LightingResults: New page: Lighting Build
+[2018.04.16-14.31.15:067][736]LoadErrors: New page: Loading map: Untitled.umap
+[2018.04.16-14.31.15:067][736]MapCheck: New page: Map Check
+[2018.04.16-14.31.15:067][736]LightingResults: New page: Lighting Build
+[2018.04.16-14.31.15:181][736]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.04.16-14.31.15:296][736]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.04.16-14.31.15:356][736]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 59.181ms to complete.
+[2018.04.16-14.31.15:356][736]LogFileHelpers: Loading map 'Untitled' took 0.290
+[2018.04.16-14.31.15:359][736]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Arrow': NewBlueprint_C /Game/Maps/Untitled.Untitled:PersistentLevel.NewBlueprint_410
+[2018.04.16-14.31.15:359][736]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'FollowCamera': NewBlueprint_C /Game/Maps/Untitled.Untitled:PersistentLevel.NewBlueprint_410
+[2018.04.16-14.31.15:359][736]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CollisionCylinder': NewBlueprint_C /Game/Maps/Untitled.Untitled:PersistentLevel.NewBlueprint_410
+[2018.04.16-14.31.15:359][736]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CharMoveComp': NewBlueprint_C /Game/Maps/Untitled.Untitled:PersistentLevel.NewBlueprint_410
+[2018.04.16-14.31.15:359][736]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'PawnSensing': NewBlueprint_C /Game/Maps/Untitled.Untitled:PersistentLevel.NewBlueprint_410
+[2018.04.16-14.31.15:359][736]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CharacterMesh0': NewBlueprint_C /Game/Maps/Untitled.Untitled:PersistentLevel.NewBlueprint_410
+[2018.04.16-14.31.15:359][736]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CameraBoom': NewBlueprint_C /Game/Maps/Untitled.Untitled:PersistentLevel.NewBlueprint_410
+[2018.04.16-14.31.18:731][137]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.16-14.31.18:752][137]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.16-14.31.18:752][137]PIE: New page: PIE session: Untitled (Apr 16, 2018, 8:31:18 PM)
+[2018.04.16-14.31.18:753][137]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Untitled
+[2018.04.16-14.31.18:756][137]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003070s)
+[2018.04.16-14.31.18:756][137]LogAIModule: Creating AISystem for world Untitled
+[2018.04.16-14.31.18:756][137]LogPlayLevel: PIE: World Init took: (0.000559s)
+[2018.04.16-14.31.18:756][137]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Untitled.Untitled to /Game/Maps/UEDPIE_0_Untitled.Untitled (0.003746s)
+[2018.04.16-14.31.18:778][137]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.16-14.31.18:784][137]LogInit: FAudioDevice initialized.
+[2018.04.16-14.31.18:817][137]LogLoad: Game class is 'MYGAMEMODE_C'
+[2018.04.16-14.31.18:818][137]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Untitled.Untitled up for play (max tick rate 0) at 2018.04.16-17.31.18
+[2018.04.16-14.31.18:860][137]LogWorld: Bringing up level for play took: 0.043131
+[2018.04.16-14.31.18:862][137]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.04.16-14.31.18:863][137]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.04.16-14.31.18:863][137]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.04.16-14.31.18:866][137]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.04.16-14.31.18:866][137]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Untitled 0.277
+[2018.04.16-14.31.25:463][908]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.16-14.31.25:655][928]Cmd: MAP LOAD FILE="../../../../../eion resp/backup/Eion/Content/Maps/Untitled.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.04.16-14.31.25:655][928]LightingResults: New page: Lighting Build
+[2018.04.16-14.31.25:655][928]LoadErrors: New page: Loading map: Untitled.umap
+[2018.04.16-14.31.25:656][928]MapCheck: New page: Map Check
+[2018.04.16-14.31.25:656][928]LightingResults: New page: Lighting Build
+[2018.04.16-14.31.25:675][928]LogLinker: Warning: Can't find file '/Game/AI/NewBlueprint'
+[2018.04.16-14.31.25:675][928]LogLinker: Warning: Can't find file for asset '/Game/AI/NewBlueprint' while loading ../../../../../eion resp/backup/Eion/Content/Maps/Untitled.umap.
+[2018.04.16-14.31.25:675][928]LoadErrors: Error: /Game/Maps/Untitled : Can't find file for asset. /Game/AI/NewBlueprint
+[2018.04.16-14.31.25:685][928]LogLinker: Warning: Can't find file '/Game/AI/NewBlueprint'
+[2018.04.16-14.31.25:685][928]LogLinker: Warning: Can't find file for asset '/Game/AI/NewBlueprint' while loading ../../../../../eion resp/backup/Eion/Content/Maps/Untitled.umap.
+[2018.04.16-14.31.25:686][928]LogLinker: Warning: Can't find file '/Game/AI/NewBlueprint'
+[2018.04.16-14.31.25:686][928]LogLinker: Warning: Can't find file for asset '/Game/AI/NewBlueprint' while loading ../../../../../eion resp/backup/Eion/Content/Maps/Untitled.umap.
+[2018.04.16-14.31.25:687][928]LogLinker: Warning: Can't find file '/Game/AI/NewBlueprint'
+[2018.04.16-14.31.25:687][928]LogLinker: Warning: Can't find file for asset '/Game/AI/NewBlueprint' while loading ../../../../../eion resp/backup/Eion/Content/Maps/Untitled.umap.
+[2018.04.16-14.31.25:689][928]LogLinker: Warning: Can't find file '/Game/AI/NewBlueprint'
+[2018.04.16-14.31.25:689][928]LogLinker: Warning: Can't find file for asset '/Game/AI/NewBlueprint' while loading ../../../../../eion resp/backup/Eion/Content/Maps/Untitled.umap.
+[2018.04.16-14.31.25:690][928]LogLinker: Warning: Can't find file '/Game/AI/NewBlueprint'
+[2018.04.16-14.31.25:690][928]LogLinker: Warning: Can't find file for asset '/Game/AI/NewBlueprint' while loading ../../../../../eion resp/backup/Eion/Content/Maps/Untitled.umap.
+[2018.04.16-14.31.25:690][928]LogLinker: Warning: Can't find file '/Game/AI/NewBlueprint'
+[2018.04.16-14.31.25:690][928]LogLinker: Warning: Can't find file for asset '/Game/AI/NewBlueprint' while loading ../../../../../eion resp/backup/Eion/Content/Maps/Untitled.umap.
+[2018.04.16-14.31.25:690][928]LogLinker: Warning: Can't find file '/Game/AI/NewBlueprint'
+[2018.04.16-14.31.25:690][928]LogLinker: Warning: Can't find file for asset '/Game/AI/NewBlueprint' while loading ../../../../../eion resp/backup/Eion/Content/Maps/Untitled.umap.
+[2018.04.16-14.31.25:692][928]LogLinker: Warning: Can't find file '/Game/AI/NewBlueprint'
+[2018.04.16-14.31.25:692][928]LogLinker: Warning: Can't find file for asset '/Game/AI/NewBlueprint' while loading NULL.
+[2018.04.16-14.31.25:692][928]LogLinker: Warning: Can't find file '/Game/AI/NewBlueprint'
+[2018.04.16-14.31.25:692][928]LogLinker: Warning: Can't find file for asset '/Game/AI/NewBlueprint' while loading NULL.
+[2018.04.16-14.31.25:702][928]LogAIModule: Creating AISystem for world Untitled
+[2018.04.16-14.31.25:781][928]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.04.16-14.31.25:848][928]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.04.16-14.31.25:896][928]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 47.473ms to complete.
+[2018.04.16-14.31.25:898][928]LogFileHelpers: Loading map 'Untitled' took 0.244
+[2018.04.16-14.31.25:899][928]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Arrow': NewBlueprint_C /Game/Maps/Untitled.Untitled:PersistentLevel.NewBlueprint_410
+[2018.04.16-14.31.25:899][928]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'FollowCamera': NewBlueprint_C /Game/Maps/Untitled.Untitled:PersistentLevel.NewBlueprint_410
+[2018.04.16-14.31.25:899][928]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CollisionCylinder': NewBlueprint_C /Game/Maps/Untitled.Untitled:PersistentLevel.NewBlueprint_410
+[2018.04.16-14.31.25:899][928]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CharMoveComp': NewBlueprint_C /Game/Maps/Untitled.Untitled:PersistentLevel.NewBlueprint_410
+[2018.04.16-14.31.25:899][928]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'PawnSensing': NewBlueprint_C /Game/Maps/Untitled.Untitled:PersistentLevel.NewBlueprint_410
+[2018.04.16-14.31.25:899][928]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CharacterMesh0': NewBlueprint_C /Game/Maps/Untitled.Untitled:PersistentLevel.NewBlueprint_410
+[2018.04.16-14.31.25:900][928]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CameraBoom': NewBlueprint_C /Game/Maps/Untitled.Untitled:PersistentLevel.NewBlueprint_410
+[2018.04.16-14.31.28:739][265]LogSlate: Window 'Message Log' being destroyed
+[2018.04.16-14.31.28:743][265]LogSlate: Window 'Message Log' being destroyed
+[2018.04.16-14.31.30:244][363]LogLinker: Warning: Can't find file '/Game/Maps/2_BuiltData'
+[2018.04.16-14.31.30:244][363]LogLinker: Warning: Can't find file for asset '/Game/Maps/2_BuiltData' while loading ../../../../../eion resp/backup/Eion/Content/Maps/2.umap.
+[2018.04.16-14.31.30:244][363]LoadErrors: Error: /Game/Maps/2 : Can't find file for asset. /Game/Maps/2_BuiltData
+[2018.04.16-14.31.30:247][363]LogLinker: Warning: Can't find file '/Game/Maps/2_BuiltData'
+[2018.04.16-14.31.30:247][363]LogLinker: Warning: Can't find file for asset '/Game/Maps/2_BuiltData' while loading ../../../../../eion resp/backup/Eion/Content/Maps/2.umap.
+[2018.04.16-14.31.30:282][363]LogLinker: Warning: Can't find file '/Game/Maps/2_BuiltData'
+[2018.04.16-14.31.30:282][363]LoadErrors: Failed to load /Game/Maps/2_BuiltData.2_BuiltData Referenced by PersistentLevel
+[2018.04.16-14.31.30:282][363]LogLinker: Warning: Can't find file for asset '/Game/Maps/2_BuiltData' while loading NULL.
+[2018.04.16-14.31.30:298][363]LogSkeletalMesh: Skeletal Mesh found in DDC [12.329656ms] /Game/mobs/wolf/wolf_ready.wolf_ready
+[2018.04.16-14.31.30:354][363]LogAIModule: Creating AISystem for world 2
+[2018.04.16-14.31.30:383][363]Cmd: MAP LOAD FILE="../../../../../eion resp/backup/Eion/Content/Maps/2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.04.16-14.31.30:383][363]LightingResults: New page: Lighting Build
+[2018.04.16-14.31.30:384][363]LoadErrors: New page: Loading map: 2.umap
+[2018.04.16-14.31.30:384][363]MapCheck: New page: Map Check
+[2018.04.16-14.31.30:384][363]LightingResults: New page: Lighting Build
+[2018.04.16-14.31.30:525][363]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.04.16-14.31.30:567][363]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.04.16-14.31.30:617][363]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 50.105ms to complete.
+[2018.04.16-14.31.30:617][363]LogFileHelpers: Loading map '2' took 0.235
+[2018.04.16-14.31.34:107][743]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.16-14.31.36:040][960]LogAIModule: Creating AISystem for world start
+[2018.04.16-14.31.36:062][960]Cmd: MAP LOAD FILE="../../../../../eion resp/backup/Eion/Content/voxel/start.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.04.16-14.31.36:062][960]LightingResults: New page: Lighting Build
+[2018.04.16-14.31.36:062][960]LoadErrors: New page: Loading map: start.umap
+[2018.04.16-14.31.36:063][960]MapCheck: New page: Map Check
+[2018.04.16-14.31.36:063][960]LightingResults: New page: Lighting Build
+[2018.04.16-14.31.36:202][960]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.04.16-14.31.36:244][960]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.04.16-14.31.36:316][960]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 72.536ms to complete.
+[2018.04.16-14.31.36:317][960]LogFileHelpers: Loading map 'start' took 0.256
+[2018.04.16-14.31.39:191][269]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.16-14.31.39:258][277]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.16-14.31.39:277][277]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.16-14.31.39:278][277]PIE: New page: PIE session: start (Apr 16, 2018, 8:31:39 PM)
+[2018.04.16-14.31.39:278][277]LogPlayLevel: Creating play world package: /Game/voxel/UEDPIE_0_start
+[2018.04.16-14.31.39:281][277]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003276s)
+[2018.04.16-14.31.39:281][277]LogAIModule: Creating AISystem for world start
+[2018.04.16-14.31.39:281][277]LogPlayLevel: PIE: World Init took: (0.000528s)
+[2018.04.16-14.31.39:282][277]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/voxel/start.start to /Game/voxel/UEDPIE_0_start.start (0.003906s)
+[2018.04.16-14.31.39:304][277]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.16-14.31.39:309][277]LogInit: FAudioDevice initialized.
+[2018.04.16-14.31.39:339][277]LogLoad: Game class is 'MYGAMEMODE_C'
+[2018.04.16-14.31.39:341][277]LogWorld: Bringing World /Game/voxel/UEDPIE_0_start.start up for play (max tick rate 0) at 2018.04.16-17.31.39
+[2018.04.16-14.31.39:341][277]LogWorld: Bringing up level for play took: 0.001341
+[2018.04.16-14.31.39:341][277]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.04.16-14.31.39:341][277]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.04.16-14.31.39:342][277]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.04.16-14.31.39:342][277]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.04.16-14.31.39:342][277]PIE: Play in editor start time for /Game/voxel/UEDPIE_0_start 0.754
+[2018.04.16-14.32.07:104][595]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.16-14.32.09:114][810]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0009 seconds. Added 1 classes and 2 folders.
+[2018.04.16-14.32.09:838][810]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.04.16-14.32.09:907][810]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0008 seconds. Added 1 classes and 0 folders.
+[2018.04.16-14.32.11:160][810]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0004 seconds. Added 1 classes and 0 folders.
+[2018.04.16-14.32.27:502][534]BlueprintLog: New page: Compile MYCHARACTER
+[2018.04.16-14.32.29:612][744]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.16-14.32.29:628][744]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.16-14.32.29:629][744]PIE: New page: PIE session: start (Apr 16, 2018, 8:32:29 PM)
+[2018.04.16-14.32.29:629][744]LogPlayLevel: Creating play world package: /Game/voxel/UEDPIE_0_start
+[2018.04.16-14.32.29:631][744]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002421s)
+[2018.04.16-14.32.29:632][744]LogAIModule: Creating AISystem for world start
+[2018.04.16-14.32.29:632][744]LogPlayLevel: PIE: World Init took: (0.000560s)
+[2018.04.16-14.32.29:632][744]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/voxel/start.start to /Game/voxel/UEDPIE_0_start.start (0.003078s)
+[2018.04.16-14.32.29:674][744]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.16-14.32.29:680][744]LogInit: FAudioDevice initialized.
+[2018.04.16-14.32.29:717][744]LogLoad: Game class is 'MYGAMEMODE_C'
+[2018.04.16-14.32.29:722][744]LogWorld: Bringing World /Game/voxel/UEDPIE_0_start.start up for play (max tick rate 0) at 2018.04.16-17.32.29
+[2018.04.16-14.32.29:724][744]LogWorld: Bringing up level for play took: 0.003956
+[2018.04.16-14.32.29:725][744]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.04.16-14.32.29:725][744]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.04.16-14.32.29:725][744]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.04.16-14.32.29:727][744]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.04.16-14.32.29:727][744]PIE: Play in editor start time for /Game/voxel/UEDPIE_0_start -0.862
+[2018.04.16-14.33.22:844][475]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.16-14.33.25:405][758]LogSlate: Took 0.033047 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.04.16-14.33.36:426][664]BlueprintLog: New page: Compile MYCHARACTER
+[2018.04.16-14.33.36:458][664]LogClass: Warning: Type mismatch in MaxHP of MYCHARACTER_C - Previous (BoolProperty) Current(IntProperty) for package:  FObjectReader
+[2018.04.16-14.33.38:384][853]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.16-14.33.56:167][675]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/materials/textures/dirt" FILE="../../../../../eion resp/backup/Eion/Content/materials/textures/dirt.uasset" SILENT=true
+[2018.04.16-14.33.56:182][675]LogSavePackage: Save=13.53ms
+[2018.04.16-14.33.56:182][675]LogSavePackage: Moving '../../../../../eion resp/backup/Eion/Saved/dirtF638D2374C81CF67A8D5DCAEB195CFF8.tmp' to '../../../../../eion resp/backup/Eion/Content/materials/textures/dirt.uasset'
+[2018.04.16-14.33.56:185][675]LogSavePackage: Display: Finished SavePackage ../../../../../eion resp/backup/Eion/Content/materials/textures/dirt.uasset
+[2018.04.16-14.33.56:335][675]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/materials/dirt" FILE="../../../../../eion resp/backup/Eion/Content/materials/dirt.uasset" SILENT=true
+[2018.04.16-14.33.56:347][675]LogSavePackage: Save=3.17ms
+[2018.04.16-14.33.56:347][675]LogSavePackage: Moving '../../../../../eion resp/backup/Eion/Saved/dirt7F494FB34C4C521EE66CB3AE535934B1.tmp' to '../../../../../eion resp/backup/Eion/Content/materials/dirt.uasset'
+[2018.04.16-14.33.56:371][675]LogSavePackage: Display: Finished SavePackage ../../../../../eion resp/backup/Eion/Content/materials/dirt.uasset
+[2018.04.16-14.33.56:381][675]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/materials/textures/grass" FILE="../../../../../eion resp/backup/Eion/Content/materials/textures/grass.uasset" SILENT=true
+[2018.04.16-14.33.56:406][675]LogSavePackage: Save=23.44ms
+[2018.04.16-14.33.56:406][675]LogSavePackage: Moving '../../../../../eion resp/backup/Eion/Saved/grass813B60F24645F29D85DC32BD07958A6F.tmp' to '../../../../../eion resp/backup/Eion/Content/materials/textures/grass.uasset'
+[2018.04.16-14.33.56:409][675]LogSavePackage: Display: Finished SavePackage ../../../../../eion resp/backup/Eion/Content/materials/textures/grass.uasset
+[2018.04.16-14.33.56:528][675]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/materials/grass" FILE="../../../../../eion resp/backup/Eion/Content/materials/grass.uasset" SILENT=true
+[2018.04.16-14.33.56:542][675]LogSavePackage: Save=3.33ms
+[2018.04.16-14.33.56:542][675]LogSavePackage: Moving '../../../../../eion resp/backup/Eion/Saved/grass12C4FF6B4B6A5FF3831630A83854C206.tmp' to '../../../../../eion resp/backup/Eion/Content/materials/grass.uasset'
+[2018.04.16-14.33.56:544][675]LogSavePackage: Display: Finished SavePackage ../../../../../eion resp/backup/Eion/Content/materials/grass.uasset
+[2018.04.16-14.33.56:556][675]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/materials/textures/mud" FILE="../../../../../eion resp/backup/Eion/Content/materials/textures/mud.uasset" SILENT=true
+[2018.04.16-14.33.56:572][675]LogSavePackage: Save=13.68ms
+[2018.04.16-14.33.56:572][675]LogSavePackage: Moving '../../../../../eion resp/backup/Eion/Saved/mudCDC9AF264E50B50F125068BEE6F4CBE7.tmp' to '../../../../../eion resp/backup/Eion/Content/materials/textures/mud.uasset'
+[2018.04.16-14.33.56:575][675]LogSavePackage: Display: Finished SavePackage ../../../../../eion resp/backup/Eion/Content/materials/textures/mud.uasset
+[2018.04.16-14.33.56:685][675]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/materials/mud" FILE="../../../../../eion resp/backup/Eion/Content/materials/mud.uasset" SILENT=true
+[2018.04.16-14.33.56:697][675]LogSavePackage: Save=3.43ms
+[2018.04.16-14.33.56:697][675]LogSavePackage: Moving '../../../../../eion resp/backup/Eion/Saved/mudBE705922453AA44A04CB139936D05F96.tmp' to '../../../../../eion resp/backup/Eion/Content/materials/mud.uasset'
+[2018.04.16-14.33.56:725][675]LogSavePackage: Display: Finished SavePackage ../../../../../eion resp/backup/Eion/Content/materials/mud.uasset
+[2018.04.16-14.33.56:737][675]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/materials/textures/sand" FILE="../../../../../eion resp/backup/Eion/Content/materials/textures/sand.uasset" SILENT=true
+[2018.04.16-14.33.56:756][675]LogSavePackage: Save=17.10ms
+[2018.04.16-14.33.56:756][675]LogSavePackage: Moving '../../../../../eion resp/backup/Eion/Saved/sandFAA0809E4A1B0CA7C6028AA79CB7E276.tmp' to '../../../../../eion resp/backup/Eion/Content/materials/textures/sand.uasset'
+[2018.04.16-14.33.56:758][675]LogSavePackage: Display: Finished SavePackage ../../../../../eion resp/backup/Eion/Content/materials/textures/sand.uasset
+[2018.04.16-14.33.56:891][675]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/materials/sand" FILE="../../../../../eion resp/backup/Eion/Content/materials/sand.uasset" SILENT=true
+[2018.04.16-14.33.56:904][675]LogSavePackage: Save=4.23ms
+[2018.04.16-14.33.56:904][675]LogSavePackage: Moving '../../../../../eion resp/backup/Eion/Saved/sandEBC27B514BDE61DD70CB0DBC84CC1817.tmp' to '../../../../../eion resp/backup/Eion/Content/materials/sand.uasset'
+[2018.04.16-14.33.56:906][675]LogSavePackage: Display: Finished SavePackage ../../../../../eion resp/backup/Eion/Content/materials/sand.uasset
+[2018.04.16-14.33.56:917][675]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/materials/textures/stone" FILE="../../../../../eion resp/backup/Eion/Content/materials/textures/stone.uasset" SILENT=true
+[2018.04.16-14.33.56:932][675]LogSavePackage: Save=13.39ms
+[2018.04.16-14.33.56:932][675]LogSavePackage: Moving '../../../../../eion resp/backup/Eion/Saved/stone60D3244B4D74B84A50ED1F919235C145.tmp' to '../../../../../eion resp/backup/Eion/Content/materials/textures/stone.uasset'
+[2018.04.16-14.33.56:935][675]LogSavePackage: Display: Finished SavePackage ../../../../../eion resp/backup/Eion/Content/materials/textures/stone.uasset
+[2018.04.16-14.33.57:087][675]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/materials/stone" FILE="../../../../../eion resp/backup/Eion/Content/materials/stone.uasset" SILENT=true
+[2018.04.16-14.33.57:098][675]LogSavePackage: Save=3.42ms
+[2018.04.16-14.33.57:099][675]LogSavePackage: Moving '../../../../../eion resp/backup/Eion/Saved/stone2E0EFED441C5922CCC9582914EC924D6.tmp' to '../../../../../eion resp/backup/Eion/Content/materials/stone.uasset'
+[2018.04.16-14.33.57:102][675]LogSavePackage: Display: Finished SavePackage ../../../../../eion resp/backup/Eion/Content/materials/stone.uasset
+[2018.04.16-14.33.57:115][675]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/materials/textures/wood" FILE="../../../../../eion resp/backup/Eion/Content/materials/textures/wood.uasset" SILENT=true
+[2018.04.16-14.33.57:138][675]LogSavePackage: Save=21.42ms
+[2018.04.16-14.33.57:138][675]LogSavePackage: Moving '../../../../../eion resp/backup/Eion/Saved/wood371F347F4596808659D48AB3CE78405A.tmp' to '../../../../../eion resp/backup/Eion/Content/materials/textures/wood.uasset'
+[2018.04.16-14.33.57:141][675]LogSavePackage: Display: Finished SavePackage ../../../../../eion resp/backup/Eion/Content/materials/textures/wood.uasset
+[2018.04.16-14.33.57:261][675]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/materials/wood" FILE="../../../../../eion resp/backup/Eion/Content/materials/wood.uasset" SILENT=true
+[2018.04.16-14.33.57:273][675]LogSavePackage: Save=3.68ms
+[2018.04.16-14.33.57:273][675]LogSavePackage: Moving '../../../../../eion resp/backup/Eion/Saved/wood7C2C086B4F42C51DD499E08948224B3F.tmp' to '../../../../../eion resp/backup/Eion/Content/materials/wood.uasset'
+[2018.04.16-14.33.57:275][675]LogSavePackage: Display: Finished SavePackage ../../../../../eion resp/backup/Eion/Content/materials/wood.uasset
+[2018.04.16-14.33.58:134][675]LogMaterial: Missing cached shader map for material dirt, compiling. 
+[2018.04.16-14.33.58:269][675]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.04.16-14.33.58:270][675]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.04.16-14.33.58:270][675]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.04.16-14.33.58:270][675]LogMaterial: Missing cached shader map for material grass, compiling. 
+[2018.04.16-14.33.58:318][675]LogMaterial: Missing cached shader map for material mud, compiling. 
+[2018.04.16-14.33.58:351][675]LogMaterial: Missing cached shader map for material sand, compiling. 
+[2018.04.16-14.33.58:373][675]LogShaderCompilers: Display: Shaders left to compile 66
+[2018.04.16-14.33.58:373][675]LogMaterial: Missing cached shader map for material stone, compiling. 
+[2018.04.16-14.33.58:626][675]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Voxel/TriplanarFunctions/OptimizedTriplanarProjection' is not a standard unreal filename or a long path name. Reason: Path does not start with a valid root. Path must begin with: '/Engine/', '/Game/', '/Paper2D/', '/CryptoKeys/', '/DatasmithContent/', '/MediaCompositing/', '/AppleARKit/', '/OculusVR/', '/SteamVR/', '/Config/', '/Script/', '/Memory/', or '/Temp/'
+[2018.04.16-14.33.58:626][675]LogLinker: Warning: Can't find file '/Voxel/TriplanarFunctions/OptimizedTriplanarProjection'
+[2018.04.16-14.33.58:626][675]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Voxel/TriplanarFunctions/OptimizedTriplanarProjection' is not a standard unreal filename or a long path name. Reason: Path does not start with a valid root. Path must begin with: '/Engine/', '/Game/', '/Paper2D/', '/CryptoKeys/', '/DatasmithContent/', '/MediaCompositing/', '/AppleARKit/', '/OculusVR/', '/SteamVR/', '/Config/', '/Script/', '/Memory/', or '/Temp/'
+[2018.04.16-14.33.58:626][675]LogLinker: Warning: Can't find file for asset '/Voxel/TriplanarFunctions/OptimizedTriplanarProjection' while loading ../../../../../eion resp/backup/Eion/Content/materials/voxel_materials/voxel_grass.uasset.
+[2018.04.16-14.33.58:626][675]LoadErrors: Error: /Game/materials/voxel_materials/voxel_grass : Can't find file for asset. /Voxel/TriplanarFunctions/OptimizedTriplanarProjection
+[2018.04.16-14.33.58:627][675]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Voxel/TriplanarFunctions/OptimizedTriplanarProjection' is not a standard unreal filename or a long path name. Reason: Path does not start with a valid root. Path must begin with: '/Engine/', '/Game/', '/Paper2D/', '/CryptoKeys/', '/DatasmithContent/', '/MediaCompositing/', '/AppleARKit/', '/OculusVR/', '/SteamVR/', '/Config/', '/Script/', '/Memory/', or '/Temp/'
+[2018.04.16-14.33.58:627][675]LogLinker: Warning: Can't find file '/Voxel/TriplanarFunctions/OptimizedTriplanarProjection'
+[2018.04.16-14.33.58:627][675]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Voxel/TriplanarFunctions/OptimizedTriplanarProjection' is not a standard unreal filename or a long path name. Reason: Path does not start with a valid root. Path must begin with: '/Engine/', '/Game/', '/Paper2D/', '/CryptoKeys/', '/DatasmithContent/', '/MediaCompositing/', '/AppleARKit/', '/OculusVR/', '/SteamVR/', '/Config/', '/Script/', '/Memory/', or '/Temp/'
+[2018.04.16-14.33.58:627][675]LogLinker: Warning: Can't find file for asset '/Voxel/TriplanarFunctions/OptimizedTriplanarProjection' while loading ../../../../../eion resp/backup/Eion/Content/materials/voxel_materials/voxel_grass.uasset.
+[2018.04.16-14.33.58:628][675]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Voxel/TriplanarFunctions/OptimizedTriplanarProjection' is not a standard unreal filename or a long path name. Reason: Path does not start with a valid root. Path must begin with: '/Engine/', '/Game/', '/Paper2D/', '/CryptoKeys/', '/DatasmithContent/', '/MediaCompositing/', '/AppleARKit/', '/OculusVR/', '/SteamVR/', '/Config/', '/Script/', '/Memory/', or '/Temp/'
+[2018.04.16-14.33.58:628][675]LogLinker: Warning: Can't find file '/Voxel/TriplanarFunctions/OptimizedTriplanarProjection'
+[2018.04.16-14.33.58:628][675]LoadErrors: Failed to load /Voxel/TriplanarFunctions/OptimizedTriplanarProjection.OptimizedTriplanarProjection Referenced by voxel_grass
+[2018.04.16-14.33.58:628][675]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Voxel/TriplanarFunctions/OptimizedTriplanarProjection' is not a standard unreal filename or a long path name. Reason: Path does not start with a valid root. Path must begin with: '/Engine/', '/Game/', '/Paper2D/', '/CryptoKeys/', '/DatasmithContent/', '/MediaCompositing/', '/AppleARKit/', '/OculusVR/', '/SteamVR/', '/Config/', '/Script/', '/Memory/', or '/Temp/'
+[2018.04.16-14.33.58:628][675]LogLinker: Warning: Can't find file for asset '/Voxel/TriplanarFunctions/OptimizedTriplanarProjection' while loading NULL.
+[2018.04.16-14.33.58:628][675]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Voxel/TriplanarFunctions/OptimizedTriplanarProjection' is not a standard unreal filename or a long path name. Reason: Path does not start with a valid root. Path must begin with: '/Engine/', '/Game/', '/Paper2D/', '/CryptoKeys/', '/DatasmithContent/', '/MediaCompositing/', '/AppleARKit/', '/OculusVR/', '/SteamVR/', '/Config/', '/Script/', '/Memory/', or '/Temp/'
+[2018.04.16-14.33.58:628][675]LogLinker: Warning: Can't find file '/Voxel/TriplanarFunctions/OptimizedTriplanarProjection'
+[2018.04.16-14.33.58:628][675]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Voxel/TriplanarFunctions/OptimizedTriplanarProjection' is not a standard unreal filename or a long path name. Reason: Path does not start with a valid root. Path must begin with: '/Engine/', '/Game/', '/Paper2D/', '/CryptoKeys/', '/DatasmithContent/', '/MediaCompositing/', '/AppleARKit/', '/OculusVR/', '/SteamVR/', '/Config/', '/Script/', '/Memory/', or '/Temp/'
+[2018.04.16-14.33.58:628][675]LogLinker: Warning: Can't find file for asset '/Voxel/TriplanarFunctions/OptimizedTriplanarProjection' while loading NULL.
+[2018.04.16-14.33.58:628][675]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Voxel/TriplanarFunctions/OptimizedTriplanarProjection' is not a standard unreal filename or a long path name. Reason: Path does not start with a valid root. Path must begin with: '/Engine/', '/Game/', '/Paper2D/', '/CryptoKeys/', '/DatasmithContent/', '/MediaCompositing/', '/AppleARKit/', '/OculusVR/', '/SteamVR/', '/Config/', '/Script/', '/Memory/', or '/Temp/'
+[2018.04.16-14.33.58:628][675]LogLinker: Warning: Can't find file '/Voxel/TriplanarFunctions/OptimizedTriplanarProjection'
+[2018.04.16-14.33.58:629][675]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Voxel/TriplanarFunctions/OptimizedTriplanarProjection' is not a standard unreal filename or a long path name. Reason: Path does not start with a valid root. Path must begin with: '/Engine/', '/Game/', '/Paper2D/', '/CryptoKeys/', '/DatasmithContent/', '/MediaCompositing/', '/AppleARKit/', '/OculusVR/', '/SteamVR/', '/Config/', '/Script/', '/Memory/', or '/Temp/'
+[2018.04.16-14.33.58:629][675]LogLinker: Warning: Can't find file for asset '/Voxel/TriplanarFunctions/OptimizedTriplanarProjection' while loading NULL.
+[2018.04.16-14.33.58:629][675]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Voxel/TriplanarFunctions/OptimizedTriplanarProjection' is not a standard unreal filename or a long path name. Reason: Path does not start with a valid root. Path must begin with: '/Engine/', '/Game/', '/Paper2D/', '/CryptoKeys/', '/DatasmithContent/', '/MediaCompositing/', '/AppleARKit/', '/OculusVR/', '/SteamVR/', '/Config/', '/Script/', '/Memory/', or '/Temp/'
+[2018.04.16-14.33.58:629][675]LogLinker: Warning: Can't find file '/Voxel/TriplanarFunctions/OptimizedTriplanarProjection'
+[2018.04.16-14.33.58:629][675]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Voxel/TriplanarFunctions/OptimizedTriplanarProjection' is not a standard unreal filename or a long path name. Reason: Path does not start with a valid root. Path must begin with: '/Engine/', '/Game/', '/Paper2D/', '/CryptoKeys/', '/DatasmithContent/', '/MediaCompositing/', '/AppleARKit/', '/OculusVR/', '/SteamVR/', '/Config/', '/Script/', '/Memory/', or '/Temp/'
+[2018.04.16-14.33.58:629][675]LogLinker: Warning: Can't find file for asset '/Voxel/TriplanarFunctions/OptimizedTriplanarProjection' while loading NULL.
+[2018.04.16-14.33.58:629][675]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Voxel/TriplanarFunctions/OptimizedTriplanarProjection' is not a standard unreal filename or a long path name. Reason: Path does not start with a valid root. Path must begin with: '/Engine/', '/Game/', '/Paper2D/', '/CryptoKeys/', '/DatasmithContent/', '/MediaCompositing/', '/AppleARKit/', '/OculusVR/', '/SteamVR/', '/Config/', '/Script/', '/Memory/', or '/Temp/'
+[2018.04.16-14.33.58:629][675]LogLinker: Warning: Can't find file '/Voxel/TriplanarFunctions/OptimizedTriplanarProjection'
+[2018.04.16-14.33.58:629][675]LoadErrors: Failed to load /Voxel/TriplanarFunctions/OptimizedTriplanarProjection.OptimizedTriplanarProjection Referenced by MaterialExpressionMaterialFunctionCall_0
+[2018.04.16-14.33.58:629][675]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Voxel/TriplanarFunctions/OptimizedTriplanarProjection' is not a standard unreal filename or a long path name. Reason: Path does not start with a valid root. Path must begin with: '/Engine/', '/Game/', '/Paper2D/', '/CryptoKeys/', '/DatasmithContent/', '/MediaCompositing/', '/AppleARKit/', '/OculusVR/', '/SteamVR/', '/Config/', '/Script/', '/Memory/', or '/Temp/'
+[2018.04.16-14.33.58:629][675]LogLinker: Warning: Can't find file for asset '/Voxel/TriplanarFunctions/OptimizedTriplanarProjection' while loading NULL.
+[2018.04.16-14.33.58:629][675]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Voxel/TriplanarFunctions/OptimizedTriplanarProjection' is not a standard unreal filename or a long path name. Reason: Path does not start with a valid root. Path must begin with: '/Engine/', '/Game/', '/Paper2D/', '/CryptoKeys/', '/DatasmithContent/', '/MediaCompositing/', '/AppleARKit/', '/OculusVR/', '/SteamVR/', '/Config/', '/Script/', '/Memory/', or '/Temp/'
+[2018.04.16-14.33.58:629][675]LogLinker: Warning: Can't find file '/Voxel/TriplanarFunctions/OptimizedTriplanarProjection'
+[2018.04.16-14.33.58:629][675]LoadErrors: Failed to load /Voxel/TriplanarFunctions/OptimizedTriplanarProjection.OptimizedTriplanarProjection Referenced by MaterialExpressionMaterialFunctionCall_3
+[2018.04.16-14.33.58:629][675]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Voxel/TriplanarFunctions/OptimizedTriplanarProjection' is not a standard unreal filename or a long path name. Reason: Path does not start with a valid root. Path must begin with: '/Engine/', '/Game/', '/Paper2D/', '/CryptoKeys/', '/DatasmithContent/', '/MediaCompositing/', '/AppleARKit/', '/OculusVR/', '/SteamVR/', '/Config/', '/Script/', '/Memory/', or '/Temp/'
+[2018.04.16-14.33.58:629][675]LogLinker: Warning: Can't find file for asset '/Voxel/TriplanarFunctions/OptimizedTriplanarProjection' while loading NULL.
+[2018.04.16-14.33.58:629][675]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Voxel/TriplanarFunctions/OptimizedTriplanarProjection' is not a standard unreal filename or a long path name. Reason: Path does not start with a valid root. Path must begin with: '/Engine/', '/Game/', '/Paper2D/', '/CryptoKeys/', '/DatasmithContent/', '/MediaCompositing/', '/AppleARKit/', '/OculusVR/', '/SteamVR/', '/Config/', '/Script/', '/Memory/', or '/Temp/'
+[2018.04.16-14.33.58:629][675]LogLinker: Warning: Can't find file '/Voxel/TriplanarFunctions/OptimizedTriplanarProjection'
+[2018.04.16-14.33.58:629][675]LoadErrors: Failed to load /Voxel/TriplanarFunctions/OptimizedTriplanarProjection.OptimizedTriplanarProjection Referenced by MaterialExpressionMaterialFunctionCall_4
+[2018.04.16-14.33.58:629][675]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Voxel/TriplanarFunctions/OptimizedTriplanarProjection' is not a standard unreal filename or a long path name. Reason: Path does not start with a valid root. Path must begin with: '/Engine/', '/Game/', '/Paper2D/', '/CryptoKeys/', '/DatasmithContent/', '/MediaCompositing/', '/AppleARKit/', '/OculusVR/', '/SteamVR/', '/Config/', '/Script/', '/Memory/', or '/Temp/'
+[2018.04.16-14.33.58:629][675]LogLinker: Warning: Can't find file for asset '/Voxel/TriplanarFunctions/OptimizedTriplanarProjection' while loading NULL.
+[2018.04.16-14.33.58:630][675]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Voxel/TriplanarFunctions/OptimizedTriplanarProjection' is not a standard unreal filename or a long path name. Reason: Path does not start with a valid root. Path must begin with: '/Engine/', '/Game/', '/Paper2D/', '/CryptoKeys/', '/DatasmithContent/', '/MediaCompositing/', '/AppleARKit/', '/OculusVR/', '/SteamVR/', '/Config/', '/Script/', '/Memory/', or '/Temp/'
+[2018.04.16-14.33.58:630][675]LogLinker: Warning: Can't find file '/Voxel/TriplanarFunctions/OptimizedTriplanarProjection'
+[2018.04.16-14.33.58:630][675]LoadErrors: Failed to load /Voxel/TriplanarFunctions/OptimizedTriplanarProjection.OptimizedTriplanarProjection Referenced by MaterialExpressionMaterialFunctionCall_5
+[2018.04.16-14.33.58:630][675]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Voxel/TriplanarFunctions/OptimizedTriplanarProjection' is not a standard unreal filename or a long path name. Reason: Path does not start with a valid root. Path must begin with: '/Engine/', '/Game/', '/Paper2D/', '/CryptoKeys/', '/DatasmithContent/', '/MediaCompositing/', '/AppleARKit/', '/OculusVR/', '/SteamVR/', '/Config/', '/Script/', '/Memory/', or '/Temp/'
+[2018.04.16-14.33.58:630][675]LogLinker: Warning: Can't find file for asset '/Voxel/TriplanarFunctions/OptimizedTriplanarProjection' while loading NULL.
+[2018.04.16-14.33.58:632][675]LogMaterial: Missing cached shader map for material voxel_grass, compiling. 
+[2018.04.16-14.33.58:632][675]LogMaterial: Warning: D:\eion resp\backup\Eion\Content\materials\voxel_materials\voxel_grass.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.04.16-14.33.58:632][675]LogMaterial: 	Missing Material Function
+[2018.04.16-14.33.58:830][675]LogMaterial: Missing cached shader map for material wood, compiling. 
+[2018.04.16-14.33.59:624][675]LogShaderCompilers: Display: Shaders left to compile 100
+[2018.04.16-14.33.59:835][675]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/materials/textures/dirt/PlainSoil_Roughness" FILE="../../../../../eion resp/backup/Eion/Content/materials/textures/dirt/PlainSoil_Roughness.uasset" SILENT=true
+[2018.04.16-14.33.59:930][675]LogSavePackage: Save=93.26ms
+[2018.04.16-14.33.59:931][675]LogSavePackage: Moving '../../../../../eion resp/backup/Eion/Saved/PlainSoil_RoughnessF4D8B2894C4BDD548A82ABA7CCE3FD2C.tmp' to '../../../../../eion resp/backup/Eion/Content/materials/textures/dirt/PlainSoil_Roughness.uasset'
+[2018.04.16-14.33.59:935][675]LogSavePackage: Display: Finished SavePackage ../../../../../eion resp/backup/Eion/Content/materials/textures/dirt/PlainSoil_Roughness.uasset
+[2018.04.16-14.34.00:324][675]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/materials/dirt/PlainSoil_Roughness" FILE="../../../../../eion resp/backup/Eion/Content/materials/dirt/PlainSoil_Roughness.uasset" SILENT=true
+[2018.04.16-14.34.00:342][675]LogSavePackage: Save=4.15ms
+[2018.04.16-14.34.00:342][675]LogSavePackage: Moving '../../../../../eion resp/backup/Eion/Saved/PlainSoil_Roughness743F49924690D639D2DE7BBFAE3841A5.tmp' to '../../../../../eion resp/backup/Eion/Content/materials/dirt/PlainSoil_Roughness.uasset'
+[2018.04.16-14.34.00:345][675]LogSavePackage: Display: Finished SavePackage ../../../../../eion resp/backup/Eion/Content/materials/dirt/PlainSoil_Roughness.uasset
+[2018.04.16-14.34.00:358][675]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/materials/textures/dirt/PlainSoil_Normal" FILE="../../../../../eion resp/backup/Eion/Content/materials/textures/dirt/PlainSoil_Normal.uasset" SILENT=true
+[2018.04.16-14.34.00:449][675]LogSavePackage: Save=89.79ms
+[2018.04.16-14.34.00:449][675]LogSavePackage: Moving '../../../../../eion resp/backup/Eion/Saved/PlainSoil_Normal3C3327B14E6A6C04726DB9A1314E67B6.tmp' to '../../../../../eion resp/backup/Eion/Content/materials/textures/dirt/PlainSoil_Normal.uasset'
+[2018.04.16-14.34.00:453][675]LogSavePackage: Display: Finished SavePackage ../../../../../eion resp/backup/Eion/Content/materials/textures/dirt/PlainSoil_Normal.uasset
+[2018.04.16-14.34.00:800][675]LogShaderCompilers: Display: Shaders left to compile 90
+[2018.04.16-14.34.00:821][675]LogShaderCompilers: Display: Shaders left to compile 80
+[2018.04.16-14.34.00:970][675]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/materials/dirt/PlainSoil_Normal" FILE="../../../../../eion resp/backup/Eion/Content/materials/dirt/PlainSoil_Normal.uasset" SILENT=true
+[2018.04.16-14.34.01:020][675]LogSavePackage: Save=16.88ms
+[2018.04.16-14.34.01:020][675]LogSavePackage: Moving '../../../../../eion resp/backup/Eion/Saved/PlainSoil_Normal21F5FBD1470CC511E53694A60AB742ED.tmp' to '../../../../../eion resp/backup/Eion/Content/materials/dirt/PlainSoil_Normal.uasset'
+[2018.04.16-14.34.01:040][675]LogSavePackage: Display: Finished SavePackage ../../../../../eion resp/backup/Eion/Content/materials/dirt/PlainSoil_Normal.uasset
+[2018.04.16-14.34.01:053][675]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/materials/textures/dirt/PlainSoil_Albedo" FILE="../../../../../eion resp/backup/Eion/Content/materials/textures/dirt/PlainSoil_Albedo.uasset" SILENT=true
+[2018.04.16-14.34.01:145][675]LogSavePackage: Save=89.52ms
+[2018.04.16-14.34.01:145][675]LogSavePackage: Moving '../../../../../eion resp/backup/Eion/Saved/PlainSoil_Albedo1F4D05C94E77BD4F5907ADB5F5D53D86.tmp' to '../../../../../eion resp/backup/Eion/Content/materials/textures/dirt/PlainSoil_Albedo.uasset'
+[2018.04.16-14.34.01:148][675]LogSavePackage: Display: Finished SavePackage ../../../../../eion resp/backup/Eion/Content/materials/textures/dirt/PlainSoil_Albedo.uasset
+[2018.04.16-14.34.01:541][675]LogShaderCompilers: Display: Shaders left to compile 70
+[2018.04.16-14.34.01:644][675]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/materials/dirt/PlainSoil_Albedo" FILE="../../../../../eion resp/backup/Eion/Content/materials/dirt/PlainSoil_Albedo.uasset" SILENT=true
+[2018.04.16-14.34.01:696][675]LogSavePackage: Save=6.20ms
+[2018.04.16-14.34.01:696][675]LogSavePackage: Moving '../../../../../eion resp/backup/Eion/Saved/PlainSoil_AlbedoFF47D9FE4DC4F76C9F992CB71ABA2E47.tmp' to '../../../../../eion resp/backup/Eion/Content/materials/dirt/PlainSoil_Albedo.uasset'
+[2018.04.16-14.34.01:700][675]LogSavePackage: Display: Finished SavePackage ../../../../../eion resp/backup/Eion/Content/materials/dirt/PlainSoil_Albedo.uasset
+[2018.04.16-14.34.01:910][675]LogShaderCompilers: Display: Shaders left to compile 60
+[2018.04.16-14.34.02:070][675]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.04.16-14.34.02:993][675]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.04.16-14.34.03:080][675]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.04.16-14.34.03:963][675]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.04.16-14.34.03:963][675]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.04.16-14.34.04:280][675]LogSavePackage: Save=153.00ms
+[2018.04.16-14.34.04:280][675]LogSavePackage: Moving '../../../../../eion resp/backup/Eion/Saved/MetallicGrass01_Roughness08E345B5471370C73AC56289FF9B94C0.tmp' to '../../../../../eion resp/backup/Eion/Content/materials/textures/grass/MetallicGrass01_Roughness.uasset'
+[2018.04.16-14.34.04:284][675]LogSavePackage: Display: Finished SavePackage ../../../../../eion resp/backup/Eion/Content/materials/textures/grass/MetallicGrass01_Roughness.uasset
+[2018.04.16-14.34.04:949][675]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/materials/grass/MetallicGrass01_Roughness" FILE="../../../../../eion resp/backup/Eion/Content/materials/grass/MetallicGrass01_Roughness.uasset" SILENT=true
+[2018.04.16-14.34.05:006][675]LogSavePackage: Save=23.44ms
+[2018.04.16-14.34.05:006][675]LogSavePackage: Moving '../../../../../eion resp/backup/Eion/Saved/MetallicGrass01_Roughness8E7CC6FA421D1B33D8A1559DB12D9376.tmp' to '../../../../../eion resp/backup/Eion/Content/materials/grass/MetallicGrass01_Roughness.uasset'
+[2018.04.16-14.34.05:010][675]LogSavePackage: Display: Finished SavePackage ../../../../../eion resp/backup/Eion/Content/materials/grass/MetallicGrass01_Roughness.uasset
+[2018.04.16-14.34.05:025][675]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/materials/textures/grass/MetallicGrass01_Normal" FILE="../../../../../eion resp/backup/Eion/Content/materials/textures/grass/MetallicGrass01_Normal.uasset" SILENT=true
+[2018.04.16-14.34.05:246][675]LogSavePackage: Save=217.81ms
+[2018.04.16-14.34.05:246][675]LogSavePackage: Moving '../../../../../eion resp/backup/Eion/Saved/MetallicGrass01_Normal4ADB90074E15176098C96496023B5D3F.tmp' to '../../../../../eion resp/backup/Eion/Content/materials/textures/grass/MetallicGrass01_Normal.uasset'
+[2018.04.16-14.34.05:248][675]LogSavePackage: Display: Finished SavePackage ../../../../../eion resp/backup/Eion/Content/materials/textures/grass/MetallicGrass01_Normal.uasset
+[2018.04.16-14.34.06:248][675]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/materials/grass/MetallicGrass01_Normal" FILE="../../../../../eion resp/backup/Eion/Content/materials/grass/MetallicGrass01_Normal.uasset" SILENT=true
+[2018.04.16-14.34.06:307][675]LogSavePackage: Save=6.98ms
+[2018.04.16-14.34.06:307][675]LogSavePackage: Moving '../../../../../eion resp/backup/Eion/Saved/MetallicGrass01_Normal0BE96C614D2AC2C18C2E02AC11A43013.tmp' to '../../../../../eion resp/backup/Eion/Content/materials/grass/MetallicGrass01_Normal.uasset'
+[2018.04.16-14.34.06:314][675]LogSavePackage: Display: Finished SavePackage ../../../../../eion resp/backup/Eion/Content/materials/grass/MetallicGrass01_Normal.uasset
+[2018.04.16-14.34.06:466][675]LogSavePackage: Save=119.40ms
+[2018.04.16-14.34.06:466][675]LogSavePackage: Moving '../../../../../eion resp/backup/Eion/Saved/MetallicGrass01_Metalness532361FC49FB66F467B7AC8211FBAFAE.tmp' to '../../../../../eion resp/backup/Eion/Content/materials/textures/grass/MetallicGrass01_Metalness.uasset'
+[2018.04.16-14.34.06:468][675]LogSavePackage: Display: Finished SavePackage ../../../../../eion resp/backup/Eion/Content/materials/textures/grass/MetallicGrass01_Metalness.uasset
+[2018.04.16-14.34.07:089][675]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/materials/grass/MetallicGrass01_Metalness" FILE="../../../../../eion resp/backup/Eion/Content/materials/grass/MetallicGrass01_Metalness.uasset" SILENT=true
+[2018.04.16-14.34.07:170][675]LogSavePackage: Save=21.99ms
+[2018.04.16-14.34.07:171][675]LogSavePackage: Moving '../../../../../eion resp/backup/Eion/Saved/MetallicGrass01_MetalnessE598EE2F44D3094402B83A9454D4A02C.tmp' to '../../../../../eion resp/backup/Eion/Content/materials/grass/MetallicGrass01_Metalness.uasset'
+[2018.04.16-14.34.07:180][675]LogSavePackage: Display: Finished SavePackage ../../../../../eion resp/backup/Eion/Content/materials/grass/MetallicGrass01_Metalness.uasset
+[2018.04.16-14.34.07:212][675]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/materials/textures/grass/MetallicGrass01_Albedo" FILE="../../../../../eion resp/backup/Eion/Content/materials/textures/grass/MetallicGrass01_Albedo.uasset" SILENT=true
+[2018.04.16-14.34.07:372][675]LogSavePackage: Save=154.69ms
+[2018.04.16-14.34.07:372][675]LogSavePackage: Moving '../../../../../eion resp/backup/Eion/Saved/MetallicGrass01_AlbedoD78DC79B4F851424F253BA9E1F9B062E.tmp' to '../../../../../eion resp/backup/Eion/Content/materials/textures/grass/MetallicGrass01_Albedo.uasset'
+[2018.04.16-14.34.07:374][675]LogSavePackage: Display: Finished SavePackage ../../../../../eion resp/backup/Eion/Content/materials/textures/grass/MetallicGrass01_Albedo.uasset
+[2018.04.16-14.34.08:091][675]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/materials/grass/MetallicGrass01_Albedo" FILE="../../../../../eion resp/backup/Eion/Content/materials/grass/MetallicGrass01_Albedo.uasset" SILENT=true
+[2018.04.16-14.34.08:138][675]LogSavePackage: Save=17.88ms
+[2018.04.16-14.34.08:138][675]LogSavePackage: Moving '../../../../../eion resp/backup/Eion/Saved/MetallicGrass01_AlbedoF701527042B89E00E9AE4391B9EC01DF.tmp' to '../../../../../eion resp/backup/Eion/Content/materials/grass/MetallicGrass01_Albedo.uasset'
+[2018.04.16-14.34.08:142][675]LogSavePackage: Display: Finished SavePackage ../../../../../eion resp/backup/Eion/Content/materials/grass/MetallicGrass01_Albedo.uasset
+[2018.04.16-14.34.11:390][675]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/materials/textures/mud/PlainMud_Roughness" FILE="../../../../../eion resp/backup/Eion/Content/materials/textures/mud/PlainMud_Roughness.uasset" SILENT=true
+[2018.04.16-14.34.11:483][675]LogSavePackage: Save=92.48ms
+[2018.04.16-14.34.11:483][675]LogSavePackage: Moving '../../../../../eion resp/backup/Eion/Saved/PlainMud_Roughness0C5B216744EF0D9DEF851CB1572245A4.tmp' to '../../../../../eion resp/backup/Eion/Content/materials/textures/mud/PlainMud_Roughness.uasset'
+[2018.04.16-14.34.11:486][675]LogSavePackage: Display: Finished SavePackage ../../../../../eion resp/backup/Eion/Content/materials/textures/mud/PlainMud_Roughness.uasset
+[2018.04.16-14.34.11:841][675]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/materials/mud/PlainMud_Roughness" FILE="../../../../../eion resp/backup/Eion/Content/materials/mud/PlainMud_Roughness.uasset" SILENT=true
+[2018.04.16-14.34.11:882][675]LogSavePackage: Save=15.10ms
+[2018.04.16-14.34.11:882][675]LogSavePackage: Moving '../../../../../eion resp/backup/Eion/Saved/PlainMud_RoughnessDB28C02D48BEFDDCBA161EAD59C5C0D4.tmp' to '../../../../../eion resp/backup/Eion/Content/materials/mud/PlainMud_Roughness.uasset'
+[2018.04.16-14.34.11:895][675]LogSavePackage: Display: Finished SavePackage ../../../../../eion resp/backup/Eion/Content/materials/mud/PlainMud_Roughness.uasset
+[2018.04.16-14.34.11:908][675]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/materials/textures/mud/PlainMud_Normal" FILE="../../../../../eion resp/backup/Eion/Content/materials/textures/mud/PlainMud_Normal.uasset" SILENT=true
+[2018.04.16-14.34.12:033][675]LogSavePackage: Save=123.58ms
+[2018.04.16-14.34.12:033][675]LogSavePackage: Moving '../../../../../eion resp/backup/Eion/Saved/PlainMud_Normal6B05C10844F10354BD89E0B35BF42B10.tmp' to '../../../../../eion resp/backup/Eion/Content/materials/textures/mud/PlainMud_Normal.uasset'
+[2018.04.16-14.34.12:036][675]LogSavePackage: Display: Finished SavePackage ../../../../../eion resp/backup/Eion/Content/materials/textures/mud/PlainMud_Normal.uasset
+[2018.04.16-14.34.12:636][675]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/materials/mud/PlainMud_Normal" FILE="../../../../../eion resp/backup/Eion/Content/materials/mud/PlainMud_Normal.uasset" SILENT=true
+[2018.04.16-14.34.12:678][675]LogSavePackage: Save=3.82ms
+[2018.04.16-14.34.12:678][675]LogSavePackage: Moving '../../../../../eion resp/backup/Eion/Saved/PlainMud_Normal43F38E47488D07383D4DC5926F0030FA.tmp' to '../../../../../eion resp/backup/Eion/Content/materials/mud/PlainMud_Normal.uasset'
+[2018.04.16-14.34.12:681][675]LogSavePackage: Display: Finished SavePackage ../../../../../eion resp/backup/Eion/Content/materials/mud/PlainMud_Normal.uasset
+[2018.04.16-14.34.12:691][675]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/materials/textures/mud/PlainMud_Albedo" FILE="../../../../../eion resp/backup/Eion/Content/materials/textures/mud/PlainMud_Albedo.uasset" SILENT=true
+[2018.04.16-14.34.12:763][675]LogSavePackage: Save=70.42ms
+[2018.04.16-14.34.12:763][675]LogSavePackage: Moving '../../../../../eion resp/backup/Eion/Saved/PlainMud_Albedo83E278FB4EEA08BA4F938EA377916402.tmp' to '../../../../../eion resp/backup/Eion/Content/materials/textures/mud/PlainMud_Albedo.uasset'
+[2018.04.16-14.34.12:766][675]LogSavePackage: Display: Finished SavePackage ../../../../../eion resp/backup/Eion/Content/materials/textures/mud/PlainMud_Albedo.uasset
+[2018.04.16-14.34.13:130][675]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/materials/mud/PlainMud_Albedo" FILE="../../../../../eion resp/backup/Eion/Content/materials/mud/PlainMud_Albedo.uasset" SILENT=true
+[2018.04.16-14.34.13:145][675]LogSavePackage: Save=3.60ms
+[2018.04.16-14.34.13:145][675]LogSavePackage: Moving '../../../../../eion resp/backup/Eion/Saved/PlainMud_AlbedoA4BFED8A4FE7251C9D350B8DC5FBC08D.tmp' to '../../../../../eion resp/backup/Eion/Content/materials/mud/PlainMud_Albedo.uasset'
+[2018.04.16-14.34.13:148][675]LogSavePackage: Display: Finished SavePackage ../../../../../eion resp/backup/Eion/Content/materials/mud/PlainMud_Albedo.uasset
+[2018.04.16-14.34.15:555][675]LogSavePackage: Save=97.85ms
+[2018.04.16-14.34.15:555][675]LogSavePackage: Moving '../../../../../eion resp/backup/Eion/Saved/PlainBeachSand_Roughness47BBA215423A5D151A41CE93EC85C456.tmp' to '../../../../../eion resp/backup/Eion/Content/materials/textures/sand/PlainBeachSand_Roughness.uasset'
+[2018.04.16-14.34.15:557][675]LogSavePackage: Display: Finished SavePackage ../../../../../eion resp/backup/Eion/Content/materials/textures/sand/PlainBeachSand_Roughness.uasset
+[2018.04.16-14.34.16:002][675]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/materials/sand/PlainBeachSand_Roughness" FILE="../../../../../eion resp/backup/Eion/Content/materials/sand/PlainBeachSand_Roughness.uasset" SILENT=true
+[2018.04.16-14.34.16:043][675]LogSavePackage: Save=21.15ms
+[2018.04.16-14.34.16:043][675]LogSavePackage: Moving '../../../../../eion resp/backup/Eion/Saved/PlainBeachSand_Roughness9DD036D449F48F6A145C1B9B8C618C84.tmp' to '../../../../../eion resp/backup/Eion/Content/materials/sand/PlainBeachSand_Roughness.uasset'
+[2018.04.16-14.34.16:063][675]LogSavePackage: Display: Finished SavePackage ../../../../../eion resp/backup/Eion/Content/materials/sand/PlainBeachSand_Roughness.uasset
+[2018.04.16-14.34.16:073][675]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/materials/textures/sand/PlainBeachSand_Normal" FILE="../../../../../eion resp/backup/Eion/Content/materials/textures/sand/PlainBeachSand_Normal.uasset" SILENT=true
+[2018.04.16-14.34.16:201][675]LogSavePackage: Save=126.97ms
+[2018.04.16-14.34.16:201][675]LogSavePackage: Moving '../../../../../eion resp/backup/Eion/Saved/PlainBeachSand_NormalC8F868F44A64AFBBF67E7D99CF4A64A3.tmp' to '../../../../../eion resp/backup/Eion/Content/materials/textures/sand/PlainBeachSand_Normal.uasset'
+[2018.04.16-14.34.16:203][675]LogSavePackage: Display: Finished SavePackage ../../../../../eion resp/backup/Eion/Content/materials/textures/sand/PlainBeachSand_Normal.uasset
+[2018.04.16-14.34.16:990][675]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/materials/sand/PlainBeachSand_Normal" FILE="../../../../../eion resp/backup/Eion/Content/materials/sand/PlainBeachSand_Normal.uasset" SILENT=true
+[2018.04.16-14.34.17:028][675]LogSavePackage: Save=14.15ms
+[2018.04.16-14.34.17:028][675]LogSavePackage: Moving '../../../../../eion resp/backup/Eion/Saved/PlainBeachSand_NormalE60421B14E9F64DE045E08B5D18B9B62.tmp' to '../../../../../eion resp/backup/Eion/Content/materials/sand/PlainBeachSand_Normal.uasset'
+[2018.04.16-14.34.17:031][675]LogSavePackage: Display: Finished SavePackage ../../../../../eion resp/backup/Eion/Content/materials/sand/PlainBeachSand_Normal.uasset
+[2018.04.16-14.34.17:040][675]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/materials/textures/sand/PlainBeachSand_Albedo" FILE="../../../../../eion resp/backup/Eion/Content/materials/textures/sand/PlainBeachSand_Albedo.uasset" SILENT=true
+[2018.04.16-14.34.17:169][675]LogSavePackage: Save=127.94ms
+[2018.04.16-14.34.17:169][675]LogSavePackage: Moving '../../../../../eion resp/backup/Eion/Saved/PlainBeachSand_Albedo7ADDA81348D76CB98A53D9B44B30A378.tmp' to '../../../../../eion resp/backup/Eion/Content/materials/textures/sand/PlainBeachSand_Albedo.uasset'
+[2018.04.16-14.34.17:172][675]LogSavePackage: Display: Finished SavePackage ../../../../../eion resp/backup/Eion/Content/materials/textures/sand/PlainBeachSand_Albedo.uasset
+[2018.04.16-14.34.17:943][675]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/materials/sand/PlainBeachSand_Albedo" FILE="../../../../../eion resp/backup/Eion/Content/materials/sand/PlainBeachSand_Albedo.uasset" SILENT=true
+[2018.04.16-14.34.17:990][675]LogSavePackage: Save=4.80ms
+[2018.04.16-14.34.17:990][675]LogSavePackage: Moving '../../../../../eion resp/backup/Eion/Saved/PlainBeachSand_Albedo40C26D2F4923E5FB1FDB6B8B993E9350.tmp' to '../../../../../eion resp/backup/Eion/Content/materials/sand/PlainBeachSand_Albedo.uasset'
+[2018.04.16-14.34.17:994][675]LogSavePackage: Display: Finished SavePackage ../../../../../eion resp/backup/Eion/Content/materials/sand/PlainBeachSand_Albedo.uasset
+[2018.04.16-14.34.20:506][675]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/materials/textures/stone/PlainRock_Roughness" FILE="../../../../../eion resp/backup/Eion/Content/materials/textures/stone/PlainRock_Roughness.uasset" SILENT=true
+[2018.04.16-14.34.20:565][675]LogSavePackage: Save=56.58ms
+[2018.04.16-14.34.20:565][675]LogSavePackage: Moving '../../../../../eion resp/backup/Eion/Saved/PlainRock_RoughnessE7CA82CE497DCD38C935CABB46FD2C69.tmp' to '../../../../../eion resp/backup/Eion/Content/materials/textures/stone/PlainRock_Roughness.uasset'
+[2018.04.16-14.34.20:567][675]LogSavePackage: Display: Finished SavePackage ../../../../../eion resp/backup/Eion/Content/materials/textures/stone/PlainRock_Roughness.uasset
+[2018.04.16-14.34.20:836][675]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/materials/stone/PlainRock_Roughness" FILE="../../../../../eion resp/backup/Eion/Content/materials/stone/PlainRock_Roughness.uasset" SILENT=true
+[2018.04.16-14.34.20:864][675]LogSavePackage: Save=3.35ms
+[2018.04.16-14.34.20:864][675]LogSavePackage: Moving '../../../../../eion resp/backup/Eion/Saved/PlainRock_RoughnessFB47F4B841B1DC1EF3ACF49F534A55BC.tmp' to '../../../../../eion resp/backup/Eion/Content/materials/stone/PlainRock_Roughness.uasset'
+[2018.04.16-14.34.20:866][675]LogSavePackage: Display: Finished SavePackage ../../../../../eion resp/backup/Eion/Content/materials/stone/PlainRock_Roughness.uasset
+[2018.04.16-14.34.20:876][675]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/materials/textures/stone/PlainRock_Normal" FILE="../../../../../eion resp/backup/Eion/Content/materials/textures/stone/PlainRock_Normal.uasset" SILENT=true
+[2018.04.16-14.34.20:962][675]LogSavePackage: Save=83.66ms
+[2018.04.16-14.34.20:962][675]LogSavePackage: Moving '../../../../../eion resp/backup/Eion/Saved/PlainRock_Normal30AD0C59444D5BEEA4D10A9C20BD62E0.tmp' to '../../../../../eion resp/backup/Eion/Content/materials/textures/stone/PlainRock_Normal.uasset'
+[2018.04.16-14.34.20:964][675]LogSavePackage: Display: Finished SavePackage ../../../../../eion resp/backup/Eion/Content/materials/textures/stone/PlainRock_Normal.uasset
+[2018.04.16-14.34.21:350][675]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/materials/stone/PlainRock_Normal" FILE="../../../../../eion resp/backup/Eion/Content/materials/stone/PlainRock_Normal.uasset" SILENT=true
+[2018.04.16-14.34.21:396][675]LogSavePackage: Save=19.05ms
+[2018.04.16-14.34.21:396][675]LogSavePackage: Moving '../../../../../eion resp/backup/Eion/Saved/PlainRock_Normal738080274523972D83F5E1A14475BCA0.tmp' to '../../../../../eion resp/backup/Eion/Content/materials/stone/PlainRock_Normal.uasset'
+[2018.04.16-14.34.21:398][675]LogSavePackage: Display: Finished SavePackage ../../../../../eion resp/backup/Eion/Content/materials/stone/PlainRock_Normal.uasset
+[2018.04.16-14.34.21:407][675]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/materials/textures/stone/PlainRock_Albedo" FILE="../../../../../eion resp/backup/Eion/Content/materials/textures/stone/PlainRock_Albedo.uasset" SILENT=true
+[2018.04.16-14.34.21:467][675]LogSavePackage: Save=58.40ms
+[2018.04.16-14.34.21:467][675]LogSavePackage: Moving '../../../../../eion resp/backup/Eion/Saved/PlainRock_AlbedoFDD469FA4BFB7BC1D39598A174FE6769.tmp' to '../../../../../eion resp/backup/Eion/Content/materials/textures/stone/PlainRock_Albedo.uasset'
+[2018.04.16-14.34.21:469][675]LogSavePackage: Display: Finished SavePackage ../../../../../eion resp/backup/Eion/Content/materials/textures/stone/PlainRock_Albedo.uasset
+[2018.04.16-14.34.21:951][675]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/materials/stone/PlainRock_Albedo" FILE="../../../../../eion resp/backup/Eion/Content/materials/stone/PlainRock_Albedo.uasset" SILENT=true
+[2018.04.16-14.34.21:996][675]LogSavePackage: Save=17.43ms
+[2018.04.16-14.34.21:996][675]LogSavePackage: Moving '../../../../../eion resp/backup/Eion/Saved/PlainRock_AlbedoB490A6CC4AF258956898AFA5F4B3E06C.tmp' to '../../../../../eion resp/backup/Eion/Content/materials/stone/PlainRock_Albedo.uasset'
+[2018.04.16-14.34.21:999][675]LogSavePackage: Display: Finished SavePackage ../../../../../eion resp/backup/Eion/Content/materials/stone/PlainRock_Albedo.uasset
+[2018.04.16-14.34.24:695][675]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/materials/textures/voxel_materials/dirt" FILE="../../../../../eion resp/backup/Eion/Content/materials/textures/voxel_materials/dirt.uasset" SILENT=true
+[2018.04.16-14.34.24:711][675]LogSavePackage: Save=13.77ms
+[2018.04.16-14.34.24:711][675]LogSavePackage: Moving '../../../../../eion resp/backup/Eion/Saved/dirt434E0B174A5E5C224C24C3A68EFC16E9.tmp' to '../../../../../eion resp/backup/Eion/Content/materials/textures/voxel_materials/dirt.uasset'
+[2018.04.16-14.34.24:713][675]LogSavePackage: Display: Finished SavePackage ../../../../../eion resp/backup/Eion/Content/materials/textures/voxel_materials/dirt.uasset
+[2018.04.16-14.34.24:855][675]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/materials/voxel_materials/dirt" FILE="../../../../../eion resp/backup/Eion/Content/materials/voxel_materials/dirt.uasset" SILENT=true
+[2018.04.16-14.34.24:865][675]LogSavePackage: Save=3.52ms
+[2018.04.16-14.34.24:865][675]LogSavePackage: Moving '../../../../../eion resp/backup/Eion/Saved/dirt6B51F6304BB19DD526600188560BD5E0.tmp' to '../../../../../eion resp/backup/Eion/Content/materials/voxel_materials/dirt.uasset'
+[2018.04.16-14.34.24:867][675]LogSavePackage: Display: Finished SavePackage ../../../../../eion resp/backup/Eion/Content/materials/voxel_materials/dirt.uasset
+[2018.04.16-14.34.24:885][675]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/materials/textures/voxel_materials/grass" FILE="../../../../../eion resp/backup/Eion/Content/materials/textures/voxel_materials/grass.uasset" SILENT=true
+[2018.04.16-14.34.24:900][675]LogSavePackage: Save=13.31ms
+[2018.04.16-14.34.24:900][675]LogSavePackage: Moving '../../../../../eion resp/backup/Eion/Saved/grass6B8BB12143459368BD52C1912B5517B6.tmp' to '../../../../../eion resp/backup/Eion/Content/materials/textures/voxel_materials/grass.uasset'
+[2018.04.16-14.34.24:903][675]LogSavePackage: Display: Finished SavePackage ../../../../../eion resp/backup/Eion/Content/materials/textures/voxel_materials/grass.uasset
+[2018.04.16-14.34.25:065][675]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/materials/voxel_materials/grass" FILE="../../../../../eion resp/backup/Eion/Content/materials/voxel_materials/grass.uasset" SILENT=true
+[2018.04.16-14.34.25:073][675]LogSavePackage: Save=3.67ms
+[2018.04.16-14.34.25:073][675]LogSavePackage: Moving '../../../../../eion resp/backup/Eion/Saved/grass572A59C2401764017C370B8994397B23.tmp' to '../../../../../eion resp/backup/Eion/Content/materials/voxel_materials/grass.uasset'
+[2018.04.16-14.34.25:076][675]LogSavePackage: Display: Finished SavePackage ../../../../../eion resp/backup/Eion/Content/materials/voxel_materials/grass.uasset
+[2018.04.16-14.34.25:094][675]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/materials/textures/voxel_materials/mud" FILE="../../../../../eion resp/backup/Eion/Content/materials/textures/voxel_materials/mud.uasset" SILENT=true
+[2018.04.16-14.34.25:129][675]LogSavePackage: Save=33.04ms
+[2018.04.16-14.34.25:129][675]LogSavePackage: Moving '../../../../../eion resp/backup/Eion/Saved/mud925B49574D1785179A2A0584AE33F176.tmp' to '../../../../../eion resp/backup/Eion/Content/materials/textures/voxel_materials/mud.uasset'
+[2018.04.16-14.34.25:132][675]LogSavePackage: Display: Finished SavePackage ../../../../../eion resp/backup/Eion/Content/materials/textures/voxel_materials/mud.uasset
+[2018.04.16-14.34.25:285][675]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/materials/voxel_materials/mud" FILE="../../../../../eion resp/backup/Eion/Content/materials/voxel_materials/mud.uasset" SILENT=true
+[2018.04.16-14.34.25:294][675]LogSavePackage: Save=3.51ms
+[2018.04.16-14.34.25:294][675]LogSavePackage: Moving '../../../../../eion resp/backup/Eion/Saved/mudA390115541E715E97F75DF946183E5AD.tmp' to '../../../../../eion resp/backup/Eion/Content/materials/voxel_materials/mud.uasset'
+[2018.04.16-14.34.25:297][675]LogSavePackage: Display: Finished SavePackage ../../../../../eion resp/backup/Eion/Content/materials/voxel_materials/mud.uasset
+[2018.04.16-14.34.25:315][675]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/materials/textures/voxel_materials/sand" FILE="../../../../../eion resp/backup/Eion/Content/materials/textures/voxel_materials/sand.uasset" SILENT=true
+[2018.04.16-14.34.25:329][675]LogSavePackage: Save=12.43ms
+[2018.04.16-14.34.25:329][675]LogSavePackage: Moving '../../../../../eion resp/backup/Eion/Saved/sand7D5D9EB249A18E1779E55A8E9AA8B088.tmp' to '../../../../../eion resp/backup/Eion/Content/materials/textures/voxel_materials/sand.uasset'
+[2018.04.16-14.34.25:332][675]LogSavePackage: Display: Finished SavePackage ../../../../../eion resp/backup/Eion/Content/materials/textures/voxel_materials/sand.uasset
+[2018.04.16-14.34.25:540][675]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/materials/voxel_materials/sand" FILE="../../../../../eion resp/backup/Eion/Content/materials/voxel_materials/sand.uasset" SILENT=true
+[2018.04.16-14.34.25:554][675]LogSavePackage: Save=8.56ms
+[2018.04.16-14.34.25:554][675]LogSavePackage: Moving '../../../../../eion resp/backup/Eion/Saved/sand22229C9B4C5ACF4A8BAF73B5C4F31017.tmp' to '../../../../../eion resp/backup/Eion/Content/materials/voxel_materials/sand.uasset'
+[2018.04.16-14.34.25:557][675]LogSavePackage: Display: Finished SavePackage ../../../../../eion resp/backup/Eion/Content/materials/voxel_materials/sand.uasset
+[2018.04.16-14.34.25:572][675]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/materials/textures/voxel_materials/stone" FILE="../../../../../eion resp/backup/Eion/Content/materials/textures/voxel_materials/stone.uasset" SILENT=true
+[2018.04.16-14.34.25:587][675]LogSavePackage: Save=12.76ms
+[2018.04.16-14.34.25:587][675]LogSavePackage: Moving '../../../../../eion resp/backup/Eion/Saved/stone5F40D1744CEBFFBDF67EAEBF1AF10FEC.tmp' to '../../../../../eion resp/backup/Eion/Content/materials/textures/voxel_materials/stone.uasset'
+[2018.04.16-14.34.25:589][675]LogSavePackage: Display: Finished SavePackage ../../../../../eion resp/backup/Eion/Content/materials/textures/voxel_materials/stone.uasset
+[2018.04.16-14.34.25:867][675]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/materials/voxel_materials/stone" FILE="../../../../../eion resp/backup/Eion/Content/materials/voxel_materials/stone.uasset" SILENT=true
+[2018.04.16-14.34.25:877][675]LogSavePackage: Save=3.48ms
+[2018.04.16-14.34.25:877][675]LogSavePackage: Moving '../../../../../eion resp/backup/Eion/Saved/stoneCC8E3BA645A131510B558CBFC0E2930F.tmp' to '../../../../../eion resp/backup/Eion/Content/materials/voxel_materials/stone.uasset'
+[2018.04.16-14.34.25:879][675]LogSavePackage: Display: Finished SavePackage ../../../../../eion resp/backup/Eion/Content/materials/voxel_materials/stone.uasset
+[2018.04.16-14.34.25:897][675]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/materials/textures/voxel_materials/voxel_grass" FILE="../../../../../eion resp/backup/Eion/Content/materials/textures/voxel_materials/voxel_grass.uasset" SILENT=true
+[2018.04.16-14.34.25:914][675]LogSavePackage: Save=14.72ms
+[2018.04.16-14.34.25:914][675]LogSavePackage: Moving '../../../../../eion resp/backup/Eion/Saved/voxel_grassAAD6479146AA5C7A6A60F78E2392FDAC.tmp' to '../../../../../eion resp/backup/Eion/Content/materials/textures/voxel_materials/voxel_grass.uasset'
+[2018.04.16-14.34.25:918][675]LogSavePackage: Display: Finished SavePackage ../../../../../eion resp/backup/Eion/Content/materials/textures/voxel_materials/voxel_grass.uasset
+[2018.04.16-14.34.26:069][675]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/materials/voxel_materials/voxel_grass" FILE="../../../../../eion resp/backup/Eion/Content/materials/voxel_materials/voxel_grass.uasset" SILENT=true
+[2018.04.16-14.34.26:115][675]LogSavePackage: Save=37.78ms
+[2018.04.16-14.34.26:115][675]LogSavePackage: Moving '../../../../../eion resp/backup/Eion/Saved/voxel_grass18BE6960417A52130A98D9A99BE63F8F.tmp' to '../../../../../eion resp/backup/Eion/Content/materials/voxel_materials/voxel_grass.uasset'
+[2018.04.16-14.34.26:126][675]LogSavePackage: Display: Finished SavePackage ../../../../../eion resp/backup/Eion/Content/materials/voxel_materials/voxel_grass.uasset
+[2018.04.16-14.34.26:164][675]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/materials/textures/voxel_materials/wood" FILE="../../../../../eion resp/backup/Eion/Content/materials/textures/voxel_materials/wood.uasset" SILENT=true
+[2018.04.16-14.34.26:211][675]LogSavePackage: Save=44.30ms
+[2018.04.16-14.34.26:211][675]LogSavePackage: Moving '../../../../../eion resp/backup/Eion/Saved/wood67D879E64FE7552957B9C4B147EF0C28.tmp' to '../../../../../eion resp/backup/Eion/Content/materials/textures/voxel_materials/wood.uasset'
+[2018.04.16-14.34.26:214][675]LogSavePackage: Display: Finished SavePackage ../../../../../eion resp/backup/Eion/Content/materials/textures/voxel_materials/wood.uasset
+[2018.04.16-14.34.26:386][675]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/materials/voxel_materials/wood" FILE="../../../../../eion resp/backup/Eion/Content/materials/voxel_materials/wood.uasset" SILENT=true
+[2018.04.16-14.34.26:394][675]LogSavePackage: Save=3.31ms
+[2018.04.16-14.34.26:394][675]LogSavePackage: Moving '../../../../../eion resp/backup/Eion/Saved/wood4100A2814836E9C85E0FCE82F02DDC24.tmp' to '../../../../../eion resp/backup/Eion/Content/materials/voxel_materials/wood.uasset'
+[2018.04.16-14.34.26:397][675]LogSavePackage: Display: Finished SavePackage ../../../../../eion resp/backup/Eion/Content/materials/voxel_materials/wood.uasset
+[2018.04.16-14.34.29:929][675]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/materials/textures/wood/TreeBarkOre_RMA" FILE="../../../../../eion resp/backup/Eion/Content/materials/textures/wood/TreeBarkOre_RMA.uasset" SILENT=true
+[2018.04.16-14.34.29:976][675]LogSavePackage: Save=43.97ms
+[2018.04.16-14.34.29:976][675]LogSavePackage: Moving '../../../../../eion resp/backup/Eion/Saved/TreeBarkOre_RMABACDD9B442ECCB0D09109984A69EC63E.tmp' to '../../../../../eion resp/backup/Eion/Content/materials/textures/wood/TreeBarkOre_RMA.uasset'
+[2018.04.16-14.34.29:979][675]LogSavePackage: Display: Finished SavePackage ../../../../../eion resp/backup/Eion/Content/materials/textures/wood/TreeBarkOre_RMA.uasset
+[2018.04.16-14.34.30:219][675]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/materials/wood/TreeBarkOre_RMA" FILE="../../../../../eion resp/backup/Eion/Content/materials/wood/TreeBarkOre_RMA.uasset" SILENT=true
+[2018.04.16-14.34.30:268][675]LogSavePackage: Save=20.01ms
+[2018.04.16-14.34.30:268][675]LogSavePackage: Moving '../../../../../eion resp/backup/Eion/Saved/TreeBarkOre_RMAF86AA104432D9055CD365E92069D9FB5.tmp' to '../../../../../eion resp/backup/Eion/Content/materials/wood/TreeBarkOre_RMA.uasset'
+[2018.04.16-14.34.30:273][675]LogSavePackage: Display: Finished SavePackage ../../../../../eion resp/backup/Eion/Content/materials/wood/TreeBarkOre_RMA.uasset
+[2018.04.16-14.34.30:295][675]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/materials/textures/wood/TreeBarkOre_normal" FILE="../../../../../eion resp/backup/Eion/Content/materials/textures/wood/TreeBarkOre_normal.uasset" SILENT=true
+[2018.04.16-14.34.30:431][675]LogSavePackage: Save=132.98ms
+[2018.04.16-14.34.30:431][675]LogSavePackage: Moving '../../../../../eion resp/backup/Eion/Saved/TreeBarkOre_normal8ED17AAA4870D7F14469289D45D3289A.tmp' to '../../../../../eion resp/backup/Eion/Content/materials/textures/wood/TreeBarkOre_normal.uasset'
+[2018.04.16-14.34.30:433][675]LogSavePackage: Display: Finished SavePackage ../../../../../eion resp/backup/Eion/Content/materials/textures/wood/TreeBarkOre_normal.uasset
+[2018.04.16-14.34.31:097][675]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/materials/wood/TreeBarkOre_normal" FILE="../../../../../eion resp/backup/Eion/Content/materials/wood/TreeBarkOre_normal.uasset" SILENT=true
+[2018.04.16-14.34.31:135][675]LogSavePackage: Save=23.21ms
+[2018.04.16-14.34.31:135][675]LogSavePackage: Moving '../../../../../eion resp/backup/Eion/Saved/TreeBarkOre_normal96A03F0E4B78AFCB5DF28C9186EECCF9.tmp' to '../../../../../eion resp/backup/Eion/Content/materials/wood/TreeBarkOre_normal.uasset'
+[2018.04.16-14.34.31:158][675]LogSavePackage: Display: Finished SavePackage ../../../../../eion resp/backup/Eion/Content/materials/wood/TreeBarkOre_normal.uasset
+[2018.04.16-14.34.31:175][675]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/materials/textures/wood/TreeBarkOre_albedo" FILE="../../../../../eion resp/backup/Eion/Content/materials/textures/wood/TreeBarkOre_albedo.uasset" SILENT=true
+[2018.04.16-14.34.31:338][675]LogSavePackage: Save=158.95ms
+[2018.04.16-14.34.31:338][675]LogSavePackage: Moving '../../../../../eion resp/backup/Eion/Saved/TreeBarkOre_albedoF4A51793468ABB948E56BBA23E680E6C.tmp' to '../../../../../eion resp/backup/Eion/Content/materials/textures/wood/TreeBarkOre_albedo.uasset'
+[2018.04.16-14.34.31:340][675]LogSavePackage: Display: Finished SavePackage ../../../../../eion resp/backup/Eion/Content/materials/textures/wood/TreeBarkOre_albedo.uasset
+[2018.04.16-14.34.32:035][675]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/materials/wood/TreeBarkOre_albedo" FILE="../../../../../eion resp/backup/Eion/Content/materials/wood/TreeBarkOre_albedo.uasset" SILENT=true
+[2018.04.16-14.34.32:084][675]LogSavePackage: Save=16.48ms
+[2018.04.16-14.34.32:084][675]LogSavePackage: Moving '../../../../../eion resp/backup/Eion/Saved/TreeBarkOre_albedoEBAB42FA4EE372D6EA44ABB518419B85.tmp' to '../../../../../eion resp/backup/Eion/Content/materials/wood/TreeBarkOre_albedo.uasset'
+[2018.04.16-14.34.32:087][675]LogSavePackage: Display: Finished SavePackage ../../../../../eion resp/backup/Eion/Content/materials/wood/TreeBarkOre_albedo.uasset
+[2018.04.16-14.34.35:523][868]LogSlate: Window 'Save Content' being destroyed
+[2018.04.16-14.34.35:605][868]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/blueprints/MYCHARACTER" FILE="../../../../../eion resp/backup/Eion/Content/blueprints/MYCHARACTER.uasset" SILENT=true
+[2018.04.16-14.34.35:648][868]LogSavePackage: Save=37.62ms
+[2018.04.16-14.34.35:648][868]LogSavePackage: Moving '../../../../../eion resp/backup/Eion/Saved/MYCHARACTER5A88BE45410718230DA4459184F2B03E.tmp' to '../../../../../eion resp/backup/Eion/Content/blueprints/MYCHARACTER.uasset'
+[2018.04.16-14.34.35:650][868]LogSavePackage: Display: Finished SavePackage ../../../../../eion resp/backup/Eion/Content/blueprints/MYCHARACTER.uasset
+[2018.04.16-14.34.59:278][662]Cmd: ACTOR SELECT ALL
+[2018.04.16-14.35.14:078][137]LogSlate: Window 'Delete Assets' being destroyed
+[2018.04.16-14.35.16:080][368]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.04.16-14.35.16:435][370]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2018.04.16-14.35.16:566][370]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.16-14.35.21:319][927]SourceControl: Source control is disabled
+[2018.04.16-14.35.21:319][927]LogSlate: Window 'Source Control Login' being destroyed
+[2018.04.16-14.35.26:033][470]LogMaterial: Missing cached shader map for material dirt, compiling. 
+[2018.04.16-14.35.26:133][470]LogMaterial: Missing cached shader map for material dirt, compiling. 
+[2018.04.16-14.35.26:140][470]LogMaterial: Missing cached shader map for material dirt, compiling. 
+[2018.04.16-14.35.26:159][470]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.04.16-14.35.26:159][470]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.04.16-14.35.26:159][470]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.04.16-14.35.26:159][470]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.04.16-14.35.26:171][470]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_16, compiling. 
+[2018.04.16-14.35.26:175][470]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_18, compiling. 
+[2018.04.16-14.35.26:179][470]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_17, compiling. 
+[2018.04.16-14.35.26:374][471]LogRenderer: Reallocating scene render targets to support 1220x924 Format 10 NumSamples 1 (Frame:1).
+[2018.04.16-14.35.26:669][493]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.04.16-14.35.26:669][493]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.04.16-14.35.26:682][494]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.04.16-14.35.26:720][497]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.04.16-14.35.26:836][505]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.04.16-14.35.26:836][505]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.04.16-14.35.26:851][506]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.04.16-14.35.27:018][518]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.04.16-14.35.27:032][519]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.04.16-14.35.27:134][527]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.04.16-14.35.27:163][529]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.04.16-14.35.27:206][532]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.04.16-14.35.27:355][543]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.04.16-14.35.27:392][546]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.04.16-14.35.27:405][547]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.04.16-14.35.27:455][551]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.04.16-14.35.27:470][552]MaterialEditorStats: Base pass shader: 110 instructions
+[2018.04.16-14.35.27:470][552]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 183 instructions
+[2018.04.16-14.35.27:470][552]MaterialEditorStats: Vertex shader: 38 instructions
+[2018.04.16-14.35.27:470][552]MaterialEditorStats: Texture samplers: 5/16
+[2018.04.16-14.35.27:470][552]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.04.16-14.35.27:565][558]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.04.16-14.35.27:568][558]LogSlate: Window 'dirt' being destroyed
+[2018.04.16-14.35.27:572][558]LogSlate: Window 'dirt' being destroyed
+[2018.04.16-14.35.27:573][558]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.04.16-14.35.27:621][558]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.04.16-14.35.30:009][794]Cmd: ACTOR SELECT ALL
+[2018.04.16-14.35.52:544][950]LogSlate: Window 'Delete Assets' being destroyed
+[2018.04.16-14.36.05:749][971]LogSlate: Window 'Delete Assets' being destroyed
+[2018.04.16-14.36.13:554][396]LogSlate: Window 'Delete Assets' being destroyed
+[2018.04.16-14.36.19:497][916]Cmd: ACTOR SELECT ALL
+[2018.04.16-14.36.25:539][234]LogSlate: Window 'Delete Assets' being destroyed
+[2018.04.16-14.36.51:257][497]LogMaterial: Missing cached shader map for material circular, compiling. 
+[2018.04.16-14.36.51:301][497]LogMaterial: Missing cached shader map for material circular, compiling. 
+[2018.04.16-14.36.51:309][497]LogMaterial: Missing cached shader map for material circular, compiling. 
+[2018.04.16-14.36.51:332][497]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.04.16-14.36.51:332][497]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.04.16-14.36.51:332][497]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.04.16-14.36.51:332][497]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.04.16-14.36.51:838][540]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.04.16-14.36.51:859][542]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.04.16-14.36.51:868][543]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.04.16-14.36.51:877][544]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.04.16-14.36.51:989][555]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.04.16-14.36.52:022][558]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.04.16-14.36.52:031][559]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.04.16-14.36.52:177][573]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.04.16-14.36.52:213][576]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.04.16-14.36.52:323][586]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.04.16-14.36.52:367][590]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.04.16-14.36.52:408][594]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.04.16-14.36.52:659][619]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.04.16-14.36.52:659][619]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.04.16-14.36.52:659][619]MaterialEditorStats: Vertex shader: 34 instructions
+[2018.04.16-14.36.52:659][619]MaterialEditorStats: Texture samplers: 2/16
+[2018.04.16-14.37.12:145][116]LogMaterial: Missing cached shader map for material circular, compiling. 
+[2018.04.16-14.37.12:164][116]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.04.16-14.37.12:164][116]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.04.16-14.37.12:164][116]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.04.16-14.37.12:164][116]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.04.16-14.37.12:311][128]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.04.16-14.37.12:311][128]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.04.16-14.37.12:351][132]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.04.16-14.37.12:381][135]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.04.16-14.37.12:430][140]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.04.16-14.37.12:440][141]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.04.16-14.37.12:459][143]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.04.16-14.37.12:550][153]MaterialEditorStats: Default UI Pixel Shader: 15 instructions
+[2018.04.16-14.37.12:550][153]MaterialEditorStats: Default UI Vertex Shader: 17 instructions
+[2018.04.16-14.37.12:550][153]MaterialEditorStats: Instanced UI Vertex Shader: 17 instructions
+[2018.04.16-14.37.12:550][153]MaterialEditorStats: Texture samplers: 1/16
+[2018.04.16-14.37.24:081][187]LogMaterial: Missing cached shader map for material circular, compiling. 
+[2018.04.16-14.37.24:111][188]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.04.16-14.37.24:111][188]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.04.16-14.37.24:111][188]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.04.16-14.37.24:111][188]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.04.16-14.37.24:222][199]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.04.16-14.37.24:231][200]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.04.16-14.37.24:281][205]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.04.16-14.37.24:300][207]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.04.16-14.37.24:340][211]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.04.16-14.37.24:350][212]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.04.16-14.37.24:391][216]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.04.16-14.37.25:064][218]MaterialEditorStats: Default UI Pixel Shader: 15 instructions
+[2018.04.16-14.37.25:064][218]MaterialEditorStats: Default UI Vertex Shader: 17 instructions
+[2018.04.16-14.37.25:064][218]MaterialEditorStats: Instanced UI Vertex Shader: 17 instructions
+[2018.04.16-14.37.25:064][218]MaterialEditorStats: Texture samplers: 1/16
+[2018.04.16-14.37.43:289][547]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.04.16-14.37.43:343][548]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.04.16-14.37.43:343][548]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.04.16-14.42.24:459][543]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/voxel/start' took 0.027
+[2018.04.16-14.42.24:679][543]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/materials/HUD_mats/circular] ([1] browsable assets)...
+[2018.04.16-14.42.24:731][543]OBJ SavePackage:     Rendered thumbnail for [Material /Game/materials/HUD_mats/circular.circular]
+[2018.04.16-14.42.24:731][543]OBJ SavePackage: Finished generating thumbnails for package [/Game/materials/HUD_mats/circular]
+[2018.04.16-14.42.24:731][543]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/materials/HUD_mats/circular" FILE="../../../../../eion resp/backup/Eion/Saved/Autosaves/Game/materials/HUD_mats/circular_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.04.16-14.42.24:761][543]LogSavePackage: Save=24.41ms
+[2018.04.16-14.42.24:761][543]LogSavePackage: Moving '../../../../../eion resp/backup/Eion/Saved/circular_Auto18829BF774ABE4F1A2A97A3A81D066E3B.tmp' to '../../../../../eion resp/backup/Eion/Saved/Autosaves/Game/materials/HUD_mats/circular_Auto1.uasset'
+[2018.04.16-14.42.24:762][543]LogSavePackage: Display: Finished SavePackage ../../../../../eion resp/backup/Eion/Saved/Autosaves/Game/materials/HUD_mats/circular_Auto1.uasset
+[2018.04.16-14.42.24:762][543]LogFileHelpers: Auto-saving content packages took 0.302
+[2018.04.16-14.59.58:687][757]LogLinker: Warning: Can't find file '/Game/UForumHelp_DynRadial/MaterialFunctions/MFUN_XYSplit'
+[2018.04.16-14.59.58:687][757]LogLinker: Warning: Can't find file for asset '/Game/UForumHelp_DynRadial/MaterialFunctions/MFUN_XYSplit' while loading ../../../../../eion resp/backup/Eion/Content/materials/HUD_mats/tesy/MaterialFunctions/MFUN_DynRadius.uasset.
+[2018.04.16-14.59.58:687][757]LoadErrors: Error: /Game/materials/HUD_mats/tesy/MaterialFunctions/MFUN_DynRadius : Can't find file for asset. /Game/UForumHelp_DynRadial/MaterialFunctions/MFUN_XYSplit
+[2018.04.16-14.59.58:687][757]LogLinker: Warning: Can't find file '/Game/UForumHelp_DynRadial/MaterialFunctions/MFUN_XYSplit'
+[2018.04.16-14.59.58:687][757]LogLinker: Warning: Can't find file for asset '/Game/UForumHelp_DynRadial/MaterialFunctions/MFUN_XYSplit' while loading ../../../../../eion resp/backup/Eion/Content/materials/HUD_mats/tesy/MaterialFunctions/MFUN_DynRadius.uasset.
+[2018.04.16-14.59.58:689][757]LogLinker: Warning: Can't find file '/Game/UForumHelp_DynRadial/MaterialFunctions/MFUN_XYSplit'
+[2018.04.16-14.59.58:689][757]LoadErrors: Failed to load /Game/UForumHelp_DynRadial/MaterialFunctions/MFUN_XYSplit.MFUN_XYSplit Referenced by MaterialExpressionMaterialFunctionCall_9
+[2018.04.16-14.59.58:689][757]LogLinker: Warning: Can't find file for asset '/Game/UForumHelp_DynRadial/MaterialFunctions/MFUN_XYSplit' while loading NULL.
+[2018.04.16-14.59.58:761][757]LogMaterial: Missing cached shader map for material Material_0, compiling. 
+[2018.04.16-14.59.58:765][757]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.04.16-14.59.58:765][757]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.04.16-14.59.58:766][757]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_0 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.04.16-14.59.58:766][757]LogMaterial: 	Missing Material Function
+[2018.04.16-14.59.58:767][757]LogMaterial: Missing cached shader map for material Material_0, compiling. 
+[2018.04.16-14.59.58:776][757]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.04.16-14.59.58:799][757]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionFunctionOutput_9, compiling. 
+[2018.04.16-14.59.58:800][757]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionFunctionInput_17, compiling. 
+[2018.04.16-14.59.58:804][757]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.04.16-14.59.58:804][757]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.04.16-14.59.58:804][757]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionFunctionInput_18, compiling. 
+[2018.04.16-14.59.58:810][757]LogMaterial: Missing cached shader map for material Material_1, compiling. 
+[2018.04.16-14.59.58:811][757]LogMaterial: Warning: /Engine/Transient.Material_1 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.04.16-14.59.58:811][757]LogMaterial: 	Missing Material Function
+[2018.04.16-14.59.58:812][757]MaterialEditorStats: Error: [SM5] Missing Material Function
+[2018.04.16-14.59.59:286][788]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.04.16-14.59.59:325][792]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.04.16-15.00.25:813][150]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.16-15.01.01:447][457]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.04.16-15.01.08:704][579]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.04.16-15.01.21:218][ 10]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.16-15.01.21:272][ 16]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.16-15.01.21:288][ 16]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.04.16-15.01.21:305][ 16]LogPlayLevel: [PlayLevel] Compiling MYCHARACTER before play...
+[2018.04.16-15.01.21:466][ 16]LogPlayLevel: PlayLevel: Blueprint regeneration took 178 ms (1 blueprints)
+[2018.04.16-15.01.21:467][ 16]PIE: New page: PIE session: start (Apr 16, 2018, 9:01:21 PM)
+[2018.04.16-15.01.21:467][ 16]LogPlayLevel: Creating play world package: /Game/voxel/UEDPIE_0_start
+[2018.04.16-15.01.21:470][ 16]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003155s)
+[2018.04.16-15.01.21:471][ 16]LogAIModule: Creating AISystem for world start
+[2018.04.16-15.01.21:471][ 16]LogPlayLevel: PIE: World Init took: (0.000705s)
+[2018.04.16-15.01.21:471][ 16]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/voxel/start.start to /Game/voxel/UEDPIE_0_start.start (0.003973s)
+[2018.04.16-15.01.21:494][ 16]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.16-15.01.21:499][ 16]LogInit: FAudioDevice initialized.
+[2018.04.16-15.01.21:531][ 16]LogLoad: Game class is 'MYGAMEMODE_C'
+[2018.04.16-15.01.21:533][ 16]LogWorld: Bringing World /Game/voxel/UEDPIE_0_start.start up for play (max tick rate 0) at 2018.04.16-18.01.21
+[2018.04.16-15.01.21:533][ 16]LogWorld: Bringing up level for play took: 0.001383
+[2018.04.16-15.01.21:534][ 16]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.04.16-15.01.21:534][ 16]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.04.16-15.01.21:534][ 16]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.04.16-15.01.21:534][ 16]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.04.16-15.01.21:535][ 16]PIE: Play in editor start time for /Game/voxel/UEDPIE_0_start 0.946
+[2018.04.16-15.03.20:929][228]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.16-15.03.23:748][547]LogMaterial: Missing cached shader map for material Material_2, compiling. 
+[2018.04.16-15.03.23:752][547]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.04.16-15.03.23:752][547]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2018.04.16-15.03.23:755][547]LogMaterial: Missing cached shader map for material Material_2, compiling. 
+[2018.04.16-15.03.23:761][547]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.04.16-15.03.23:761][547]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.04.16-15.03.23:761][547]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.04.16-15.03.23:784][547]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionFunctionOutput_4, compiling. 
+[2018.04.16-15.03.23:788][547]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionFunctionOutput_5, compiling. 
+[2018.04.16-15.03.23:794][547]LogMaterial: Missing cached shader map for material Material_3, compiling. 
+[2018.04.16-15.03.24:252][588]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.04.16-15.03.24:292][592]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.04.16-15.03.24:492][609]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.04.16-15.03.24:506][610]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.04.16-15.03.24:679][626]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.04.16-15.03.27:647][852]LogSlate: Window 'Message' being destroyed
+[2018.04.16-15.03.27:653][852]LogSlate: Window 'MFUN_XYSplit' being destroyed
+[2018.04.16-15.03.27:654][852]LogSlate: Window 'MFUN_XYSplit' being destroyed
+[2018.04.16-15.03.29:511][997]LogMaterial: Missing cached shader map for material Material_4, compiling. 
+[2018.04.16-15.03.29:515][997]LogMaterial: Missing cached shader map for material PreviewMaterial_2, compiling. 
+[2018.04.16-15.03.29:515][997]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_2 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.04.16-15.03.29:515][997]LogMaterial: 	Missing Material Function
+[2018.04.16-15.03.29:517][997]LogMaterial: Missing cached shader map for material Material_4, compiling. 
+[2018.04.16-15.03.29:525][997]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.04.16-15.03.29:549][997]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionFunctionOutput_9, compiling. 
+[2018.04.16-15.03.29:550][997]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionFunctionInput_17, compiling. 
+[2018.04.16-15.03.29:553][997]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.04.16-15.03.29:553][997]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.04.16-15.03.29:554][997]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionFunctionInput_18, compiling. 
+[2018.04.16-15.03.29:557][997]MaterialEditorStats: Error: [SM5] Missing Material Function
+[2018.04.16-15.03.29:569][997]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.04.16-15.03.29:726][  3]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.04.16-15.04.19:316][ 47]LogSlate: Window 'MFUN_DynRadius' being destroyed
+[2018.04.16-15.04.19:319][ 47]LogSlate: Window 'MFUN_DynRadius' being destroyed
+[2018.04.16-15.04.58:064][237]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.04.16-15.04.58:622][299]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.16-15.05.29:734][426]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.Actor_1.DebugSkelMeshComponent_2) Already registered. Aborting.
+[2018.04.16-15.06.12:883][934]LogEditorTransaction: Undo Create Pin Link
+[2018.04.16-15.06.12:983][934]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.Actor_1.DebugSkelMeshComponent_2) Already registered. Aborting.
+[2018.04.16-15.06.16:338][192]BlueprintLog: New page: Compile ANIMATIONBP
+[2018.04.16-15.07.14:975][765]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/voxel/start' took 0.030
+[2018.04.16-15.07.14:977][765]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/blueprints/ANIMATIONBP] ([1] browsable assets)...
+[2018.04.16-15.07.14:996][765]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/blueprints/ANIMATIONBP.ANIMATIONBP]
+[2018.04.16-15.07.14:996][765]OBJ SavePackage: Finished generating thumbnails for package [/Game/blueprints/ANIMATIONBP]
+[2018.04.16-15.07.14:996][765]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/blueprints/ANIMATIONBP" FILE="../../../../../eion resp/backup/Eion/Saved/Autosaves/Game/blueprints/ANIMATIONBP_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2018.04.16-15.07.15:293][765]LogSavePackage: Save=285.88ms
+[2018.04.16-15.07.15:294][765]LogSavePackage: Moving '../../../../../eion resp/backup/Eion/Saved/ANIMATIONBP_Auto236E0D8504EB8104DB2976CA80F703812.tmp' to '../../../../../eion resp/backup/Eion/Saved/Autosaves/Game/blueprints/ANIMATIONBP_Auto2.uasset'
+[2018.04.16-15.07.15:330][765]LogSavePackage: Display: Finished SavePackage ../../../../../eion resp/backup/Eion/Saved/Autosaves/Game/blueprints/ANIMATIONBP_Auto2.uasset
+[2018.04.16-15.07.15:331][765]LogFileHelpers: Auto-saving content packages took 0.355
+[2018.04.16-15.08.28:382][369]LogSlate: Window 'Source Control Login' being destroyed
+[2018.04.16-15.08.34:717][115]SourceControl: fatal: D:/programs/UE_4.19/Engine/Content: 'D:/programs/UE_4.19/Engine/Content' is outside repository
+[2018.04.16-15.08.34:823][115]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert '../../../../../eion resp/backup/Eion/Plugins/Voxel/Content/BPFL_VoxelEditUtilities.uasset'. Attempt result was '../../../../../eion resp/backup/Eion/Plugins/Voxel/Content/BPFL_VoxelEditUtilities', but the path contains illegal characters '.'
+[2018.04.16-15.08.34:823][115]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert '../../../../../eion resp/backup/Eion/Plugins/Voxel/Content/BP_VoxelPlayerController.uasset'. Attempt result was '../../../../../eion resp/backup/Eion/Plugins/Voxel/Content/BP_VoxelPlayerController', but the path contains illegal characters '.'
+[2018.04.16-15.08.34:823][115]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert '../../../../../eion resp/backup/Eion/Plugins/Voxel/Content/EVoxelMode.uasset'. Attempt result was '../../../../../eion resp/backup/Eion/Plugins/Voxel/Content/EVoxelMode', but the path contains illegal characters '.'
+[2018.04.16-15.08.34:823][115]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert '../../../../../eion resp/backup/Eion/Plugins/Voxel/Content/EVoxelTool.uasset'. Attempt result was '../../../../../eion resp/backup/Eion/Plugins/Voxel/Content/EVoxelTool', but the path contains illegal characters '.'
+[2018.04.16-15.08.34:823][115]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert '../../../../../eion resp/backup/Eion/Plugins/Voxel/Content/M_VoxelMaterial_Colors.uasset'. Attempt result was '../../../../../eion resp/backup/Eion/Plugins/Voxel/Content/M_VoxelMaterial_Colors', but the path contains illegal characters '.'
+[2018.04.16-15.08.34:823][115]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert '../../../../../eion resp/backup/Eion/Plugins/Voxel/Content/T_Palette.uasset'. Attempt result was '../../../../../eion resp/backup/Eion/Plugins/Voxel/Content/T_Palette', but the path contains illegal characters '.'
+[2018.04.16-15.08.34:823][115]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert '../../../../../eion resp/backup/Eion/Plugins/Voxel/Content/VoxelMaterialChooser.uasset'. Attempt result was '../../../../../eion resp/backup/Eion/Plugins/Voxel/Content/VoxelMaterialChooser', but the path contains illegal characters '.'
+[2018.04.16-15.08.34:823][115]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert '../../../../../eion resp/backup/Eion/Plugins/Voxel/Content/VoxelSaveExample.uasset'. Attempt result was '../../../../../eion resp/backup/Eion/Plugins/Voxel/Content/VoxelSaveExample', but the path contains illegal characters '.'
+[2018.04.16-15.08.34:823][115]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert '../../../../../eion resp/backup/Eion/Plugins/Voxel/Content/VoxelSpectatorPawn.uasset'. Attempt result was '../../../../../eion resp/backup/Eion/Plugins/Voxel/Content/VoxelSpectatorPawn', but the path contains illegal characters '.'
+[2018.04.16-15.08.34:823][115]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert '../../../../../eion resp/backup/Eion/Plugins/Voxel/Content/VoxelWorld_TextureArrays.uasset'. Attempt result was '../../../../../eion resp/backup/Eion/Plugins/Voxel/Content/VoxelWorld_TextureArrays', but the path contains illegal characters '.'
+[2018.04.16-15.08.34:823][115]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert '../../../../../eion resp/backup/Eion/Plugins/Voxel/Content/VoxelWorld_TextureArrays_Extended.uasset'. Attempt result was '../../../../../eion resp/backup/Eion/Plugins/Voxel/Content/VoxelWorld_TextureArrays_Extended', but the path contains illegal characters '.'
+[2018.04.16-15.08.34:823][115]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert '../../../../../eion resp/backup/Eion/Plugins/Voxel/Content/VoxelWorld_TextureArrays_KiteDemo.uasset'. Attempt result was '../../../../../eion resp/backup/Eion/Plugins/Voxel/Content/VoxelWorld_TextureArrays_KiteDemo', but the path contains illegal characters '.'
+[2018.04.16-15.08.34:823][115]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert '../../../../../eion resp/backup/Eion/Plugins/Voxel/Content/Markers/BP_VoxelBoxMarker.uasset'. Attempt result was '../../../../../eion resp/backup/Eion/Plugins/Voxel/Content/Markers/BP_VoxelBoxMarker', but the path contains illegal characters '.'
+[2018.04.16-15.08.34:823][115]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert '../../../../../eion resp/backup/Eion/Plugins/Voxel/Content/Markers/BP_VoxelSphereMarker.uasset'. Attempt result was '../../../../../eion resp/backup/Eion/Plugins/Voxel/Content/Markers/BP_VoxelSphereMarker', but the path contains illegal characters '.'
+[2018.04.16-15.08.34:823][115]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert '../../../../../eion resp/backup/Eion/Plugins/Voxel/Content/Markers/BP_VoxelSpotLightMarker.uasset'. Attempt result was '../../../../../eion resp/backup/Eion/Plugins/Voxel/Content/Markers/BP_VoxelSpotLightMarker', but the path contains illegal characters '.'
+[2018.04.16-15.08.34:823][115]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert '../../../../../eion resp/backup/Eion/Plugins/Voxel/Content/Markers/Cookie.uasset'. Attempt result was '../../../../../eion resp/backup/Eion/Plugins/Voxel/Content/Markers/Cookie', but the path contains illegal characters '.'
+[2018.04.16-15.08.34:823][115]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert '../../../../../eion resp/backup/Eion/Plugins/Voxel/Content/Markers/M_VoxelMarker.uasset'. Attempt result was '../../../../../eion resp/backup/Eion/Plugins/Voxel/Content/Markers/M_VoxelMarker', but the path contains illegal characters '.'
+[2018.04.16-15.08.34:823][115]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert '../../../../../eion resp/backup/Eion/Plugins/Voxel/Content/Markers/Shape_Cube.uasset'. Attempt result was '../../../../../eion resp/backup/Eion/Plugins/Voxel/Content/Markers/Shape_Cube', but the path contains illegal characters '.'
+[2018.04.16-15.08.34:823][115]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert '../../../../../eion resp/backup/Eion/Plugins/Voxel/Content/Markers/UI_target_4096.uasset'. Attempt result was '../../../../../eion resp/backup/Eion/Plugins/Voxel/Content/Markers/UI_target_4096', but the path contains illegal characters '.'
+[2018.04.16-15.08.34:823][115]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert '../../../../../eion resp/backup/Eion/Plugins/Voxel/Content/TriplanarFunctions/GetTriplanarProjectionUV.uasset'. Attempt result was '../../../../../eion resp/backup/Eion/Plugins/Voxel/Content/TriplanarFunctions/GetTriplanarProjectionUV', but the path contains illegal characters '.'
+[2018.04.16-15.08.34:823][115]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert '../../../../../eion resp/backup/Eion/Plugins/Voxel/Content/TriplanarFunctions/GetTriplanarProjectionWeights.uasset'. Attempt result was '../../../../../eion resp/backup/Eion/Plugins/Voxel/Content/TriplanarFunctions/GetTriplanarProjectionWeights', but the path contains illegal characters '.'
+[2018.04.16-15.08.34:823][115]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert '../../../../../eion resp/backup/Eion/Plugins/Voxel/Content/TriplanarFunctions/OptimizedTriplanarProjection.uasset'. Attempt result was '../../../../../eion resp/backup/Eion/Plugins/Voxel/Content/TriplanarFunctions/OptimizedTriplanarProjection', but the path contains illegal characters '.'
+[2018.04.16-15.08.34:824][115]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert '../../../../../eion resp/backup/Eion/Plugins/Voxel/Content/UI/logo-48px.uasset'. Attempt result was '../../../../../eion resp/backup/Eion/Plugins/Voxel/Content/UI/logo-48px', but the path contains illegal characters '.'
+[2018.04.16-15.08.34:824][115]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert '../../../../../eion resp/backup/Eion/Plugins/Voxel/Content/UI/slider_bg_772x25.uasset'. Attempt result was '../../../../../eion resp/backup/Eion/Plugins/Voxel/Content/UI/slider_bg_772x25', but the path contains illegal characters '.'
+[2018.04.16-15.08.34:824][115]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert '../../../../../eion resp/backup/Eion/Plugins/Voxel/Content/UI/slider_fill_772x25.uasset'. Attempt result was '../../../../../eion resp/backup/Eion/Plugins/Voxel/Content/UI/slider_fill_772x25', but the path contains illegal characters '.'
+[2018.04.16-15.08.34:824][115]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert '../../../../../eion resp/backup/Eion/Plugins/Voxel/Content/UI/WBP_TextureItem.uasset'. Attempt result was '../../../../../eion resp/backup/Eion/Plugins/Voxel/Content/UI/WBP_TextureItem', but the path contains illegal characters '.'
+[2018.04.16-15.08.34:824][115]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert '../../../../../eion resp/backup/Eion/Plugins/Voxel/Content/UI/WBP_TexturesPanel.uasset'. Attempt result was '../../../../../eion resp/backup/Eion/Plugins/Voxel/Content/UI/WBP_TexturesPanel', but the path contains illegal characters '.'
+[2018.04.16-15.08.34:824][115]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert '../../../../../eion resp/backup/Eion/Plugins/Voxel/Content/UI/WBP_VoxelUI_Base.uasset'. Attempt result was '../../../../../eion resp/backup/Eion/Plugins/Voxel/Content/UI/WBP_VoxelUI_Base', but the path contains illegal characters '.'
+[2018.04.16-15.08.34:824][115]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert '../../../../../eion resp/backup/Eion/Plugins/Voxel/Content/UI/WBP_VoxelUI_Debug.uasset'. Attempt result was '../../../../../eion resp/backup/Eion/Plugins/Voxel/Content/UI/WBP_VoxelUI_Debug', but the path contains illegal characters '.'
+[2018.04.16-15.08.34:824][115]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert '../../../../../eion resp/backup/Eion/Plugins/Voxel/Content/UI/WBP_VoxelUI_Demo.uasset'. Attempt result was '../../../../../eion resp/backup/Eion/Plugins/Voxel/Content/UI/WBP_VoxelUI_Demo', but the path contains illegal characters '.'
+[2018.04.16-15.08.36:752][115]LogSlate: Window 'Save Content' being destroyed
+[2018.04.16-15.08.36:822][115]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/blueprints/ANIMATIONBP" FILE="../../../../../eion resp/backup/Eion/Content/blueprints/ANIMATIONBP.uasset" SILENT=true
+[2018.04.16-15.08.36:887][115]LogSavePackage: Save=58.47ms
+[2018.04.16-15.08.36:887][115]LogSavePackage: Moving '../../../../../eion resp/backup/Eion/Saved/ANIMATIONBPE3272B584F4C1A722E03C7A1D1A67740.tmp' to '../../../../../eion resp/backup/Eion/Content/blueprints/ANIMATIONBP.uasset'
+[2018.04.16-15.08.36:920][115]LogSavePackage: Display: Finished SavePackage ../../../../../eion resp/backup/Eion/Content/blueprints/ANIMATIONBP.uasset
+[2018.04.16-15.08.36:925][115]LogPackageName: Error: Illegal call to DoesPackageExist: '../../../../../eion resp/backup/Eion/Eion.uproject' is not a standard unreal filename or a long path name. Reason: Path should be no less than 4 characters long.
+[2018.04.16-15.08.37:445][115]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.520 s
+[2018.04.16-15.08.37:445][115]LogOutputDevice: Error: === Handled ensure: ===
+[2018.04.16-15.08.37:446][115]LogOutputDevice: Error: 
+[2018.04.16-15.08.37:446][115]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4+Release-4.19+Compile\Sync\Engine\Source\Runtime\CoreUObject\Private\Misc\PackageName.cpp] [Line: 818]
+[2018.04.16-15.08.37:446][115]LogOutputDevice: Error: Illegal call to DoesPackageExist: '../../../../../eion resp/backup/Eion/Eion.uproject' is not a standard unreal filename or a long path name. Reason: Path should be no less than 4 characters long.
+[2018.04.16-15.08.37:446][115]LogOutputDevice: Error: Stack: 
+[2018.04.16-15.08.37:446][115]LogOutputDevice: Error: [Callstack] 0x000000005717B6F6 UE4Editor-Core.dll!UnknownFunction []
+[2018.04.16-15.08.37:446][115]LogOutputDevice: Error: [Callstack] 0x0000000056EDAE2A UE4Editor-Core.dll!UnknownFunction []
+[2018.04.16-15.08.37:446][115]LogOutputDevice: Error: [Callstack] 0x0000000056EEECC6 UE4Editor-Core.dll!UnknownFunction []
+[2018.04.16-15.08.37:446][115]LogOutputDevice: Error: [Callstack] 0x000000005871DD3B UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.04.16-15.08.37:446][115]LogOutputDevice: Error: [Callstack] 0x00000000559B6A12 UE4Editor-SourceControl.dll!UnknownFunction []
+[2018.04.16-15.08.37:446][115]LogOutputDevice: Error: [Callstack] 0x00000000559B6BA7 UE4Editor-SourceControl.dll!UnknownFunction []
+[2018.04.16-15.08.37:446][115]LogOutputDevice: Error: [Callstack] 0x000000004D3E50CE UE4Editor-SourceControlWindows.dll!UnknownFunction []
+[2018.04.16-15.08.37:446][115]LogOutputDevice: Error: [Callstack] 0x000000004D3A4805 UE4Editor-SourceControlWindows.dll!UnknownFunction []
+[2018.04.16-15.08.37:446][115]LogOutputDevice: Error: [Callstack] 0x000000004D3A3DDD UE4Editor-SourceControlWindows.dll!UnknownFunction []
+[2018.04.16-15.08.37:446][115]LogOutputDevice: Error: [Callstack] 0x000000004D3B90B4 UE4Editor-SourceControlWindows.dll!UnknownFunction []
+[2018.04.16-15.08.37:446][115]LogOutputDevice: Error: [Callstack] 0x000000002CBA4669 UE4Editor-GitSourceControl.dll!UnknownFunction []
+[2018.04.16-15.08.37:446][115]LogOutputDevice: Error: [Callstack] 0x00000000559BB9BC UE4Editor-SourceControl.dll!UnknownFunction []
+[2018.04.16-15.08.37:446][115]LogOutputDevice: Error: [Callstack] 0x00000000444DDF0A UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.04.16-15.08.37:446][115]LogOutputDevice: Error: [Callstack] 0x0000000044D79516 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.04.16-15.08.37:446][115]LogOutputDevice: Error: [Callstack] 0x000000003D025EAC UE4Editor.exe!UnknownFunction []
+[2018.04.16-15.08.37:446][115]LogOutputDevice: Error: [Callstack] 0x000000003D036BD0 UE4Editor.exe!UnknownFunction []
+[2018.04.16-15.08.37:446][115]LogOutputDevice: Error: [Callstack] 0x000000003D036C4A UE4Editor.exe!UnknownFunction []
+[2018.04.16-15.08.37:446][115]LogOutputDevice: Error: [Callstack] 0x000000003D044149 UE4Editor.exe!UnknownFunction []
+[2018.04.16-15.08.37:446][115]LogOutputDevice: Error: [Callstack] 0x000000003D045B57 UE4Editor.exe!UnknownFunction []
+[2018.04.16-15.08.37:446][115]LogOutputDevice: Error: [Callstack] 0x0000000089F71FE4 KERNEL32.DLL!UnknownFunction []
+[2018.04.16-15.08.37:447][115]LogOutputDevice: Error: [Callstack] 0x000000008AD2F061 ntdll.dll!UnknownFunction []
+[2018.04.16-15.08.37:447][115]LogOutputDevice: Error: 
+[2018.04.16-15.08.37:452][115]LogStats:                SubmitErrorReport -  0.000 s

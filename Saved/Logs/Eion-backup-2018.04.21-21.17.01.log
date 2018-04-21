@@ -1,0 +1,559 @@
+﻿Log file open, 04/21/18 21:11:37
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Eion
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-2116849802) SRandInit(-2116849802).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 3989454, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.283704
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +3:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../../../eion resp/Eion Perms/Eion/Plugins/Voxel/Binaries/Win64/UE4Editor-Voxel.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../../../eion resp/Eion Perms/Eion/Plugins/Voxel/Binaries/Win64/UE4Editor-VoxelEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin Voxel
+LogPluginManager: Plugin shader directory ../../../../../eion resp/Eion Perms/Eion/Plugins/Voxel/Shaders found
+LogPluginManager: Mapping shader source directory ../../../../../eion resp/Eion Perms/Eion/Plugins/Voxel/Shaders to virtual directory /Plugin/Voxel
+LogStreaming: Display: Took  2.472s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am Scorpiologist (192.168.0.106:0)
+LogInit: Build: ++UE4+Release-4.19-CL-3989454
+LogInit: Engine Version: 4.19.1-3989454+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr  6 2018 12:26:04
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line:  
+LogInit: Base Directory: D:/programs/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.04.21-18.11.40:607][  0]LogInit: Selected Device Profile: [Windows]
+[2018.04.21-18.11.40:607][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.04.21-18.11.40:641][  0]LogInit: Computer: SCORPIOLOGIST
+[2018.04.21-18.11.40:641][  0]LogInit: User: youce
+[2018.04.21-18.11.40:641][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.04.21-18.11.40:641][  0]LogInit: High frequency timer resolution =3.914064 MHz
+[2018.04.21-18.11.40:641][  0]LogMemory: Memory total: Physical=32.0GB (32GB approx)
+[2018.04.21-18.11.40:641][  0]LogMemory: Platform Memory Stats for Windows
+[2018.04.21-18.11.40:641][  0]LogMemory: Process Physical Memory: 276.13 MB used, 276.13 MB peak
+[2018.04.21-18.11.40:641][  0]LogMemory: Process Virtual Memory: 273.09 MB used, 273.09 MB peak
+[2018.04.21-18.11.40:641][  0]LogMemory: Physical Memory: 12767.45 MB used,  19952.29 MB free, 32719.74 MB total
+[2018.04.21-18.11.40:642][  0]LogMemory: Virtual Memory: 703.81 MB used,  19952.29 MB free, 134217728.00 MB total
+[2018.04.21-18.11.40:680][  0]LogInit: Using OS detected language (en-US).
+[2018.04.21-18.11.40:680][  0]LogInit: Using OS detected locale (en-US).
+[2018.04.21-18.11.40:685][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.04.21-18.11.41:045][  0]LogStreaming: Display: Took  0.365s to EndInitTextLocalization.
+[2018.04.21-18.11.41:045][  0]LogInit: Setting process to per monitor DPI aware
+[2018.04.21-18.11.41:093][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.04.21-18.11.41:093][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.04.21-18.11.41:417][  0]LogD3D11RHI: D3D11 adapters:
+[2018.04.21-18.11.41:488][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2018.04.21-18.11.41:488][  0]LogD3D11RHI:       8088/0/16359 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.04.21-18.11.41:492][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.04.21-18.11.41:492][  0]LogD3D11RHI:       0/0/16359 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.04.21-18.11.41:492][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.04.21-18.11.41:500][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.04.21-18.11.41:500][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2018.04.21-18.11.41:500][  0]LogWindows: EnumDisplayDevices:
+[2018.04.21-18.11.41:500][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2018.04.21-18.11.41:500][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:1)
+[2018.04.21-18.11.41:501][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2018.04.21-18.11.41:501][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2018.04.21-18.11.41:501][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.04.21-18.11.41:501][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2018.04.21-18.11.41:501][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.04.21-18.11.41:501][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.04.21-18.11.41:501][  0]LogRHI: Texture pool is 5661 MB (70% of 8088 MB)
+[2018.04.21-18.11.41:544][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.04.21-18.11.41:544][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.04.21-18.11.41:544][  0]LogD3D11RHI: Async texture creation enabled
+[2018.04.21-18.11.41:637][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.04.21-18.11.41:733][  0]LogShaderCompilers: Guid format shader working directory is 6 characters bigger than the processId version (../../../../../eion resp/Eion Perms/Eion/Intermediate/Shaders/WorkingDirectory/2240/).
+[2018.04.21-18.11.41:733][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/youce/AppData/Local/Temp/UnrealShaderWorkingDir/3C97715146AD691CCB9499961A9E83AB/'.
+[2018.04.21-18.11.42:030][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.04.21-18.11.42:046][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.04.21-18.11.42:060][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.04.21-18.11.42:076][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.04.21-18.11.42:093][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.04.21-18.11.42:111][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.04.21-18.11.42:130][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.04.21-18.11.42:149][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.04.21-18.11.42:158][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.04.21-18.11.42:171][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.04.21-18.11.42:183][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.04.21-18.11.42:195][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.04.21-18.11.42:206][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.04.21-18.11.42:220][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.04.21-18.11.42:236][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.04.21-18.11.42:264][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.04.21-18.11.42:264][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.04.21-18.11.42:275][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.04.21-18.11.42:276][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.04.21-18.11.42:313][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.04.21-18.11.42:322][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.04.21-18.11.42:332][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.04.21-18.11.42:342][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.04.21-18.11.42:352][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.04.21-18.11.42:363][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.04.21-18.11.42:363][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.04.21-18.11.42:569][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.04.21-18.11.42:569][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.04.21-18.11.42:569][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.04.21-18.11.43:192][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.04.21-18.11.43:253][  0]LogDerivedDataCache: Loaded boot cache 0.06s 87MB C:/Users/youce/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.04.21-18.11.43:253][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/youce/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.04.21-18.11.43:253][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../eion resp/Eion Perms/Eion/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.04.21-18.11.43:253][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.04.21-18.11.43:253][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../eion resp/Eion Perms/Eion/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.04.21-18.11.43:253][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.04.21-18.11.43:265][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.04.21-18.11.43:278][  0]LogDerivedDataCache: Using Local data cache path C:/Users/youce/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.04.21-18.11.43:287][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.04.21-18.11.43:287][  0]LogSlate: Using Freetype 2.6.0
+[2018.04.21-18.11.43:288][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.04.21-18.11.43:288][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.04.21-18.11.43:625][  0]LogAssetRegistry: FAssetRegistry took 0.0250 seconds to start up
+[2018.04.21-18.11.43:882][  0]LogInit: Selected Device Profile: [Windows]
+[2018.04.21-18.11.44:154][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.04.21-18.11.44:159][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.04.21-18.11.44:159][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.04.21-18.11.44:159][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.04.21-18.11.44:159][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.04.21-18.11.44:159][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.04.21-18.11.44:211][  0]LogNetVersion: Eion , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1394248169)
+[2018.04.21-18.11.44:716][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 2 prioritized culture(s) in 0.166884 seconds
+[2018.04.21-18.11.44:721][  0]LogUObjectArray: 37432 objects as part of root set at end of initial load.
+[2018.04.21-18.11.44:721][  0]LogUObjectAllocator: 7501888 out of 0 bytes used by permanent object pool.
+[2018.04.21-18.11.44:721][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.04.21-18.11.58:742][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.04.21-18.11.58:794][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.04.21-18.12.00:030][  0]SourceControl: Source control is disabled
+[2018.04.21-18.12.00:388][  0]LogSourceControl: Warning: '../../../../../eion resp/Eion Perms/Eion/' is not part of a Git repository
+[2018.04.21-18.12.01:865][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.04.21-18.12.02:218][  0]LogOcInput: OculusInput pre-init called
+[2018.04.21-18.12.02:390][  0]LogEngine: Initializing Engine...
+[2018.04.21-18.12.02:391][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.04.21-18.12.02:392][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.04.21-18.12.02:392][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.04.21-18.12.02:573][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.04.21-18.12.02:616][  0]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.21-18.12.02:632][  0]LogInit: FAudioDevice initialized.
+[2018.04.21-18.12.02:706][  0]LogDerivedDataCache: Saved boot cache 0.07s 87MB C:/Users/youce/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.04.21-18.12.02:723][  0]LogInit: Texture streaming: Enabled
+[2018.04.21-18.12.02:752][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.04.21-18.12.02:774][  0]LogInit: Transaction tracking system initialized
+[2018.04.21-18.12.02:817][  0]BlueprintLog: New page: Editor Load
+[2018.04.21-18.12.02:932][  0]LocalizationService: Localization service is disabled
+[2018.04.21-18.12.03:112][  0]LogConsoleResponse: Display: 
+[2018.04.21-18.12.03:229][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.04.21-18.12.03:229][  0]LogCook: Display: Mobile HDR setting 1
+[2018.04.21-18.12.03:229][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.04.21-18.12.03:229][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.04.21-18.12.03:229][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.04.21-18.12.04:168][  0]LogFileCache: Scanning file cache for directory 'D:/eion resp/Eion Perms/Eion/Content/' took 0.03s
+[2018.04.21-18.12.04:243][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.04.21-18.12.04:244][  0]LightingResults: New page: Lighting Build
+[2018.04.21-18.12.04:248][  0]MapCheck: New page: Map Check
+[2018.04.21-18.12.04:248][  0]LightingResults: New page: Lighting Build
+[2018.04.21-18.12.04:401][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2018.04.21-18.12.04:405][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.04.21-18.12.04:415][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.04.21-18.12.04:459][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 44.223ms to complete.
+[2018.04.21-18.12.04:460][  0]LogFileHelpers: Loading map 'Template_Default' took 0.216
+[2018.04.21-18.12.04:586][  0]LogCollectionManager: Loaded 0 collections in 0.003721 seconds
+[2018.04.21-18.12.04:630][  0]LogFileCache: Scanning file cache for directory 'D:/eion resp/Eion Perms/Eion/Saved/Collections/' took 0.01s
+[2018.04.21-18.12.04:630][  0]LogFileCache: Scanning file cache for directory 'D:/eion resp/Eion Perms/Eion/Content/Developers/youce/Collections/' took 0.01s
+[2018.04.21-18.12.04:630][  0]LogFileCache: Scanning file cache for directory 'D:/eion resp/Eion Perms/Eion/Content/Collections/' took 0.01s
+[2018.04.21-18.12.04:630][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.04.21-18.12.04:638][  0]LogContentBrowser: Native class hierarchy populated in 0.0076 seconds. Added 2577 classes and 569 folders.
+[2018.04.21-18.12.04:650][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.04.21-18.12.04:775][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.04.21-18.12.04:782][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.04.21-18.12.04:833][  0]LogSlate: Took 0.000486 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.04.21-18.12.04:835][  0]LogSlate: Took 0.000231 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.04.21-18.12.04:842][  0]LogSlate: Took 0.000314 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.04.21-18.12.04:923][  0]LogRenderer: Reallocating scene render targets to support 1208x692 Format 10 NumSamples 1 (Frame:1).
+[2018.04.21-18.12.05:070][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.04.21-18.12.05:070][  0]LogLoad: (Engine Initialization) Total time: 29.82 seconds
+[2018.04.21-18.12.05:070][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.04.21-18.12.05:430][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.04.21-18.12.05:480][  0]LogSlate: Took 0.000318 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.04.21-18.12.06:082][  2]LogAssetRegistry: Asset discovery search completed in 22.4790 seconds
+[2018.04.21-18.12.06:083][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.04.21-18.12.06:083][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000043 seconds (updated 0 objects)
+[2018.04.21-18.12.08:434][  9]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.04.21-18.12.09:541][115]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.21-18.12.09:701][132]LogSlate: Took 0.000233 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.04.21-18.12.11:954][132]LogBlueprint: Warning: [Compiler MYCHARACTER] Get : 'HealthFloat' variable not found. Base class was probably changed. /Game/blueprints/character_stuff/MYCHARACTER.MYCHARACTER
+[2018.04.21-18.12.11:954][132]LogBlueprint: Warning: [Compiler MYCHARACTER] Get : 'TextBlock' variable not found. Base class was probably changed. /Game/blueprints/character_stuff/MYCHARACTER.MYCHARACTER
+[2018.04.21-18.12.12:029][132]LogBlueprint: Warning: [Compiler MYCHARACTER] [0036.78] Compile of MYCHARACTER successful, but with 2 Warning(s) [in 92 ms] (/Game/blueprints/character_stuff/MYCHARACTER.MYCHARACTER)
+[2018.04.21-18.12.12:072][132]LogLinker: Warning: Can't find file '/Game/Mannequin/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4'
+[2018.04.21-18.12.12:072][132]LogLinker: Warning: Can't find file for asset '/Game/Mannequin/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4' while loading ../../../../../eion resp/Eion Perms/Eion/Content/thirdpersonreference/Mannequin/Character/Materials/M_UE4Man_Body.uasset.
+[2018.04.21-18.12.12:072][132]LoadErrors: Error: /Game/thirdpersonreference/Mannequin/Character/Materials/M_UE4Man_Body : Can't find file for asset. /Game/Mannequin/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4
+[2018.04.21-18.12.12:072][132]LogLinker: Warning: Can't find file '/Game/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige'
+[2018.04.21-18.12.12:072][132]LogLinker: Warning: Can't find file for asset '/Game/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige' while loading ../../../../../eion resp/Eion Perms/Eion/Content/thirdpersonreference/Mannequin/Character/Materials/M_UE4Man_Body.uasset.
+[2018.04.21-18.12.12:072][132]LoadErrors: Error: /Game/thirdpersonreference/Mannequin/Character/Materials/M_UE4Man_Body : Can't find file for asset. /Game/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige
+[2018.04.21-18.12.12:072][132]LogLinker: Warning: Can't find file '/Game/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO'
+[2018.04.21-18.12.12:072][132]LogLinker: Warning: Can't find file for asset '/Game/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO' while loading ../../../../../eion resp/Eion Perms/Eion/Content/thirdpersonreference/Mannequin/Character/Materials/M_UE4Man_Body.uasset.
+[2018.04.21-18.12.12:072][132]LoadErrors: Error: /Game/thirdpersonreference/Mannequin/Character/Materials/M_UE4Man_Body : Can't find file for asset. /Game/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO
+[2018.04.21-18.12.12:072][132]LogLinker: Warning: Can't find file '/Game/Mannequin/Character/Materials/MaterialLayers/ML_SoftMetal_UE4'
+[2018.04.21-18.12.12:072][132]LogLinker: Warning: Can't find file for asset '/Game/Mannequin/Character/Materials/MaterialLayers/ML_SoftMetal_UE4' while loading ../../../../../eion resp/Eion Perms/Eion/Content/thirdpersonreference/Mannequin/Character/Materials/M_UE4Man_Body.uasset.
+[2018.04.21-18.12.12:072][132]LoadErrors: Error: /Game/thirdpersonreference/Mannequin/Character/Materials/M_UE4Man_Body : Can't find file for asset. /Game/Mannequin/Character/Materials/MaterialLayers/ML_SoftMetal_UE4
+[2018.04.21-18.12.12:073][132]LogLinker: Warning: Can't find file '/Game/Mannequin/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4'
+[2018.04.21-18.12.12:073][132]LogLinker: Warning: Can't find file for asset '/Game/Mannequin/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4' while loading ../../../../../eion resp/Eion Perms/Eion/Content/thirdpersonreference/Mannequin/Character/Materials/M_UE4Man_Body.uasset.
+[2018.04.21-18.12.12:073][132]LogLinker: Warning: Can't find file '/Game/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige'
+[2018.04.21-18.12.12:073][132]LogLinker: Warning: Can't find file for asset '/Game/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige' while loading ../../../../../eion resp/Eion Perms/Eion/Content/thirdpersonreference/Mannequin/Character/Materials/M_UE4Man_Body.uasset.
+[2018.04.21-18.12.12:073][132]LogLinker: Warning: Can't find file '/Game/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO'
+[2018.04.21-18.12.12:073][132]LogLinker: Warning: Can't find file for asset '/Game/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO' while loading ../../../../../eion resp/Eion Perms/Eion/Content/thirdpersonreference/Mannequin/Character/Materials/M_UE4Man_Body.uasset.
+[2018.04.21-18.12.12:073][132]LogLinker: Warning: Can't find file '/Game/Mannequin/Character/Materials/MaterialLayers/ML_SoftMetal_UE4'
+[2018.04.21-18.12.12:073][132]LogLinker: Warning: Can't find file for asset '/Game/Mannequin/Character/Materials/MaterialLayers/ML_SoftMetal_UE4' while loading ../../../../../eion resp/Eion Perms/Eion/Content/thirdpersonreference/Mannequin/Character/Materials/M_UE4Man_Body.uasset.
+[2018.04.21-18.12.12:074][132]LogLinker: Warning: Can't find file '/Game/Mannequin/Character/Textures/UE4_Mannequin__normals'
+[2018.04.21-18.12.12:074][132]LogLinker: Warning: Can't find file for asset '/Game/Mannequin/Character/Textures/UE4_Mannequin__normals' while loading ../../../../../eion resp/Eion Perms/Eion/Content/thirdpersonreference/Mannequin/Character/Materials/M_UE4Man_Body.uasset.
+[2018.04.21-18.12.12:074][132]LoadErrors: Error: /Game/thirdpersonreference/Mannequin/Character/Materials/M_UE4Man_Body : Can't find file for asset. /Game/Mannequin/Character/Textures/UE4_Mannequin__normals
+[2018.04.21-18.12.12:074][132]LogLinker: Warning: Can't find file '/Game/Mannequin/Character/Textures/UE4_Mannequin_MAT_MASKA'
+[2018.04.21-18.12.12:074][132]LogLinker: Warning: Can't find file for asset '/Game/Mannequin/Character/Textures/UE4_Mannequin_MAT_MASKA' while loading ../../../../../eion resp/Eion Perms/Eion/Content/thirdpersonreference/Mannequin/Character/Materials/M_UE4Man_Body.uasset.
+[2018.04.21-18.12.12:074][132]LoadErrors: Error: /Game/thirdpersonreference/Mannequin/Character/Materials/M_UE4Man_Body : Can't find file for asset. /Game/Mannequin/Character/Textures/UE4_Mannequin_MAT_MASKA
+[2018.04.21-18.12.12:074][132]LogLinker: Warning: Can't find file '/Game/Mannequin/Character/Textures/UE4_Mannequin__normals'
+[2018.04.21-18.12.12:074][132]LogLinker: Warning: Can't find file for asset '/Game/Mannequin/Character/Textures/UE4_Mannequin__normals' while loading ../../../../../eion resp/Eion Perms/Eion/Content/thirdpersonreference/Mannequin/Character/Materials/M_UE4Man_Body.uasset.
+[2018.04.21-18.12.12:074][132]LogLinker: Warning: Can't find file '/Game/Mannequin/Character/Textures/UE4_Mannequin_MAT_MASKA'
+[2018.04.21-18.12.12:074][132]LogLinker: Warning: Can't find file for asset '/Game/Mannequin/Character/Textures/UE4_Mannequin_MAT_MASKA' while loading ../../../../../eion resp/Eion Perms/Eion/Content/thirdpersonreference/Mannequin/Character/Materials/M_UE4Man_Body.uasset.
+[2018.04.21-18.12.12:087][132]LogLinker: Warning: Can't find file '/Game/Mannequin/Character/Materials/M_UE4Man_Body'
+[2018.04.21-18.12.12:088][132]LogLinker: Warning: Can't find file for asset '/Game/Mannequin/Character/Materials/M_UE4Man_Body' while loading ../../../../../eion resp/Eion Perms/Eion/Content/thirdpersonreference/Mannequin/Character/Materials/M_UE4Man_ChestLogo.uasset.
+[2018.04.21-18.12.12:088][132]LoadErrors: Error: /Game/thirdpersonreference/Mannequin/Character/Materials/M_UE4Man_ChestLogo : Can't find file for asset. /Game/Mannequin/Character/Materials/M_UE4Man_Body
+[2018.04.21-18.12.12:088][132]LogLinker: Warning: Can't find file '/Game/Mannequin/Character/Materials/M_UE4Man_Body'
+[2018.04.21-18.12.12:088][132]LogLinker: Warning: Can't find file for asset '/Game/Mannequin/Character/Materials/M_UE4Man_Body' while loading ../../../../../eion resp/Eion Perms/Eion/Content/thirdpersonreference/Mannequin/Character/Materials/M_UE4Man_ChestLogo.uasset.
+[2018.04.21-18.12.12:088][132]LogLinker: Warning: Can't find file '/Game/Mannequin/Character/Textures/UE4Man_Logo_N'
+[2018.04.21-18.12.12:089][132]LogLinker: Warning: Can't find file for asset '/Game/Mannequin/Character/Textures/UE4Man_Logo_N' while loading ../../../../../eion resp/Eion Perms/Eion/Content/thirdpersonreference/Mannequin/Character/Materials/M_UE4Man_ChestLogo.uasset.
+[2018.04.21-18.12.12:089][132]LoadErrors: Error: /Game/thirdpersonreference/Mannequin/Character/Materials/M_UE4Man_ChestLogo : Can't find file for asset. /Game/Mannequin/Character/Textures/UE4Man_Logo_N
+[2018.04.21-18.12.12:089][132]LogLinker: Warning: Can't find file '/Game/Mannequin/Character/Textures/UE4Man_Logo_N'
+[2018.04.21-18.12.12:089][132]LogLinker: Warning: Can't find file for asset '/Game/Mannequin/Character/Textures/UE4Man_Logo_N' while loading ../../../../../eion resp/Eion Perms/Eion/Content/thirdpersonreference/Mannequin/Character/Materials/M_UE4Man_ChestLogo.uasset.
+[2018.04.21-18.12.14:017][132]LogLinker: Warning: Asset '../../../../../eion resp/Eion Perms/Eion/Plugins/Voxel/Content/TriplanarFunctions/OptimizedTriplanarProjection.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.21-18.12.14:416][132]LogLinker: Warning: Can't find file '/Game/Mannequin/Character/Materials/M_UE4Man_Body'
+[2018.04.21-18.12.14:416][132]LoadErrors: Failed to load /Game/Mannequin/Character/Materials/M_UE4Man_Body.M_UE4Man_Body Referenced by M_UE4Man_ChestLogo
+[2018.04.21-18.12.14:416][132]LogLinker: Warning: Can't find file for asset '/Game/Mannequin/Character/Materials/M_UE4Man_Body' while loading NULL.
+[2018.04.21-18.12.14:417][132]LogLinker: Warning: Can't find file '/Game/Mannequin/Character/Textures/UE4Man_Logo_N'
+[2018.04.21-18.12.14:417][132]LoadErrors: Failed to load /Game/Mannequin/Character/Textures/UE4Man_Logo_N.UE4Man_Logo_N Referenced by M_UE4Man_ChestLogo
+[2018.04.21-18.12.14:417][132]LogLinker: Warning: Can't find file for asset '/Game/Mannequin/Character/Textures/UE4Man_Logo_N' while loading NULL.
+[2018.04.21-18.12.14:681][132]LogLinker: Warning: Can't find file '/Game/Mannequin/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4'
+[2018.04.21-18.12.14:682][132]LoadErrors: Failed to load /Game/Mannequin/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.ML_GlossyBlack_Latex_UE4 Referenced by M_UE4Man_Body
+[2018.04.21-18.12.14:682][132]LogLinker: Warning: Can't find file for asset '/Game/Mannequin/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4' while loading NULL.
+[2018.04.21-18.12.14:684][132]LogLinker: Warning: Can't find file '/Game/Mannequin/Character/Materials/MaterialLayers/ML_SoftMetal_UE4'
+[2018.04.21-18.12.14:684][132]LoadErrors: Failed to load /Game/Mannequin/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.ML_SoftMetal_UE4 Referenced by M_UE4Man_Body
+[2018.04.21-18.12.14:684][132]LogLinker: Warning: Can't find file for asset '/Game/Mannequin/Character/Materials/MaterialLayers/ML_SoftMetal_UE4' while loading NULL.
+[2018.04.21-18.12.14:685][132]LogLinker: Warning: Can't find file '/Game/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige'
+[2018.04.21-18.12.14:685][132]LoadErrors: Failed to load /Game/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.ML_Plastic_Shiny_Beige Referenced by M_UE4Man_Body
+[2018.04.21-18.12.14:686][132]LogLinker: Warning: Can't find file for asset '/Game/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige' while loading NULL.
+[2018.04.21-18.12.14:686][132]LogLinker: Warning: Can't find file '/Game/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO'
+[2018.04.21-18.12.14:686][132]LoadErrors: Failed to load /Game/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.ML_Plastic_Shiny_Beige_LOGO Referenced by M_UE4Man_Body
+[2018.04.21-18.12.14:686][132]LogLinker: Warning: Can't find file for asset '/Game/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO' while loading NULL.
+[2018.04.21-18.12.14:687][132]LogLinker: Warning: Can't find file '/Game/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige'
+[2018.04.21-18.12.14:687][132]LoadErrors: Failed to load /Game/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.ML_Plastic_Shiny_Beige Referenced by MaterialExpressionMaterialFunctionCall_13
+[2018.04.21-18.12.14:687][132]LogLinker: Warning: Can't find file for asset '/Game/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige' while loading NULL.
+[2018.04.21-18.12.14:687][132]LogLinker: Warning: Can't find file '/Game/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO'
+[2018.04.21-18.12.14:688][132]LoadErrors: Failed to load /Game/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.ML_Plastic_Shiny_Beige_LOGO Referenced by MaterialExpressionMaterialFunctionCall_3
+[2018.04.21-18.12.14:688][132]LogLinker: Warning: Can't find file for asset '/Game/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO' while loading NULL.
+[2018.04.21-18.12.14:688][132]LogLinker: Warning: Can't find file '/Game/Mannequin/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4'
+[2018.04.21-18.12.14:688][132]LoadErrors: Failed to load /Game/Mannequin/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.ML_GlossyBlack_Latex_UE4 Referenced by MaterialExpressionMaterialFunctionCall_8
+[2018.04.21-18.12.14:689][132]LogLinker: Warning: Can't find file for asset '/Game/Mannequin/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4' while loading NULL.
+[2018.04.21-18.12.14:689][132]LogLinker: Warning: Can't find file '/Game/Mannequin/Character/Materials/MaterialLayers/ML_SoftMetal_UE4'
+[2018.04.21-18.12.14:689][132]LoadErrors: Failed to load /Game/Mannequin/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.ML_SoftMetal_UE4 Referenced by MaterialExpressionMaterialFunctionCall_9
+[2018.04.21-18.12.14:689][132]LogLinker: Warning: Can't find file for asset '/Game/Mannequin/Character/Materials/MaterialLayers/ML_SoftMetal_UE4' while loading NULL.
+[2018.04.21-18.12.14:690][132]LogLinker: Warning: Can't find file '/Game/Mannequin/Character/Textures/UE4_Mannequin_MAT_MASKA'
+[2018.04.21-18.12.14:690][132]LoadErrors: Failed to load /Game/Mannequin/Character/Textures/UE4_Mannequin_MAT_MASKA.UE4_Mannequin_MAT_MASKA Referenced by MaterialExpressionTextureSample_4
+[2018.04.21-18.12.14:690][132]LogLinker: Warning: Can't find file for asset '/Game/Mannequin/Character/Textures/UE4_Mannequin_MAT_MASKA' while loading NULL.
+[2018.04.21-18.12.14:691][132]LogLinker: Warning: Can't find file '/Game/Mannequin/Character/Textures/UE4_Mannequin__normals'
+[2018.04.21-18.12.14:691][132]LoadErrors: Failed to load /Game/Mannequin/Character/Textures/UE4_Mannequin__normals.UE4_Mannequin__normals Referenced by MaterialExpressionTextureSampleParameter2D_0
+[2018.04.21-18.12.14:691][132]LogLinker: Warning: Can't find file for asset '/Game/Mannequin/Character/Textures/UE4_Mannequin__normals' while loading NULL.
+[2018.04.21-18.12.14:983][132]LogSkeletalMesh: Skeletal Mesh found in DDC [5.823103ms] /Game/thirdpersonreference/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2018.04.21-18.12.15:057][132]LogSkeletalMesh: Skeletal Mesh found in DDC [1.176015ms] /Game/mobs/wolf/wolf_ready.wolf_ready
+[2018.04.21-18.12.15:121][132]LogMaterial: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2018.04.21-18.12.15:123][132]LogMaterial: Warning: D:\eion resp\Eion Perms\Eion\Content\thirdpersonreference\Mannequin\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.04.21-18.12.15:123][132]LogMaterial: 	Missing Material Function
+[2018.04.21-18.12.15:123][132]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2018.04.21-18.12.15:123][132]LogMaterial: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2018.04.21-18.12.15:123][132]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.04.21-18.12.15:123][132]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2018.04.21-18.12.15:123][132]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2018.04.21-18.12.15:123][132]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2018.04.21-18.12.15:123][132]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2018.04.21-18.12.15:133][132]LogSkeletalMesh: Skeletal Mesh found in DDC [1.880909ms] /Game/mobs/spincer/spider.spider
+[2018.04.21-18.12.15:258][132]LogSkeletalMesh: Skeletal Mesh found in DDC [3.698969ms] /Game/third_person_model/character/base.base
+[2018.04.21-18.12.15:263][132]LogAIModule: Creating AISystem for world test_map
+[2018.04.21-18.12.15:321][132]Cmd: MAP LOAD FILE="../../../../../eion resp/Eion Perms/Eion/Content/test_map.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.04.21-18.12.15:321][132]LightingResults: New page: Lighting Build
+[2018.04.21-18.12.15:321][132]LoadErrors: New page: Loading map: test_map.umap
+[2018.04.21-18.12.15:322][132]MapCheck: New page: Map Check
+[2018.04.21-18.12.15:322][132]LightingResults: New page: Lighting Build
+[2018.04.21-18.12.15:406][132]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.04.21-18.12.15:452][132]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.04.21-18.12.15:515][132]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 62.534ms to complete.
+[2018.04.21-18.12.15:520][132]LogFileHelpers: Loading map 'test_map' took 0.201
+[2018.04.21-18.12.16:030][177]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.21-18.12.16:047][177]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.21-18.12.16:048][177]PIE: New page: PIE session: test_map (Apr 22, 2018, 12:12:16 AM)
+[2018.04.21-18.12.16:048][177]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_test_map
+[2018.04.21-18.12.16:063][177]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015121s)
+[2018.04.21-18.12.16:064][177]LogAIModule: Creating AISystem for world test_map
+[2018.04.21-18.12.16:064][177]LogPlayLevel: PIE: World Init took: (0.000532s)
+[2018.04.21-18.12.16:064][177]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/test_map.test_map to /Game/UEDPIE_0_test_map.test_map (0.015772s)
+[2018.04.21-18.12.16:085][177]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.21-18.12.16:093][177]LogInit: FAudioDevice initialized.
+[2018.04.21-18.12.16:236][177]LogLinker: Warning: Asset '../../../../../eion resp/Eion Perms/Eion/Plugins/Voxel/Content/BPFL_VoxelEditUtilities.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.21-18.12.16:266][177]LogLinker: Warning: Asset '../../../../../eion resp/Eion Perms/Eion/Plugins/Voxel/Content/Markers/BP_VoxelBoxMarker.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.21-18.12.16:317][177]LogLinker: Warning: Asset '../../../../../eion resp/Eion Perms/Eion/Plugins/Voxel/Content/Markers/M_VoxelMarker.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.21-18.12.16:361][177]LogLinker: Warning: Asset '../../../../../eion resp/Eion Perms/Eion/Plugins/Voxel/Content/Markers/Shape_Cube.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.21-18.12.16:401][177]LogLinker: Warning: Asset '../../../../../eion resp/Eion Perms/Eion/Plugins/Voxel/Content/Markers/BP_VoxelSphereMarker.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.21-18.12.16:440][177]LogLinker: Warning: Asset '../../../../../eion resp/Eion Perms/Eion/Plugins/Voxel/Content/Markers/BP_VoxelSpotLightMarker.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.21-18.12.16:475][177]LogLinker: Warning: Asset '../../../../../eion resp/Eion Perms/Eion/Plugins/Voxel/Content/Markers/Cookie.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.21-18.12.16:519][177]LogLinker: Warning: Asset '../../../../../eion resp/Eion Perms/Eion/Plugins/Voxel/Content/Markers/UI_target_4096.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.21-18.12.16:567][177]LogLinker: Warning: Asset '../../../../../eion resp/Eion Perms/Eion/Plugins/Voxel/Content/EVoxelMode.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.21-18.12.16:582][177]LogLinker: Warning: Asset '../../../../../eion resp/Eion Perms/Eion/Plugins/Voxel/Content/EVoxelTool.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.21-18.12.16:703][177]LogLinker: Warning: Asset '../../../../../eion resp/Eion Perms/Eion/Plugins/Voxel/Content/UI/WBP_VoxelUI_Base.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.21-18.12.16:718][177]LogLinker: Warning: Asset '../../../../../eion resp/Eion Perms/Eion/Plugins/Voxel/Content/UI/WBP_VoxelUI_Demo.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.21-18.12.16:731][177]LogLinker: Warning: Asset '../../../../../eion resp/Eion Perms/Eion/Plugins/Voxel/Content/UI/WBP_TexturesPanel.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.21-18.12.16:775][177]LogLinker: Warning: Asset '../../../../../eion resp/Eion Perms/Eion/Plugins/Voxel/Content/UI/WBP_TextureItem.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.21-18.12.16:866][177]LogLinker: Warning: Asset '../../../../../eion resp/Eion Perms/Eion/Plugins/Voxel/Content/UI/logo-48px.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.21-18.12.16:871][177]LogLinker: Warning: Asset '../../../../../eion resp/Eion Perms/Eion/Plugins/Voxel/Content/UI/slider_bg_772x25.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.21-18.12.16:877][177]LogLinker: Warning: Asset '../../../../../eion resp/Eion Perms/Eion/Plugins/Voxel/Content/UI/slider_fill_772x25.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.21-18.12.17:233][177]LogLoad: Game class is 'MYGAMEMODE_C'
+[2018.04.21-18.12.17:238][177]LogWorld: Bringing World /Game/UEDPIE_0_test_map.test_map up for play (max tick rate 0) at 2018.04.21-21.12.17
+[2018.04.21-18.12.17:240][177]LogWorld: Bringing up level for play took: 0.004366
+[2018.04.21-18.12.17:249][177]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 11 classes and 0 folders.
+[2018.04.21-18.12.17:249][177]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.04.21-18.12.17:250][177]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.04.21-18.12.17:250][177]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.04.21-18.12.17:251][177]LogVoxel: Warning: Loading world
+[2018.04.21-18.12.17:328][177]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.04.21-18.12.17:340][177]PIE: Play in editor start time for /Game/UEDPIE_0_test_map 1.905
+[2018.04.21-18.12.17:388][177]LogRenderer: Reallocating scene render targets to support 1292x756 Format 10 NumSamples 1 (Frame:1).
+[2018.04.21-18.12.17:459][177]LogStats: Warning: MetaData mismatch. Did you assign a stat to two groups? New //STATGROUP_Voxel//STAT_FQueuedThread_Run_WaitForWork///FVoxelQueuedThread::Run.WaitForWork///####STATCAT_Advanced#### old //STATGROUP_ThreadPoolAsyncTasks//STAT_FQueuedThread_Run_WaitForWork///FQueuedThread::Run.WaitForWork///####STATCAT_Advanced####
+[2018.04.21-18.12.22:541][689]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.21-18.12.22:639][699]LogSlate: Window 'Eion Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.04.21-18.12.23:570][784]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.21-18.12.23:588][784]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.21-18.12.23:588][784]PIE: New page: PIE session: test_map (Apr 22, 2018, 12:12:23 AM)
+[2018.04.21-18.12.23:588][784]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_test_map
+[2018.04.21-18.12.23:602][784]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014102s)
+[2018.04.21-18.12.23:602][784]LogAIModule: Creating AISystem for world test_map
+[2018.04.21-18.12.23:603][784]LogPlayLevel: PIE: World Init took: (0.000491s)
+[2018.04.21-18.12.23:603][784]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/test_map.test_map to /Game/UEDPIE_0_test_map.test_map (0.014709s)
+[2018.04.21-18.12.23:623][784]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.21-18.12.23:631][784]LogInit: FAudioDevice initialized.
+[2018.04.21-18.12.23:684][784]LogLoad: Game class is 'MYGAMEMODE_C'
+[2018.04.21-18.12.23:686][784]LogWorld: Bringing World /Game/UEDPIE_0_test_map.test_map up for play (max tick rate 0) at 2018.04.21-21.12.23
+[2018.04.21-18.12.23:688][784]LogWorld: Bringing up level for play took: 0.003768
+[2018.04.21-18.12.23:689][784]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.04.21-18.12.23:689][784]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.04.21-18.12.23:689][784]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.04.21-18.12.23:691][784]LogVoxel: Warning: Loading world
+[2018.04.21-18.12.23:764][784]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.04.21-18.12.23:771][784]PIE: Play in editor start time for /Game/UEDPIE_0_test_map 0.336
+[2018.04.21-18.12.24:175][819]LogVoxel: Error: Remove floating blocks: World is NULL
+[2018.04.21-18.12.24:175][819]LogVoxel: Error: SimulatePhysicsOnFloatingVoxelActors: World is NULL
+[2018.04.21-18.12.24:192][821]LogVoxel: Error: Remove floating blocks: World is NULL
+[2018.04.21-18.12.24:192][821]LogVoxel: Error: SimulatePhysicsOnFloatingVoxelActors: World is NULL
+[2018.04.21-18.12.24:217][824]LogVoxel: Error: Remove floating blocks: World is NULL
+[2018.04.21-18.12.24:217][824]LogVoxel: Error: SimulatePhysicsOnFloatingVoxelActors: World is NULL
+[2018.04.21-18.12.24:233][826]LogVoxel: Error: Remove floating blocks: World is NULL
+[2018.04.21-18.12.24:233][826]LogVoxel: Error: SimulatePhysicsOnFloatingVoxelActors: World is NULL
+[2018.04.21-18.12.37:498][413]LogSlate: Window 'Eion Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed

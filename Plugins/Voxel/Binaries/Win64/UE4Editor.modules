@@ -1,0 +1,8 @@
+{
+	"BuildId": "3944462",
+	"Modules": 
+	{
+		"Voxel": "UE4Editor-Voxel.dll",
+		"VoxelEditor": "UE4Editor-VoxelEditor.dll"
+	}
+}

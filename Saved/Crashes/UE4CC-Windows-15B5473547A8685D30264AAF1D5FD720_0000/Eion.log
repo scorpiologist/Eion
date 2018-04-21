@@ -1,0 +1,1398 @@
+﻿Log file open, 04/19/18 13:30:42
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Eion
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-872158248) SRandInit(-872158248).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 3989454, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.251055
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +3:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../../../eion resp/backup/Eion/Plugins/Voxel/Binaries/Win64/UE4Editor-Voxel.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../../../eion resp/backup/Eion/Plugins/Voxel/Binaries/Win64/UE4Editor-VoxelEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin Voxel
+LogPluginManager: Plugin shader directory ../../../../../eion resp/backup/Eion/Plugins/Voxel/Shaders found
+LogPluginManager: Mapping shader source directory ../../../../../eion resp/backup/Eion/Plugins/Voxel/Shaders to virtual directory /Plugin/Voxel
+LogStreaming: Display: Took  1.131s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am Scorpiologist (192.168.0.106:0)
+LogInit: Build: ++UE4+Release-4.19-CL-3989454
+LogInit: Engine Version: 4.19.1-3989454+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr  6 2018 12:26:04
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line:  
+LogInit: Base Directory: D:/programs/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.010s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.04.19-10.30.43:478][  0]LogInit: Selected Device Profile: [Windows]
+[2018.04.19-10.30.43:478][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.04.19-10.30.43:510][  0]LogInit: Computer: SCORPIOLOGIST
+[2018.04.19-10.30.43:510][  0]LogInit: User: youce
+[2018.04.19-10.30.43:510][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.04.19-10.30.43:510][  0]LogInit: High frequency timer resolution =3.914064 MHz
+[2018.04.19-10.30.43:510][  0]LogMemory: Memory total: Physical=32.0GB (32GB approx)
+[2018.04.19-10.30.43:510][  0]LogMemory: Platform Memory Stats for Windows
+[2018.04.19-10.30.43:510][  0]LogMemory: Process Physical Memory: 276.09 MB used, 276.09 MB peak
+[2018.04.19-10.30.43:510][  0]LogMemory: Process Virtual Memory: 273.01 MB used, 273.01 MB peak
+[2018.04.19-10.30.43:510][  0]LogMemory: Physical Memory: 8548.11 MB used,  24171.63 MB free, 32719.74 MB total
+[2018.04.19-10.30.43:510][  0]LogMemory: Virtual Memory: 703.81 MB used,  24171.63 MB free, 134217728.00 MB total
+[2018.04.19-10.30.43:553][  0]LogInit: Using OS detected language (en-US).
+[2018.04.19-10.30.43:553][  0]LogInit: Using OS detected locale (en-US).
+[2018.04.19-10.30.43:556][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.04.19-10.30.43:926][  0]LogStreaming: Display: Took  0.373s to EndInitTextLocalization.
+[2018.04.19-10.30.43:926][  0]LogInit: Setting process to per monitor DPI aware
+[2018.04.19-10.30.43:958][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.04.19-10.30.43:958][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.04.19-10.30.44:200][  0]LogD3D11RHI: D3D11 adapters:
+[2018.04.19-10.30.44:239][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2018.04.19-10.30.44:240][  0]LogD3D11RHI:       8088/0/16359 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.04.19-10.30.44:241][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.04.19-10.30.44:241][  0]LogD3D11RHI:       0/0/16359 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.04.19-10.30.44:241][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.04.19-10.30.44:247][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.04.19-10.30.44:247][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2018.04.19-10.30.44:248][  0]LogWindows: EnumDisplayDevices:
+[2018.04.19-10.30.44:248][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2018.04.19-10.30.44:248][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:1)
+[2018.04.19-10.30.44:248][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2018.04.19-10.30.44:248][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2018.04.19-10.30.44:248][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.04.19-10.30.44:248][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2018.04.19-10.30.44:248][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.04.19-10.30.44:248][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.04.19-10.30.44:248][  0]LogRHI: Texture pool is 5661 MB (70% of 8088 MB)
+[2018.04.19-10.30.44:280][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.04.19-10.30.44:280][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.04.19-10.30.44:280][  0]LogD3D11RHI: Async texture creation enabled
+[2018.04.19-10.30.44:405][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.04.19-10.30.44:500][  0]LogShaderCompilers: Guid format shader working directory is 9 characters bigger than the processId version (../../../../../eion resp/backup/Eion/Intermediate/Shaders/WorkingDirectory/13812/).
+[2018.04.19-10.30.44:500][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/youce/AppData/Local/Temp/UnrealShaderWorkingDir/4D3B89114245E0EE89AFA88AC473328D/'.
+[2018.04.19-10.30.44:697][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.04.19-10.30.44:709][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.04.19-10.30.44:721][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.04.19-10.30.44:732][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.04.19-10.30.44:743][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.04.19-10.30.44:754][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.04.19-10.30.44:766][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.04.19-10.30.44:777][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.04.19-10.30.44:783][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.04.19-10.30.44:794][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.04.19-10.30.44:803][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.04.19-10.30.44:813][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.04.19-10.30.44:823][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.04.19-10.30.44:833][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.04.19-10.30.44:843][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.04.19-10.30.44:862][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.04.19-10.30.44:863][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.04.19-10.30.44:872][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.04.19-10.30.44:874][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.04.19-10.30.44:907][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.04.19-10.30.44:916][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.04.19-10.30.44:926][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.04.19-10.30.44:936][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.04.19-10.30.44:946][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.04.19-10.30.44:956][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.04.19-10.30.44:956][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.04.19-10.30.45:056][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.04.19-10.30.45:056][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.04.19-10.30.45:056][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.04.19-10.30.45:661][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.04.19-10.30.45:714][  0]LogDerivedDataCache: Loaded boot cache 0.05s 74MB C:/Users/youce/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.04.19-10.30.45:714][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/youce/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.04.19-10.30.45:714][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../eion resp/backup/Eion/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.04.19-10.30.45:714][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.04.19-10.30.45:714][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../eion resp/backup/Eion/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.04.19-10.30.45:714][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.04.19-10.30.45:727][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.04.19-10.30.45:738][  0]LogDerivedDataCache: Using Local data cache path C:/Users/youce/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.04.19-10.30.45:748][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.04.19-10.30.45:749][  0]LogSlate: Using Freetype 2.6.0
+[2018.04.19-10.30.45:749][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.04.19-10.30.45:749][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.04.19-10.30.45:866][  0]LogAssetRegistry: FAssetRegistry took 0.0249 seconds to start up
+[2018.04.19-10.30.46:128][  0]LogInit: Selected Device Profile: [Windows]
+[2018.04.19-10.30.46:304][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.04.19-10.30.46:306][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.04.19-10.30.46:306][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.04.19-10.30.46:306][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.04.19-10.30.46:306][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.04.19-10.30.46:306][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.04.19-10.30.46:338][  0]LogNetVersion: Eion , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1394248169)
+[2018.04.19-10.30.46:940][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 2 prioritized culture(s) in 0.125884 seconds
+[2018.04.19-10.30.46:946][  0]LogUObjectArray: 37432 objects as part of root set at end of initial load.
+[2018.04.19-10.30.46:946][  0]LogUObjectAllocator: 7501896 out of 0 bytes used by permanent object pool.
+[2018.04.19-10.30.46:946][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.04.19-10.30.48:663][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.04.19-10.30.48:693][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.04.19-10.30.49:066][  0]SourceControl: Source control is disabled
+[2018.04.19-10.30.49:066][  0]SourceControl: Source control is disabled
+[2018.04.19-10.30.49:084][  0]SourceControl: Source control is disabled
+[2018.04.19-10.30.49:102][  0]SourceControl: Source control is disabled
+[2018.04.19-10.30.49:568][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.04.19-10.30.49:717][  0]LogOcInput: OculusInput pre-init called
+[2018.04.19-10.30.49:837][  0]LogEngine: Initializing Engine...
+[2018.04.19-10.30.49:838][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.04.19-10.30.49:839][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.04.19-10.30.49:839][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.04.19-10.30.50:170][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.04.19-10.30.50:180][  0]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.19-10.30.50:189][  0]LogInit: FAudioDevice initialized.
+[2018.04.19-10.30.50:259][  0]LogDerivedDataCache: Saved boot cache 0.07s 87MB C:/Users/youce/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.04.19-10.30.50:270][  0]LogInit: Texture streaming: Enabled
+[2018.04.19-10.30.50:284][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.04.19-10.30.50:298][  0]LogInit: Transaction tracking system initialized
+[2018.04.19-10.30.50:320][  0]BlueprintLog: New page: Editor Load
+[2018.04.19-10.30.50:381][  0]LocalizationService: Localization service is disabled
+[2018.04.19-10.30.50:494][  0]LogConsoleResponse: Display: 
+[2018.04.19-10.30.50:717][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.04.19-10.30.50:717][  0]LogCook: Display: Mobile HDR setting 1
+[2018.04.19-10.30.50:717][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.04.19-10.30.50:717][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.04.19-10.30.50:717][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.04.19-10.30.50:924][  0]LogFileCache: Scanning file cache for directory 'D:/eion resp/backup/Eion/Content/' took 0.02s
+[2018.04.19-10.30.51:322][  0]SourceControl: Source control is disabled
+[2018.04.19-10.30.51:322][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.04.19-10.30.51:322][  0]LightingResults: New page: Lighting Build
+[2018.04.19-10.30.51:324][  0]MapCheck: New page: Map Check
+[2018.04.19-10.30.51:324][  0]LightingResults: New page: Lighting Build
+[2018.04.19-10.30.51:476][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2018.04.19-10.30.51:481][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.04.19-10.30.51:491][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.04.19-10.30.51:530][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 39.531ms to complete.
+[2018.04.19-10.30.51:531][  0]LogFileHelpers: Loading map 'Template_Default' took 0.209
+[2018.04.19-10.30.51:649][  0]LogCollectionManager: Loaded 0 collections in 0.001333 seconds
+[2018.04.19-10.30.51:690][  0]LogFileCache: Scanning file cache for directory 'D:/eion resp/backup/Eion/Saved/Collections/' took 0.01s
+[2018.04.19-10.30.51:691][  0]LogFileCache: Scanning file cache for directory 'D:/eion resp/backup/Eion/Content/Developers/youce/Collections/' took 0.01s
+[2018.04.19-10.30.51:691][  0]LogFileCache: Scanning file cache for directory 'D:/eion resp/backup/Eion/Content/Collections/' took 0.01s
+[2018.04.19-10.30.51:691][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.04.19-10.30.51:699][  0]LogContentBrowser: Native class hierarchy populated in 0.0073 seconds. Added 2577 classes and 569 folders.
+[2018.04.19-10.30.51:704][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.04.19-10.30.51:747][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.04.19-10.30.51:750][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.04.19-10.30.51:822][  0]LogSlate: Took 0.000271 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.04.19-10.30.51:824][  0]LogSlate: Took 0.000214 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.04.19-10.30.51:829][  0]LogSlate: Took 0.000232 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.04.19-10.30.51:911][  0]LogRenderer: Reallocating scene render targets to support 1208x692 Format 10 NumSamples 1 (Frame:1).
+[2018.04.19-10.30.52:043][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.04.19-10.30.52:043][  0]LogLoad: (Engine Initialization) Total time: 11.66 seconds
+[2018.04.19-10.30.52:043][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.04.19-10.30.52:401][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.04.19-10.30.52:507][  0]LogSlate: Took 0.000193 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.04.19-10.30.52:849][  1]LogAssetRegistry: Asset discovery search completed in 7.0050 seconds
+[2018.04.19-10.30.52:851][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.04.19-10.30.52:851][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000047 seconds (updated 0 objects)
+[2018.04.19-10.33.19:524][513]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.19-10.33.26:432][834]LogMaterial: Missing cached shader map for material health, compiling. 
+[2018.04.19-10.33.26:492][834]LogMaterial: Missing cached shader map for material air, compiling. 
+[2018.04.19-10.33.26:529][834]LogShaderCompilers: Display: Shaders left to compile 56
+[2018.04.19-10.33.26:529][834]LogShaderCompilers: Display: Shaders left to compile 46
+[2018.04.19-10.33.26:529][834]LogShaderCompilers: Display: Shaders left to compile 36
+[2018.04.19-10.33.26:529][834]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.04.19-10.33.26:529][834]LogSkeletalMesh: Skeletal Mesh found in DDC [11.400171ms] /Game/third_person_model/character/base.base
+[2018.04.19-10.33.26:735][834]LogMaterial: Missing cached shader map for material stamina, compiling. 
+[2018.04.19-10.33.26:745][834]LogMaterial: Missing cached shader map for material hunger, compiling. 
+[2018.04.19-10.33.26:853][834]LogSlate: Took 0.000225 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.04.19-10.33.27:333][834]LogLinker: Warning: Asset '../../../../../eion resp/backup/Eion/Plugins/Voxel/Content/BPFL_VoxelEditUtilities.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.19-10.33.27:342][834]LogLinker: Warning: Asset '../../../../../eion resp/backup/Eion/Plugins/Voxel/Content/Markers/BP_VoxelBoxMarker.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.19-10.33.27:353][834]LogLinker: Warning: Asset '../../../../../eion resp/backup/Eion/Plugins/Voxel/Content/Markers/M_VoxelMarker.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.19-10.33.27:362][834]LogLinker: Warning: Asset '../../../../../eion resp/backup/Eion/Plugins/Voxel/Content/Markers/Shape_Cube.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.19-10.33.27:376][834]LogLinker: Warning: Asset '../../../../../eion resp/backup/Eion/Plugins/Voxel/Content/Markers/BP_VoxelSphereMarker.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.19-10.33.27:403][834]LogLinker: Warning: Asset '../../../../../eion resp/backup/Eion/Plugins/Voxel/Content/Markers/BP_VoxelSpotLightMarker.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.19-10.33.27:409][834]LogLinker: Warning: Asset '../../../../../eion resp/backup/Eion/Plugins/Voxel/Content/Markers/Cookie.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.19-10.33.27:416][834]LogLinker: Warning: Asset '../../../../../eion resp/backup/Eion/Plugins/Voxel/Content/Markers/UI_target_4096.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.19-10.33.27:445][834]LogLinker: Warning: Asset '../../../../../eion resp/backup/Eion/Plugins/Voxel/Content/EVoxelMode.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.19-10.33.27:458][834]LogLinker: Warning: Asset '../../../../../eion resp/backup/Eion/Plugins/Voxel/Content/EVoxelTool.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.19-10.33.27:762][834]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0009 seconds. Added 116 classes and 0 folders.
+[2018.04.19-10.33.29:090][834]LogShaderCompilers: Display: Shaders left to compile 72
+[2018.04.19-10.33.29:090][834]LogShaderCompilers: Display: Shaders left to compile 62
+[2018.04.19-10.33.29:090][834]LogShaderCompilers: Display: Shaders left to compile 52
+[2018.04.19-10.33.29:090][834]LogShaderCompilers: Display: Shaders left to compile 42
+[2018.04.19-10.33.29:133][834]LogSlate: Took 0.016235 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.04.19-10.33.29:522][845]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.04.19-10.33.29:596][848]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.04.19-10.33.30:449][891]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.04.19-10.33.30:464][892]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.04.19-10.33.33:883][129]LogSlate: Took 0.017213 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.04.19-10.34.09:018][428]BlueprintLog: New page: Compile TestHUD
+[2018.04.19-10.35.55:673][125]LogMaterial: Missing cached shader map for material 1, compiling. 
+[2018.04.19-10.35.55:936][125]LogMaterial: Missing cached shader map for material 1, compiling. 
+[2018.04.19-10.35.55:943][125]LogMaterial: Missing cached shader map for material 1, compiling. 
+[2018.04.19-10.35.55:952][125]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.04.19-10.35.55:952][125]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.04.19-10.35.55:952][125]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.04.19-10.35.55:952][125]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.04.19-10.35.55:976][125]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.04.19-10.35.55:980][125]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureCoordinate_0, compiling. 
+[2018.04.19-10.35.55:984][125]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionAdd_0, compiling. 
+[2018.04.19-10.35.55:987][125]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionFloor_0, compiling. 
+[2018.04.19-10.35.56:427][154]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.04.19-10.35.56:440][155]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.04.19-10.35.56:440][155]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.04.19-10.35.56:452][156]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.04.19-10.35.56:571][164]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.04.19-10.35.56:604][166]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.04.19-10.35.56:681][171]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.04.19-10.35.56:725][174]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.04.19-10.35.56:781][178]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.04.19-10.35.56:842][182]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.04.19-10.35.56:884][185]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.04.19-10.35.56:921][188]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.04.19-10.35.56:995][193]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.04.19-10.35.56:996][193]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.04.19-10.35.57:036][196]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.04.19-10.35.57:089][200]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.04.19-10.35.57:118][202]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.04.19-10.35.57:133][203]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.04.19-10.35.57:144][204]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.04.19-10.35.57:160][205]MaterialEditorStats: Default UI Pixel Shader: 50 instructions
+[2018.04.19-10.35.57:160][205]MaterialEditorStats: Default UI Vertex Shader: 17 instructions
+[2018.04.19-10.35.57:160][205]MaterialEditorStats: Instanced UI Vertex Shader: 17 instructions
+[2018.04.19-10.35.57:160][205]MaterialEditorStats: Texture samplers: 2/16
+[2018.04.19-10.35.57:160][205]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.04.19-10.35.57:303][214]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.04.19-10.35.57:332][216]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.04.19-10.35.57:349][217]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.04.19-10.35.57:376][219]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.04.19-10.36.12:472][710]LogMaterial: Missing cached shader map for material 1, compiling. 
+[2018.04.19-10.36.12:492][711]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.04.19-10.36.12:492][711]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.04.19-10.36.12:492][711]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.04.19-10.36.12:492][711]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.04.19-10.36.12:634][721]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.04.19-10.36.12:646][722]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.04.19-10.36.12:647][722]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.04.19-10.36.12:662][723]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.04.19-10.36.12:763][730]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.04.19-10.36.12:810][733]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.04.19-10.36.12:856][736]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.04.19-10.36.12:897][739]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.04.19-10.36.12:958][743]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.04.19-10.36.12:988][745]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.04.19-10.36.13:044][749]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.04.19-10.36.13:091][752]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.04.19-10.36.13:134][755]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.04.19-10.36.13:135][755]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.04.19-10.36.13:176][758]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.04.19-10.36.13:271][765]MaterialEditorStats: Default UI Pixel Shader: 50 instructions
+[2018.04.19-10.36.13:271][765]MaterialEditorStats: Default UI Vertex Shader: 17 instructions
+[2018.04.19-10.36.13:271][765]MaterialEditorStats: Instanced UI Vertex Shader: 17 instructions
+[2018.04.19-10.36.13:271][765]MaterialEditorStats: Texture samplers: 2/16
+[2018.04.19-10.36.13:271][765]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.04.19-10.36.14:305][866]LogMaterial: Missing cached shader map for material 1, compiling. 
+[2018.04.19-10.36.14:312][866]LogMaterial: Missing cached shader map for material 1, compiling. 
+[2018.04.19-10.36.14:329][867]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.04.19-10.36.14:329][867]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.04.19-10.36.14:329][867]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.04.19-10.36.14:329][867]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.04.19-10.36.14:458][876]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.04.19-10.36.14:471][877]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.04.19-10.36.14:472][877]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.04.19-10.36.14:498][879]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.04.19-10.36.14:585][885]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.04.19-10.36.14:630][888]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.04.19-10.36.14:689][892]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.04.19-10.36.14:731][895]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.04.19-10.36.14:775][898]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.04.19-10.36.14:822][901]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.04.19-10.36.14:883][905]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.04.19-10.36.14:913][907]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.04.19-10.36.14:945][909]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.04.19-10.36.14:973][911]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.04.19-10.36.15:001][913]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.04.19-10.36.15:095][920]MaterialEditorStats: Default UI Pixel Shader: 50 instructions
+[2018.04.19-10.36.15:095][920]MaterialEditorStats: Default UI Vertex Shader: 17 instructions
+[2018.04.19-10.36.15:095][920]MaterialEditorStats: Instanced UI Vertex Shader: 17 instructions
+[2018.04.19-10.36.15:095][920]MaterialEditorStats: Texture samplers: 2/16
+[2018.04.19-10.36.15:095][920]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.04.19-10.36.15:362][946]LogMaterial: Missing cached shader map for material 1, compiling. 
+[2018.04.19-10.36.15:377][947]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.04.19-10.36.15:378][947]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.04.19-10.36.15:378][947]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.04.19-10.36.15:378][947]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.04.19-10.36.15:524][958]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.04.19-10.36.15:524][958]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.04.19-10.36.15:537][959]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.04.19-10.36.15:551][960]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.04.19-10.36.15:648][967]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.04.19-10.36.15:676][969]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.04.19-10.36.15:734][973]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.04.19-10.36.15:779][976]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.04.19-10.36.15:823][979]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.04.19-10.36.15:871][982]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.04.19-10.36.15:917][985]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.04.19-10.36.15:961][988]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.04.19-10.36.16:021][992]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.04.19-10.36.16:021][992]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.04.19-10.36.16:065][995]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.04.19-10.36.16:161][  2]MaterialEditorStats: Default UI Pixel Shader: 50 instructions
+[2018.04.19-10.36.16:162][  2]MaterialEditorStats: Default UI Vertex Shader: 17 instructions
+[2018.04.19-10.36.16:162][  2]MaterialEditorStats: Instanced UI Vertex Shader: 17 instructions
+[2018.04.19-10.36.16:162][  2]MaterialEditorStats: Texture samplers: 2/16
+[2018.04.19-10.36.16:162][  2]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.04.19-10.36.27:399][143]LogMaterial: Missing cached shader map for material 1, compiling. 
+[2018.04.19-10.36.27:419][144]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.04.19-10.36.27:419][144]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.04.19-10.36.27:419][144]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.04.19-10.36.27:419][144]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.04.19-10.36.27:548][153]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.04.19-10.36.27:562][154]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.04.19-10.36.27:576][155]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.04.19-10.36.27:602][157]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.04.19-10.36.27:689][163]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.04.19-10.36.27:707][164]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.04.19-10.36.27:783][169]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.04.19-10.36.27:814][171]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.04.19-10.36.27:855][174]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.04.19-10.36.27:919][178]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.04.19-10.36.27:955][180]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.04.19-10.36.27:985][182]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.04.19-10.36.28:049][186]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.04.19-10.36.28:067][187]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.04.19-10.36.28:082][188]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.04.19-10.36.28:195][196]MaterialEditorStats: Default UI Pixel Shader: 50 instructions
+[2018.04.19-10.36.28:195][196]MaterialEditorStats: Default UI Vertex Shader: 17 instructions
+[2018.04.19-10.36.28:195][196]MaterialEditorStats: Instanced UI Vertex Shader: 17 instructions
+[2018.04.19-10.36.28:195][196]MaterialEditorStats: Texture samplers: 2/16
+[2018.04.19-10.36.28:195][196]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.04.19-10.36.30:447][415]LogMaterial: Missing cached shader map for material 1, compiling. 
+[2018.04.19-10.36.30:458][415]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.04.19-10.36.30:458][415]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.04.19-10.36.30:458][415]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.04.19-10.36.30:458][415]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.04.19-10.36.30:461][415]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.04.19-10.36.30:597][422]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.04.19-10.36.30:597][422]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.04.19-10.36.30:612][423]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.04.19-10.36.30:626][424]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.04.19-10.36.30:729][431]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.04.19-10.36.30:761][433]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.04.19-10.36.30:807][436]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.04.19-10.36.30:852][439]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.04.19-10.36.30:896][442]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.04.19-10.36.30:945][445]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.04.19-10.36.30:988][448]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.04.19-10.36.31:028][451]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.04.19-10.36.31:082][454]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.04.19-10.36.31:097][455]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.04.19-10.36.31:130][457]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.04.19-10.36.31:177][460]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.04.19-10.36.31:193][461]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.04.19-10.36.31:237][464]MaterialEditorStats: Default UI Pixel Shader: 50 instructions
+[2018.04.19-10.36.31:237][464]MaterialEditorStats: Default UI Vertex Shader: 17 instructions
+[2018.04.19-10.36.31:237][464]MaterialEditorStats: Instanced UI Vertex Shader: 17 instructions
+[2018.04.19-10.36.31:237][464]MaterialEditorStats: Texture samplers: 2/16
+[2018.04.19-10.36.31:237][464]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.04.19-10.36.41:386][393]LogEditorTransaction: Undo Create Pin Link
+[2018.04.19-10.36.41:388][393]LogMaterial: Missing cached shader map for material 1, compiling. 
+[2018.04.19-10.36.41:398][393]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.04.19-10.36.41:399][393]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.04.19-10.36.41:399][393]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.04.19-10.36.41:399][393]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.04.19-10.36.41:400][393]LogMaterial: Missing cached shader map for material 1, compiling. 
+[2018.04.19-10.36.41:409][393]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.04.19-10.36.41:522][397]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.04.19-10.36.41:540][398]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.04.19-10.36.41:555][399]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.04.19-10.36.41:573][400]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.04.19-10.36.41:650][403]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.04.19-10.36.41:676][404]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.04.19-10.36.41:701][405]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.04.19-10.36.41:720][406]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.04.19-10.36.41:781][409]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.04.19-10.36.41:821][411]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.04.19-10.36.41:922][417]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.04.19-10.36.41:941][418]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.04.19-10.36.41:956][419]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.04.19-10.36.42:041][424]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.04.19-10.36.42:071][426]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.04.19-10.36.42:085][427]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.04.19-10.36.42:136][430]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.04.19-10.36.42:186][433]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.04.19-10.36.42:202][434]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.04.19-10.36.42:218][435]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.04.19-10.36.42:268][438]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.04.19-10.36.42:301][440]MaterialEditorStats: Default UI Pixel Shader: 50 instructions
+[2018.04.19-10.36.42:301][440]MaterialEditorStats: Default UI Vertex Shader: 17 instructions
+[2018.04.19-10.36.42:301][440]MaterialEditorStats: Instanced UI Vertex Shader: 17 instructions
+[2018.04.19-10.36.42:301][440]MaterialEditorStats: Texture samplers: 2/16
+[2018.04.19-10.36.42:301][440]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.04.19-10.39.16:340][187]BlueprintLog: New page: Compile TestHUD
+[2018.04.19-10.40.24:918][503]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_46' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.19-10.40.24:958][503]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_1' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.19-10.40.24:960][503]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_3' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.19-10.40.24:997][504]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_5' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.19-10.40.24:999][504]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_7' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.19-10.40.25:017][505]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_9' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.19-10.40.25:018][505]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_11' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.19-10.40.25:021][505]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_13' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.19-10.40.25:035][506]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_15' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.19-10.40.25:038][506]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_17' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.19-10.40.25:052][507]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_19' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.19-10.40.25:055][507]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_21' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.19-10.40.25:070][508]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_23' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.19-10.40.25:073][508]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_25' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.19-10.40.25:087][509]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_27' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.19-10.40.25:090][509]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_29' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.19-10.40.25:106][510]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_31' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.19-10.40.25:108][510]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_33' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.19-10.40.25:122][511]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_35' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.19-10.40.25:124][511]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_37' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.19-10.40.25:140][512]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_39' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.19-10.40.25:143][512]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_41' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.19-10.40.25:157][513]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_43' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.19-10.40.25:159][513]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_45' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.19-10.40.25:174][514]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_47' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.19-10.40.25:176][514]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_49' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.19-10.40.25:191][515]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_51' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.19-10.40.25:193][515]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_53' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.19-10.40.25:209][516]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_55' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.19-10.40.25:212][516]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_57' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.19-10.40.25:226][517]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_59' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.19-10.40.25:229][517]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_61' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.19-10.40.25:244][518]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_63' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.19-10.40.25:246][518]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_65' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.19-10.40.25:260][519]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_67' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.19-10.40.25:262][519]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_69' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.19-10.40.25:277][520]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_71' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.19-10.40.25:280][520]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_73' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.19-10.40.25:294][521]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_75' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.19-10.40.25:296][521]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_77' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.19-10.40.25:312][522]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_79' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.19-10.40.25:314][522]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_81' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.19-10.40.25:329][523]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_83' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.19-10.40.25:331][523]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_85' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.19-10.40.25:346][524]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_87' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.19-10.40.25:348][524]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_89' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.19-10.40.25:363][525]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_91' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.19-10.40.25:379][526]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_93' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.19-10.40.25:381][526]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_95' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.19-10.40.25:396][527]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_97' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.19-10.40.25:412][528]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_99' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.19-10.40.25:427][529]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_101' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.19-10.40.25:444][530]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_103' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.19-10.40.25:459][531]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_105' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.19-10.40.25:476][532]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_107' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.19-10.40.25:491][533]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_109' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.19-10.40.25:508][534]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_111' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.19-10.40.25:523][535]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_113' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.19-10.40.25:540][536]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_115' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.19-10.40.25:555][537]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_117' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.19-10.40.25:571][538]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_119' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.19-10.40.25:586][539]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_121' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.19-10.40.25:602][540]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_123' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.19-10.40.25:619][541]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_125' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.19-10.40.25:634][542]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_127' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.19-10.40.25:651][543]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_129' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.19-10.40.25:666][544]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_131' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.19-10.40.25:683][545]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_133' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.19-10.40.25:698][546]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_135' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.19-10.40.25:715][547]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_137' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.19-10.40.25:729][548]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_139' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.19-10.40.25:746][549]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_141' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.19-10.40.25:761][550]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_143' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.19-10.40.25:778][551]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_145' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.19-10.40.25:791][552]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_147' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.19-10.40.25:794][552]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_149' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.19-10.40.25:810][553]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_151' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.19-10.40.25:814][553]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_153' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.19-10.40.25:828][554]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_155' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.19-10.40.25:831][554]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_157' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.19-10.40.25:846][555]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_159' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.19-10.40.25:849][555]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_161' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.19-10.40.25:863][556]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_163' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.19-10.40.25:866][556]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_165' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.19-10.40.25:883][557]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_167' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.19-10.40.25:884][557]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_169' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.19-10.40.25:899][558]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_171' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.19-10.40.25:902][558]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_173' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.19-10.40.25:917][559]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_175' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.19-10.40.25:919][559]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_177' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.19-10.40.25:933][560]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_179' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.19-10.40.25:936][560]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_181' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.19-10.40.25:951][561]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_183' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.19-10.40.25:953][561]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_185' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.19-10.40.25:969][562]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_187' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.19-10.40.25:971][562]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_189' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.19-10.40.25:986][563]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_191' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.19-10.40.25:988][563]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_193' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.19-10.40.26:005][564]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_195' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.19-10.40.26:020][565]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_197' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.19-10.40.26:036][566]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_199' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.19-10.40.26:051][567]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_201' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.19-10.40.26:067][568]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_203' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.19-10.40.26:084][569]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_205' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.19-10.40.26:100][570]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_207' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.19-10.40.26:116][571]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_209' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.19-10.40.26:131][572]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_211' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.19-10.40.26:147][573]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_213' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.19-10.40.26:162][574]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_215' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.19-10.40.26:178][575]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_217' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.19-10.40.26:193][576]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_219' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.19-10.40.26:208][577]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_221' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.19-10.40.26:212][577]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_223' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.19-10.40.26:226][578]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_225' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.19-10.40.26:229][578]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_227' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.19-10.40.26:245][579]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_229' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.19-10.40.26:247][579]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_231' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.19-10.40.26:260][580]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_233' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.19-10.40.26:263][580]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_235' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.19-10.40.26:279][581]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_237' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.19-10.40.26:281][581]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_239' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.19-10.40.26:296][582]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_241' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.19-10.40.26:299][582]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_243' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.19-10.40.26:314][583]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_245' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.19-10.40.26:315][583]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_247' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.19-10.40.26:317][583]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_249' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.19-10.40.26:333][584]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_251' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.19-10.40.26:336][584]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_253' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.19-10.40.26:352][585]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_255' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.19-10.40.26:369][586]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_257' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.19-10.40.26:384][587]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_259' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.19-10.40.26:401][588]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_261' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.19-10.40.26:417][589]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_263' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.19-10.40.26:434][590]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_265' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.19-10.40.26:448][591]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_267' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.19-10.40.26:465][592]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_269' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.19-10.40.26:480][593]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_271' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.19-10.40.26:496][594]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_273' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.19-10.40.26:512][595]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_275' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.19-10.40.26:528][596]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_277' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.19-10.40.26:544][597]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_279' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.19-10.40.26:559][598]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_281' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.19-10.40.26:576][599]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_283' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.19-10.40.26:590][600]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_285' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.19-10.40.26:592][600]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_287' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.19-10.40.26:608][601]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_289' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.19-10.40.26:611][601]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_291' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.19-10.40.26:625][602]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_293' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.19-10.40.26:626][602]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_295' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.19-10.40.26:629][602]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_297' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.19-10.40.27:038][621]LogEditorTransaction: Undo Move Widget
+[2018.04.19-10.40.27:065][621]LogMaterial: Missing cached shader map for material 1, compiling. 
+[2018.04.19-10.40.27:076][621]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.04.19-10.40.27:076][621]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.04.19-10.40.27:076][621]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.04.19-10.40.27:076][621]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.04.19-10.40.27:558][639]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.04.19-10.40.27:558][639]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.04.19-10.40.27:559][639]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.04.19-10.40.27:588][641]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.04.19-10.40.27:707][645]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.04.19-10.40.27:760][647]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.04.19-10.40.27:807][649]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.04.19-10.40.27:832][650]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.04.19-10.40.27:907][653]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.04.19-10.40.27:956][654]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.04.19-10.40.27:971][655]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.04.19-10.40.28:049][660]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.04.19-10.40.28:083][662]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.04.19-10.40.28:100][663]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.04.19-10.40.28:116][664]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.04.19-10.40.28:318][680]MaterialEditorStats: Default UI Pixel Shader: 50 instructions
+[2018.04.19-10.40.28:318][680]MaterialEditorStats: Default UI Vertex Shader: 17 instructions
+[2018.04.19-10.40.28:318][680]MaterialEditorStats: Instanced UI Vertex Shader: 17 instructions
+[2018.04.19-10.40.28:318][680]MaterialEditorStats: Texture samplers: 2/16
+[2018.04.19-10.40.28:318][680]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.04.19-10.40.29:863][822]BlueprintLog: New page: Compile TestHUD
+[2018.04.19-10.40.44:059][ 29]LogEditorTransaction: Undo Edit Left
+[2018.04.19-10.40.44:087][ 29]LogMaterial: Missing cached shader map for material 1, compiling. 
+[2018.04.19-10.40.44:097][ 29]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.04.19-10.40.44:098][ 29]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.04.19-10.40.44:098][ 29]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.04.19-10.40.44:098][ 29]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.04.19-10.40.44:242][ 33]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.04.19-10.40.44:242][ 33]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.04.19-10.40.44:269][ 33]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.04.19-10.40.44:270][ 33]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.04.19-10.40.44:365][ 36]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.04.19-10.40.44:400][ 37]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.04.19-10.40.44:462][ 39]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.04.19-10.40.44:491][ 40]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.04.19-10.40.44:547][ 42]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.04.19-10.40.44:601][ 45]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.04.19-10.40.44:627][ 46]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.04.19-10.40.44:674][ 48]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.04.19-10.40.44:727][ 50]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.04.19-10.40.44:753][ 51]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.04.19-10.40.44:753][ 51]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.04.19-10.40.44:947][ 61]MaterialEditorStats: Default UI Pixel Shader: 50 instructions
+[2018.04.19-10.40.44:947][ 61]MaterialEditorStats: Default UI Vertex Shader: 17 instructions
+[2018.04.19-10.40.44:947][ 61]MaterialEditorStats: Instanced UI Vertex Shader: 17 instructions
+[2018.04.19-10.40.44:947][ 61]MaterialEditorStats: Texture samplers: 2/16
+[2018.04.19-10.40.44:947][ 61]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.04.19-10.41.32:599][296]LogEditorTransaction: Undo Change Number Pin Value
+[2018.04.19-10.41.32:608][296]LogMaterial: Missing cached shader map for material 1, compiling. 
+[2018.04.19-10.41.32:660][297]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.04.19-10.41.32:660][297]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.04.19-10.41.32:660][297]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.04.19-10.41.32:661][297]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.04.19-10.41.32:745][304]LogEditorTransaction: Undo Change Number Pin Value
+[2018.04.19-10.41.32:754][304]LogMaterial: Missing cached shader map for material 1, compiling. 
+[2018.04.19-10.41.32:918][314]LogEditorTransaction: Undo Change Number Pin Value
+[2018.04.19-10.41.32:928][314]LogMaterial: Missing cached shader map for material 1, compiling. 
+[2018.04.19-10.41.33:082][319]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.04.19-10.41.33:100][320]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.04.19-10.41.33:100][320]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.04.19-10.41.33:102][321]LogEditorTransaction: Undo Change Number Pin Value
+[2018.04.19-10.41.33:112][321]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.04.19-10.41.33:114][321]LogMaterial: Missing cached shader map for material 1, compiling. 
+[2018.04.19-10.41.33:218][325]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.04.19-10.41.33:233][326]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.04.19-10.41.33:245][327]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.04.19-10.41.33:258][328]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.04.19-10.41.33:259][328]LogEditorTransaction: Undo Change Number Pin Value
+[2018.04.19-10.41.33:272][328]LogMaterial: Missing cached shader map for material 1, compiling. 
+[2018.04.19-10.41.33:348][330]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.04.19-10.41.33:366][331]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.04.19-10.41.33:378][332]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.04.19-10.41.33:415][335]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.04.19-10.41.33:431][336]LogEditorTransaction: Undo Delete current selection
+[2018.04.19-10.41.33:444][336]LogMaterial: Missing cached shader map for material 1, compiling. 
+[2018.04.19-10.41.33:539][337]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.04.19-10.41.33:539][337]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.04.19-10.41.33:539][337]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.04.19-10.41.33:567][338]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.04.19-10.41.33:601][340]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.04.19-10.41.33:669][343]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.04.19-10.41.33:686][344]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.04.19-10.41.33:727][347]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.04.19-10.41.33:758][349]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.04.19-10.41.33:814][353]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.04.19-10.41.33:922][360]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.04.19-10.41.33:936][361]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.04.19-10.41.33:964][363]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.04.19-10.41.34:052][369]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.04.19-10.41.34:080][371]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.04.19-10.41.34:110][373]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.04.19-10.41.34:139][375]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.04.19-10.41.34:213][380]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.04.19-10.41.34:227][381]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.04.19-10.41.34:310][387]MaterialEditorStats: Default UI Pixel Shader: 50 instructions
+[2018.04.19-10.41.34:310][387]MaterialEditorStats: Default UI Vertex Shader: 17 instructions
+[2018.04.19-10.41.34:310][387]MaterialEditorStats: Instanced UI Vertex Shader: 17 instructions
+[2018.04.19-10.41.34:310][387]MaterialEditorStats: Texture samplers: 2/16
+[2018.04.19-10.41.34:310][387]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.04.19-10.41.41:533][  9]BlueprintLog: New page: Compile TestHUD
+[2018.04.19-10.41.47:553][387]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.04.19-10.41.47:637][387]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.Eion
+[2018.04.19-10.41.47:637][387]LogTemp: CWD: D:\programs\UE_4.19\Engine\Binaries\DotNET\IOS
+[2018.04.19-10.41.47:637][387]LogTemp: Initial Dir: D:\programs\UE_4.19
+[2018.04.19-10.41.47:637][387]LogTemp: Env CWD: D:\programs\UE_4.19\Engine\Binaries\DotNET\IOS
+[2018.04.19-10.41.47:637][387]LogTemp: BranchPath = SCORPIOLOGIST/D/programs/UE_4.19/Engine/Binaries --- GameBranchPath = SCORPIOLOGIST/D/programs/UE_4.19/Engine/Binaries
+[2018.04.19-10.41.47:637][387]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\youce\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.04.19-10.41.54:717][175]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.19-10.41.54:744][175]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.04.19-10.41.54:749][175]LogPlayLevel: [PlayLevel] Compiling Health before play...
+[2018.04.19-10.41.54:898][175]LogPlayLevel: PlayLevel: Blueprint regeneration took 154 ms (1 blueprints)
+[2018.04.19-10.41.54:916][175]PIE: New page: PIE session: Untitled_1 (Apr 19, 2018, 4:41:54 PM)
+[2018.04.19-10.41.54:916][175]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2018.04.19-10.41.54:919][175]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002289s)
+[2018.04.19-10.41.54:919][175]LogAIModule: Creating AISystem for world Untitled_1
+[2018.04.19-10.41.54:920][175]LogPlayLevel: PIE: World Init took: (0.000746s)
+[2018.04.19-10.41.54:920][175]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.003197s)
+[2018.04.19-10.41.54:945][175]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.19-10.41.54:952][175]LogInit: FAudioDevice initialized.
+[2018.04.19-10.41.55:057][175]LogLoad: Game class is 'MYGAMEMODE_C'
+[2018.04.19-10.41.55:059][175]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2018.04.19-13.41.55
+[2018.04.19-10.41.55:059][175]LogWorld: Bringing up level for play took: 0.000903
+[2018.04.19-10.41.55:095][175]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 11 classes and 0 folders.
+[2018.04.19-10.41.55:096][175]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.04.19-10.41.55:096][175]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.04.19-10.41.55:096][175]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.04.19-10.41.55:130][175]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.04.19-10.41.55:148][175]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 -0.327
+[2018.04.19-10.41.55:240][175]LogRenderer: Reallocating scene render targets to support 1292x756 Format 10 NumSamples 1 (Frame:1).
+[2018.04.19-10.42.22:888][389]LogSlate: Window 'Eion Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.04.19-10.42.36:686][643]BlueprintLog: New page: Compile TestHUD
+[2018.04.19-10.42.38:369][801]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.19-10.42.38:390][801]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.19-10.42.38:390][801]PIE: New page: PIE session: Untitled_1 (Apr 19, 2018, 4:42:38 PM)
+[2018.04.19-10.42.38:390][801]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2018.04.19-10.42.38:392][801]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001586s)
+[2018.04.19-10.42.38:392][801]LogAIModule: Creating AISystem for world Untitled_1
+[2018.04.19-10.42.38:392][801]LogPlayLevel: PIE: World Init took: (0.000786s)
+[2018.04.19-10.42.38:392][801]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.002487s)
+[2018.04.19-10.42.38:418][801]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.19-10.42.38:424][801]LogInit: FAudioDevice initialized.
+[2018.04.19-10.42.38:471][801]LogLoad: Game class is 'MYGAMEMODE_C'
+[2018.04.19-10.42.38:472][801]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2018.04.19-13.42.38
+[2018.04.19-10.42.38:472][801]LogWorld: Bringing up level for play took: 0.000472
+[2018.04.19-10.42.38:473][801]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.04.19-10.42.38:473][801]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.04.19-10.42.38:473][801]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.04.19-10.42.38:474][801]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.04.19-10.42.38:479][801]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 1.005
+[2018.04.19-10.42.44:092][449]LogSlate: Window 'Eion Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.04.19-10.43.21:141][ 50]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.04.19-10.43.42:082][966]LogEditorTransaction: Undo Create Pin Link
+[2018.04.19-10.43.42:091][966]LogMaterial: Missing cached shader map for material 1, compiling. 
+[2018.04.19-10.43.42:103][966]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.04.19-10.43.42:103][966]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.04.19-10.43.42:103][966]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.04.19-10.43.42:103][966]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.04.19-10.43.42:374][981]LogEditorTransaction: Undo Create Pin Link
+[2018.04.19-10.43.42:384][981]LogMaterial: Missing cached shader map for material 1, compiling. 
+[2018.04.19-10.43.42:563][985]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.04.19-10.43.42:584][986]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.04.19-10.43.42:586][987]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.04.19-10.43.42:602][988]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.04.19-10.43.42:735][996]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.04.19-10.43.42:752][997]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.04.19-10.43.42:752][997]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.04.19-10.43.42:782][999]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.04.19-10.43.42:782][999]LogEditorTransaction: Undo Move Node
+[2018.04.19-10.43.42:797][999]LogMaterial: Missing cached shader map for material 1, compiling. 
+[2018.04.19-10.43.42:902][  0]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.04.19-10.43.42:902][  0]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.04.19-10.43.42:957][  3]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.04.19-10.43.43:007][  6]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.04.19-10.43.43:007][  6]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.04.19-10.43.43:052][  9]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.04.19-10.43.43:100][ 12]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.04.19-10.43.43:134][ 14]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.04.19-10.43.43:153][ 15]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.04.19-10.43.43:200][ 18]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.04.19-10.43.43:319][ 25]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.04.19-10.43.43:352][ 27]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.04.19-10.43.43:369][ 28]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.04.19-10.43.43:446][ 33]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.04.19-10.43.43:497][ 36]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.04.19-10.43.43:511][ 37]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.04.19-10.43.43:546][ 39]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.04.19-10.43.43:592][ 42]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.04.19-10.43.43:679][ 47]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.04.19-10.43.43:756][ 53]MaterialEditorStats: Default UI Pixel Shader: 50 instructions
+[2018.04.19-10.43.43:756][ 53]MaterialEditorStats: Default UI Vertex Shader: 17 instructions
+[2018.04.19-10.43.43:756][ 53]MaterialEditorStats: Instanced UI Vertex Shader: 17 instructions
+[2018.04.19-10.43.43:756][ 53]MaterialEditorStats: Texture samplers: 2/16
+[2018.04.19-10.43.43:756][ 53]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.04.19-10.43.49:249][569]BlueprintLog: New page: Compile FirstPersonHUD
+[2018.04.19-10.43.49:275][569]LogBlueprint: Warning: [Compiler FirstPersonHUD] 'MYCHARACTER' does not inherit from 'Player Controller' ( Cast To MYCHARACTER  would always fail).
+[2018.04.19-10.43.49:424][569]LogBlueprint: Warning: [Compiler FirstPersonHUD] [0789.04] Compile of FirstPersonHUD successful, but with 1 Warning(s) [in 175 ms] (/Game/blueprints/FirstPersonHUD.FirstPersonHUD)
+[2018.04.19-10.44.01:990][801]BlueprintLog: New page: Compile FirstPersonHUD
+[2018.04.19-10.44.06:848][145]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.04.19-10.44.12:220][664]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.19-10.44.12:245][664]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.19-10.44.12:245][664]PIE: New page: PIE session: Untitled_1 (Apr 19, 2018, 4:44:12 PM)
+[2018.04.19-10.44.12:245][664]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2018.04.19-10.44.12:247][664]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001802s)
+[2018.04.19-10.44.12:248][664]LogAIModule: Creating AISystem for world Untitled_1
+[2018.04.19-10.44.12:248][664]LogPlayLevel: PIE: World Init took: (0.000930s)
+[2018.04.19-10.44.12:248][664]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.002898s)
+[2018.04.19-10.44.12:275][664]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.19-10.44.12:282][664]LogInit: FAudioDevice initialized.
+[2018.04.19-10.44.12:330][664]LogLoad: Game class is 'MYGAMEMODE_C'
+[2018.04.19-10.44.12:331][664]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2018.04.19-13.44.12
+[2018.04.19-10.44.12:331][664]LogWorld: Bringing up level for play took: 0.000437
+[2018.04.19-10.44.12:332][664]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.04.19-10.44.12:332][664]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.04.19-10.44.12:332][664]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.04.19-10.44.12:333][664]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.04.19-10.44.12:338][664]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 0.863
+[2018.04.19-10.44.14:250][873]LogSlate: Window 'Eion Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.04.19-10.45.27:632][ 23]LogEditorTransaction: Undo Delete current selection
+[2018.04.19-10.45.27:644][ 23]LogMaterial: Missing cached shader map for material 1, compiling. 
+[2018.04.19-10.45.27:695][ 24]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.04.19-10.45.27:695][ 24]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.04.19-10.45.27:695][ 24]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.04.19-10.45.27:695][ 24]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.04.19-10.45.28:231][ 57]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.04.19-10.45.28:247][ 58]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.04.19-10.45.28:285][ 60]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.04.19-10.45.28:285][ 60]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.04.19-10.45.28:454][ 70]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.04.19-10.45.28:507][ 73]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.04.19-10.45.28:634][ 80]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.04.19-10.45.28:715][ 83]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.04.19-10.45.28:799][ 88]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.04.19-10.45.28:867][ 92]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.04.19-10.45.28:951][ 97]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.04.19-10.45.29:000][100]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.04.19-10.45.29:062][104]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.04.19-10.45.29:062][104]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.04.19-10.45.29:126][108]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.04.19-10.45.30:112][195]MaterialEditorStats: Default UI Pixel Shader: 50 instructions
+[2018.04.19-10.45.30:112][195]MaterialEditorStats: Default UI Vertex Shader: 17 instructions
+[2018.04.19-10.45.30:112][195]MaterialEditorStats: Instanced UI Vertex Shader: 17 instructions
+[2018.04.19-10.45.30:112][195]MaterialEditorStats: Texture samplers: 2/16
+[2018.04.19-10.45.30:112][195]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.04.19-10.47.15:552][427]BlueprintLog: New page: Compile TestHUD
+[2018.04.19-10.47.17:214][539]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.025
+[2018.04.19-10.47.17:216][539]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/blueprints/Health] ([1] browsable assets)...
+[2018.04.19-10.47.17:216][539]OBJ SavePackage: Finished generating thumbnails for package [/Game/blueprints/Health]
+[2018.04.19-10.47.17:217][539]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/blueprints/Health" FILE="../../../../../eion resp/backup/Eion/Saved/Autosaves/Game/blueprints/Health_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.04.19-10.47.17:502][539]LogSavePackage: Save=40.69ms
+[2018.04.19-10.47.17:502][539]LogSavePackage: Moving '../../../../../eion resp/backup/Eion/Saved/Health_Auto19334997C4ABD1FA12D5C9498416C5D91.tmp' to '../../../../../eion resp/backup/Eion/Saved/Autosaves/Game/blueprints/Health_Auto1.uasset'
+[2018.04.19-10.47.17:539][539]LogSavePackage: Display: Finished SavePackage ../../../../../eion resp/backup/Eion/Saved/Autosaves/Game/blueprints/Health_Auto1.uasset
+[2018.04.19-10.47.17:539][539]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/blueprints/MYCHARACTER] ([1] browsable assets)...
+[2018.04.19-10.47.17:550][539]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/blueprints/MYCHARACTER.MYCHARACTER]
+[2018.04.19-10.47.17:550][539]OBJ SavePackage: Finished generating thumbnails for package [/Game/blueprints/MYCHARACTER]
+[2018.04.19-10.47.17:550][539]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/blueprints/MYCHARACTER" FILE="../../../../../eion resp/backup/Eion/Saved/Autosaves/Game/blueprints/MYCHARACTER_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.04.19-10.47.17:634][539]LogSavePackage: Save=67.99ms
+[2018.04.19-10.47.17:634][539]LogSavePackage: Moving '../../../../../eion resp/backup/Eion/Saved/MYCHARACTER_Auto15B8104C047B3BD992AE730A133246030.tmp' to '../../../../../eion resp/backup/Eion/Saved/Autosaves/Game/blueprints/MYCHARACTER_Auto1.uasset'
+[2018.04.19-10.47.17:683][539]LogSavePackage: Display: Finished SavePackage ../../../../../eion resp/backup/Eion/Saved/Autosaves/Game/blueprints/MYCHARACTER_Auto1.uasset
+[2018.04.19-10.47.17:683][539]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/blueprints/TestHUD] ([1] browsable assets)...
+[2018.04.19-10.47.17:683][539]OBJ SavePackage: Finished generating thumbnails for package [/Game/blueprints/TestHUD]
+[2018.04.19-10.47.17:683][539]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/blueprints/TestHUD" FILE="../../../../../eion resp/backup/Eion/Saved/Autosaves/Game/blueprints/TestHUD_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.04.19-10.47.17:714][539]LogSavePackage: Save=16.04ms
+[2018.04.19-10.47.17:714][539]LogSavePackage: Moving '../../../../../eion resp/backup/Eion/Saved/TestHUD_Auto18B0C960443EA5715085342B524382E0A.tmp' to '../../../../../eion resp/backup/Eion/Saved/Autosaves/Game/blueprints/TestHUD_Auto1.uasset'
+[2018.04.19-10.47.17:737][539]LogSavePackage: Display: Finished SavePackage ../../../../../eion resp/backup/Eion/Saved/Autosaves/Game/blueprints/TestHUD_Auto1.uasset
+[2018.04.19-10.47.17:738][539]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/blueprints/MYGAMEMODE] ([1] browsable assets)...
+[2018.04.19-10.47.17:738][539]OBJ SavePackage: Finished generating thumbnails for package [/Game/blueprints/MYGAMEMODE]
+[2018.04.19-10.47.17:738][539]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/blueprints/MYGAMEMODE" FILE="../../../../../eion resp/backup/Eion/Saved/Autosaves/Game/blueprints/MYGAMEMODE_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.04.19-10.47.17:762][539]LogSavePackage: Save=9.28ms
+[2018.04.19-10.47.17:762][539]LogSavePackage: Moving '../../../../../eion resp/backup/Eion/Saved/MYGAMEMODE_Auto12ED86C3143C85A9C227C8EA988097B4C.tmp' to '../../../../../eion resp/backup/Eion/Saved/Autosaves/Game/blueprints/MYGAMEMODE_Auto1.uasset'
+[2018.04.19-10.47.17:764][539]LogSavePackage: Display: Finished SavePackage ../../../../../eion resp/backup/Eion/Saved/Autosaves/Game/blueprints/MYGAMEMODE_Auto1.uasset
+[2018.04.19-10.47.17:765][539]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/blueprints/FirstPersonHUD] ([1] browsable assets)...
+[2018.04.19-10.47.17:765][539]OBJ SavePackage: Finished generating thumbnails for package [/Game/blueprints/FirstPersonHUD]
+[2018.04.19-10.47.17:765][539]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/blueprints/FirstPersonHUD" FILE="../../../../../eion resp/backup/Eion/Saved/Autosaves/Game/blueprints/FirstPersonHUD_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.04.19-10.47.17:799][539]LogSavePackage: Save=18.80ms
+[2018.04.19-10.47.17:799][539]LogSavePackage: Moving '../../../../../eion resp/backup/Eion/Saved/FirstPersonHUD_Auto14F532B3141C150532D35F096B579B7A0.tmp' to '../../../../../eion resp/backup/Eion/Saved/Autosaves/Game/blueprints/FirstPersonHUD_Auto1.uasset'
+[2018.04.19-10.47.17:812][539]LogSavePackage: Display: Finished SavePackage ../../../../../eion resp/backup/Eion/Saved/Autosaves/Game/blueprints/FirstPersonHUD_Auto1.uasset
+[2018.04.19-10.47.17:812][539]LogFileHelpers: Auto-saving content packages took 0.598
+[2018.04.19-10.47.29:963][361]BlueprintLog: New page: Compile TestHUD
+[2018.04.19-10.47.36:331][871]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.04.19-10.47.39:362][200]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.19-10.47.39:388][200]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.19-10.47.39:388][200]PIE: New page: PIE session: Untitled_1 (Apr 19, 2018, 4:47:39 PM)
+[2018.04.19-10.47.39:388][200]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2018.04.19-10.47.39:390][200]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001769s)
+[2018.04.19-10.47.39:390][200]LogAIModule: Creating AISystem for world Untitled_1
+[2018.04.19-10.47.39:391][200]LogPlayLevel: PIE: World Init took: (0.000658s)
+[2018.04.19-10.47.39:391][200]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.002554s)
+[2018.04.19-10.47.39:423][200]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.19-10.47.39:430][200]LogInit: FAudioDevice initialized.
+[2018.04.19-10.47.39:481][200]LogLoad: Game class is 'MYGAMEMODE_C'
+[2018.04.19-10.47.39:482][200]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2018.04.19-13.47.39
+[2018.04.19-10.47.39:482][200]LogWorld: Bringing up level for play took: 0.000448
+[2018.04.19-10.47.39:483][200]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.04.19-10.47.39:483][200]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.04.19-10.47.39:483][200]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.04.19-10.47.39:484][200]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.04.19-10.47.39:489][200]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 0.014
+[2018.04.19-10.48.02:177][484]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.19-10.48.04:684][763]LogSlate: Window 'Eion Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.04.19-10.48.05:170][808]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.19-10.48.05:198][808]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.19-10.48.05:198][808]PIE: New page: PIE session: Untitled_1 (Apr 19, 2018, 4:48:05 PM)
+[2018.04.19-10.48.05:198][808]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2018.04.19-10.48.05:199][808]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001428s)
+[2018.04.19-10.48.05:200][808]LogAIModule: Creating AISystem for world Untitled_1
+[2018.04.19-10.48.05:200][808]LogPlayLevel: PIE: World Init took: (0.000645s)
+[2018.04.19-10.48.05:200][808]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.002184s)
+[2018.04.19-10.48.05:231][808]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.19-10.48.05:237][808]LogInit: FAudioDevice initialized.
+[2018.04.19-10.48.05:286][808]LogLoad: Game class is 'MYGAMEMODE_C'
+[2018.04.19-10.48.05:288][808]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2018.04.19-13.48.05
+[2018.04.19-10.48.05:288][808]LogWorld: Bringing up level for play took: 0.000948
+[2018.04.19-10.48.05:289][808]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.04.19-10.48.05:289][808]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.04.19-10.48.05:289][808]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.04.19-10.48.05:291][808]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.04.19-10.48.05:297][808]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 -0.178
+[2018.04.19-10.48.33:187][639]LogSlate: Window 'Eion Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.04.19-10.48.48:238][ 84]LogSlate: Window 'Delete Assets' being destroyed
+[2018.04.19-10.48.48:505][ 84]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.04.19-10.48.49:808][ 84]LogSlate: Window 'Message' being destroyed
+[2018.04.19-10.48.50:235][ 84]LogMaterial: Missing cached shader map for material 1, compiling. 
+[2018.04.19-10.48.50:263][ 84]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.04.19-10.48.50:263][ 84]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.04.19-10.48.50:263][ 84]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.04.19-10.48.50:263][ 84]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.04.19-10.48.50:283][ 84]LogMaterial: Missing cached shader map for material 1, compiling. 
+[2018.04.19-10.48.50:319][ 84]LogMaterial: Missing cached shader map for material 1, compiling. 
+[2018.04.19-10.48.50:357][ 84]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2018.04.19-10.48.50:521][ 84]LogSlate: Window 'FirstPersonHUD*' being destroyed
+[2018.04.19-10.48.50:530][ 84]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.04.19-10.48.50:812][ 84]LogShaderCompilers: Display: Shaders left to compile 53
+[2018.04.19-10.48.50:812][ 84]LogShaderCompilers: Display: Shaders left to compile 52
+[2018.04.19-10.48.50:813][ 84]LogShaderCompilers: Display: Shaders left to compile 51
+[2018.04.19-10.48.50:852][ 84]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.04.19-10.48.50:931][ 84]LogShaderCompilers: Display: Shaders left to compile 49
+[2018.04.19-10.48.51:013][ 84]LogShaderCompilers: Display: Shaders left to compile 48
+[2018.04.19-10.48.51:090][ 84]LogShaderCompilers: Display: Shaders left to compile 47
+[2018.04.19-10.48.51:090][ 84]LogShaderCompilers: Display: Shaders left to compile 46
+[2018.04.19-10.48.51:142][ 84]LogShaderCompilers: Display: Shaders left to compile 45
+[2018.04.19-10.48.51:178][ 84]LogShaderCompilers: Display: Shaders left to compile 44
+[2018.04.19-10.48.51:311][ 84]LogShaderCompilers: Display: Shaders left to compile 43
+[2018.04.19-10.48.51:311][ 84]LogShaderCompilers: Display: Shaders left to compile 42
+[2018.04.19-10.48.51:327][ 84]LogShaderCompilers: Display: Shaders left to compile 41
+[2018.04.19-10.48.51:337][ 84]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.04.19-10.48.51:391][ 84]LogShaderCompilers: Display: Shaders left to compile 39
+[2018.04.19-10.48.51:619][ 84]LogShaderCompilers: Display: Shaders left to compile 38
+[2018.04.19-10.48.51:619][ 84]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.04.19-10.48.51:619][ 84]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.04.19-10.48.51:619][ 84]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.04.19-10.48.53:678][197]LogTabManager: Warning: Cannot spawn tab because no spawner is registered for 'CompilerResults'
+[2018.04.19-10.48.55:153][357]LogSlate: Window 'CompilerResults' being destroyed
+[2018.04.19-10.48.55:157][357]LogSlate: Window 'CompilerResults' being destroyed
+[2018.04.19-10.48.57:785][657]LogSlate: Window 'MYGAMEMODE*' being destroyed
+[2018.04.19-10.49.00:888][931]LogRenderer: Reallocating scene render targets to support 1524x756 Format 10 NumSamples 1 (Frame:1).
+[2018.04.19-10.49.09:417][828]LogSlate: Window 'MYGAMEMODE*' being destroyed
+[2018.04.19-10.49.09:422][828]LogSlate: Window 'MYGAMEMODE*' being destroyed
+[2018.04.19-10.49.15:412][414]LogSlate: Window 'MYGAMEMODE*' being destroyed
+[2018.04.19-10.49.15:417][414]LogSlate: Window 'MYGAMEMODE*' being destroyed
+[2018.04.19-10.49.26:164][484]BlueprintLog: New page: Compile MYGAMEMODE
+[2018.04.19-10.49.26:775][527]LogSlate: Window 'MYGAMEMODE*' being destroyed
+[2018.04.19-10.49.26:782][527]LogSlate: Window 'MYGAMEMODE*' being destroyed
+[2018.04.19-10.49.57:734][550]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.04.19-10.50.44:474][150]LogSlate: Window 'Pick Skeleton' being destroyed
+[2018.04.19-10.50.48:734][646]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.04.19-10.50.48:739][646]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.04.19-10.50.48:744][646]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2018.04.19-10.50.49:162][646]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0002 seconds. Added 1 classes and 0 folders.
+[2018.04.19-10.50.49:225][646]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.04.19-10.52.02:258][327]BlueprintLog: New page: Compile TestHUD
+[2018.04.19-10.56.48:906][736]LogAnimMontage: Warning: Montage 'AnimMontage /Game/third_person_model/punch.punch' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2018.04.19-10.56.48:906][736]LogAnimMontage: Warning: Montage 'AnimMontage /Game/third_person_model/punch.punch' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2018.04.19-10.56.48:906][736]LogAnimMontage: Warning: Montage 'AnimMontage /Game/third_person_model/punch.punch' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2018.04.19-10.56.48:907][736]LogAnimMontage: Warning: Montage 'AnimMontage /Game/third_person_model/punch.punch' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2018.04.19-10.56.48:907][736]LogAnimMontage: Warning: Montage 'AnimMontage /Game/third_person_model/punch.punch' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2018.04.19-10.56.48:907][736]LogAnimMontage: Warning: Montage 'AnimMontage /Game/third_person_model/punch.punch' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2018.04.19-10.56.48:907][736]LogAnimMontage: Warning: Montage 'AnimMontage /Game/third_person_model/punch.punch' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2018.04.19-10.56.48:907][736]LogAnimMontage: Warning: Montage 'AnimMontage /Game/third_person_model/punch.punch' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2018.04.19-10.56.48:907][736]LogAnimMontage: Warning: Montage 'AnimMontage /Game/third_person_model/punch.punch' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2018.04.19-10.56.50:541][874]Cmd: TRANSACTION UNDO
+[2018.04.19-10.56.50:541][874]LogEditorTransaction: Undo Add Slot
+[2018.04.19-10.56.50:543][874]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.04.19-10.57.00:022][661]Cmd: TRANSACTION UNDO
+[2018.04.19-10.57.00:022][661]LogEditorTransaction: Undo Add Section to Composite Sections
+[2018.04.19-10.57.00:024][661]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.04.19-10.57.26:815][177]LogAnimMontage: Warning: Montage 'AnimMontage /Game/third_person_model/punch.punch' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2018.04.19-10.57.26:815][177]LogAnimMontage: Warning: Montage 'AnimMontage /Game/third_person_model/punch.punch' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2018.04.19-10.57.26:815][177]LogAnimMontage: Warning: Montage 'AnimMontage /Game/third_person_model/punch.punch' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2018.04.19-10.57.26:816][177]LogAnimMontage: Warning: Montage 'AnimMontage /Game/third_person_model/punch.punch' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2018.04.19-10.57.26:816][177]LogAnimMontage: Warning: Montage 'AnimMontage /Game/third_person_model/punch.punch' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2018.04.19-10.57.26:816][177]LogAnimMontage: Warning: Montage 'AnimMontage /Game/third_person_model/punch.punch' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2018.04.19-10.57.26:816][177]LogAnimMontage: Warning: Montage 'AnimMontage /Game/third_person_model/punch.punch' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2018.04.19-10.57.26:816][177]LogAnimMontage: Warning: Montage 'AnimMontage /Game/third_person_model/punch.punch' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2018.04.19-10.57.26:816][177]LogAnimMontage: Warning: Montage 'AnimMontage /Game/third_person_model/punch.punch' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2018.04.19-10.57.28:124][288]Cmd: TRANSACTION UNDO
+[2018.04.19-10.57.28:124][288]LogEditorTransaction: Undo Add Slot
+[2018.04.19-10.57.28:125][288]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.04.19-10.57.34:455][815]Cmd: TRANSACTION UNDO
+[2018.04.19-10.57.34:455][815]LogEditorTransaction: Undo Add New Section
+[2018.04.19-10.57.34:456][815]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.04.19-10.57.40:453][292]LogAnimMontage: Warning: Montage 'AnimMontage /Game/third_person_model/punch.punch' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2018.04.19-10.57.40:453][292]LogAnimMontage: Warning: Montage 'AnimMontage /Game/third_person_model/punch.punch' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2018.04.19-10.57.40:453][292]LogAnimMontage: Warning: Montage 'AnimMontage /Game/third_person_model/punch.punch' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2018.04.19-10.57.40:454][292]LogAnimMontage: Warning: Montage 'AnimMontage /Game/third_person_model/punch.punch' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2018.04.19-10.57.40:454][292]LogAnimMontage: Warning: Montage 'AnimMontage /Game/third_person_model/punch.punch' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2018.04.19-10.57.40:454][292]LogAnimMontage: Warning: Montage 'AnimMontage /Game/third_person_model/punch.punch' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2018.04.19-10.57.40:454][292]LogAnimMontage: Warning: Montage 'AnimMontage /Game/third_person_model/punch.punch' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2018.04.19-10.57.40:454][292]LogAnimMontage: Warning: Montage 'AnimMontage /Game/third_person_model/punch.punch' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2018.04.19-10.57.40:454][292]LogAnimMontage: Warning: Montage 'AnimMontage /Game/third_person_model/punch.punch' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2018.04.19-10.57.41:284][362]Cmd: TRANSACTION UNDO
+[2018.04.19-10.57.41:284][362]LogEditorTransaction: Undo Duplicate Slot
+[2018.04.19-10.57.41:285][362]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.04.19-10.57.43:713][549]LogAnimMontage: Warning: Montage 'AnimMontage /Game/third_person_model/punch.punch' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2018.04.19-10.57.43:713][549]LogAnimMontage: Warning: Montage 'AnimMontage /Game/third_person_model/punch.punch' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2018.04.19-10.57.43:713][549]LogAnimMontage: Warning: Montage 'AnimMontage /Game/third_person_model/punch.punch' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2018.04.19-10.57.43:714][549]LogAnimMontage: Warning: Montage 'AnimMontage /Game/third_person_model/punch.punch' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2018.04.19-10.57.43:714][549]LogAnimMontage: Warning: Montage 'AnimMontage /Game/third_person_model/punch.punch' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2018.04.19-10.57.43:714][549]LogAnimMontage: Warning: Montage 'AnimMontage /Game/third_person_model/punch.punch' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2018.04.19-10.57.43:714][549]LogAnimMontage: Warning: Montage 'AnimMontage /Game/third_person_model/punch.punch' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2018.04.19-10.57.43:714][549]LogAnimMontage: Warning: Montage 'AnimMontage /Game/third_person_model/punch.punch' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2018.04.19-10.57.43:714][549]LogAnimMontage: Warning: Montage 'AnimMontage /Game/third_person_model/punch.punch' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2018.04.19-10.57.44:426][609]Cmd: TRANSACTION UNDO
+[2018.04.19-10.57.44:427][609]LogEditorTransaction: Undo Add Slot
+[2018.04.19-10.57.44:428][609]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.04.19-10.57.45:809][708]LogAnimMontage: Warning: Montage 'AnimMontage /Game/third_person_model/punch.punch' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2018.04.19-10.57.45:809][708]LogAnimMontage: Warning: Montage 'AnimMontage /Game/third_person_model/punch.punch' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2018.04.19-10.57.45:809][708]LogAnimMontage: Warning: Montage 'AnimMontage /Game/third_person_model/punch.punch' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2018.04.19-10.57.45:810][708]LogAnimMontage: Warning: Montage 'AnimMontage /Game/third_person_model/punch.punch' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2018.04.19-10.57.45:810][708]LogAnimMontage: Warning: Montage 'AnimMontage /Game/third_person_model/punch.punch' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2018.04.19-10.57.45:810][708]LogAnimMontage: Warning: Montage 'AnimMontage /Game/third_person_model/punch.punch' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2018.04.19-10.57.45:810][708]LogAnimMontage: Warning: Montage 'AnimMontage /Game/third_person_model/punch.punch' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2018.04.19-10.57.45:810][708]LogAnimMontage: Warning: Montage 'AnimMontage /Game/third_person_model/punch.punch' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2018.04.19-10.57.45:810][708]LogAnimMontage: Warning: Montage 'AnimMontage /Game/third_person_model/punch.punch' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2018.04.19-10.57.46:307][749]Cmd: TRANSACTION UNDO
+[2018.04.19-10.57.46:307][749]LogEditorTransaction: Undo Duplicate Slot
+[2018.04.19-10.57.46:308][749]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.04.19-10.58.15:870][274]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.036
+[2018.04.19-10.58.15:871][274]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/materials/HUD_mats/1] ([1] browsable assets)...
+[2018.04.19-10.58.15:880][274]OBJ SavePackage:     Rendered thumbnail for [Material /Game/materials/HUD_mats/1.1]
+[2018.04.19-10.58.15:880][274]OBJ SavePackage: Finished generating thumbnails for package [/Game/materials/HUD_mats/1]
+[2018.04.19-10.58.15:880][274]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/materials/HUD_mats/1" FILE="../../../../../eion resp/backup/Eion/Saved/Autosaves/Game/materials/HUD_mats/1_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2018.04.19-10.58.15:908][274]LogSavePackage: Save=11.83ms
+[2018.04.19-10.58.15:908][274]LogSavePackage: Moving '../../../../../eion resp/backup/Eion/Saved/1_Auto2D89F7FD6494BCDA5CDBF06ADF56F68D8.tmp' to '../../../../../eion resp/backup/Eion/Saved/Autosaves/Game/materials/HUD_mats/1_Auto2.uasset'
+[2018.04.19-10.58.15:975][274]LogSavePackage: Display: Finished SavePackage ../../../../../eion resp/backup/Eion/Saved/Autosaves/Game/materials/HUD_mats/1_Auto2.uasset
+[2018.04.19-10.58.15:976][274]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/blueprints/TestHUD] ([1] browsable assets)...
+[2018.04.19-10.58.15:976][274]OBJ SavePackage: Finished generating thumbnails for package [/Game/blueprints/TestHUD]
+[2018.04.19-10.58.15:976][274]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/blueprints/TestHUD" FILE="../../../../../eion resp/backup/Eion/Saved/Autosaves/Game/blueprints/TestHUD_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2018.04.19-10.58.16:039][274]LogSavePackage: Save=31.03ms
+[2018.04.19-10.58.16:039][274]LogSavePackage: Moving '../../../../../eion resp/backup/Eion/Saved/TestHUD_Auto2DA111DD741A87BE4C1E1C4A222A1FA14.tmp' to '../../../../../eion resp/backup/Eion/Saved/Autosaves/Game/blueprints/TestHUD_Auto2.uasset'
+[2018.04.19-10.58.16:057][274]LogSavePackage: Display: Finished SavePackage ../../../../../eion resp/backup/Eion/Saved/Autosaves/Game/blueprints/TestHUD_Auto2.uasset
+[2018.04.19-10.58.16:059][274]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/blueprints/MYGAMEMODE] ([1] browsable assets)...
+[2018.04.19-10.58.16:059][274]OBJ SavePackage: Finished generating thumbnails for package [/Game/blueprints/MYGAMEMODE]
+[2018.04.19-10.58.16:059][274]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/blueprints/MYGAMEMODE" FILE="../../../../../eion resp/backup/Eion/Saved/Autosaves/Game/blueprints/MYGAMEMODE_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2018.04.19-10.58.16:109][274]LogSavePackage: Save=19.46ms
+[2018.04.19-10.58.16:109][274]LogSavePackage: Moving '../../../../../eion resp/backup/Eion/Saved/MYGAMEMODE_Auto2E402C5464158C1C0315ABCAEDF56BB77.tmp' to '../../../../../eion resp/backup/Eion/Saved/Autosaves/Game/blueprints/MYGAMEMODE_Auto2.uasset'
+[2018.04.19-10.58.16:115][274]LogSavePackage: Display: Finished SavePackage ../../../../../eion resp/backup/Eion/Saved/Autosaves/Game/blueprints/MYGAMEMODE_Auto2.uasset
+[2018.04.19-10.58.16:116][274]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/third_person_model/punch] ([1] browsable assets)...
+[2018.04.19-10.58.16:130][274]OBJ SavePackage:     Rendered thumbnail for [AnimMontage /Game/third_person_model/punch.punch]
+[2018.04.19-10.58.16:130][274]OBJ SavePackage: Finished generating thumbnails for package [/Game/third_person_model/punch]
+[2018.04.19-10.58.16:130][274]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/third_person_model/punch" FILE="../../../../../eion resp/backup/Eion/Saved/Autosaves/Game/third_person_model/punch_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2018.04.19-10.58.16:150][274]LogSavePackage: Save=16.90ms
+[2018.04.19-10.58.16:150][274]LogSavePackage: Moving '../../../../../eion resp/backup/Eion/Saved/punch_Auto2FA0504DD4BA6834AEDF3E192F1ED2214.tmp' to '../../../../../eion resp/backup/Eion/Saved/Autosaves/Game/third_person_model/punch_Auto2.uasset'
+[2018.04.19-10.58.16:152][274]LogSavePackage: Display: Finished SavePackage ../../../../../eion resp/backup/Eion/Saved/Autosaves/Game/third_person_model/punch_Auto2.uasset
+[2018.04.19-10.58.16:152][274]LogFileHelpers: Auto-saving content packages took 0.282
+[2018.04.19-10.59.26:351][896]Cmd: TRANSACTION UNDO
+[2018.04.19-10.59.26:352][896]LogEditorTransaction: Undo Add New Section
+[2018.04.19-10.59.26:353][896]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.04.19-10.59.46:966][821]LogAnimMontage: Warning: Montage 'AnimMontage /Game/third_person_model/punch.punch' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2018.04.19-10.59.46:966][821]LogAnimMontage: Warning: Montage 'AnimMontage /Game/third_person_model/punch.punch' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2018.04.19-10.59.46:966][821]LogAnimMontage: Warning: Montage 'AnimMontage /Game/third_person_model/punch.punch' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2018.04.19-10.59.46:966][821]LogAnimMontage: Warning: Montage 'AnimMontage /Game/third_person_model/punch.punch' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2018.04.19-10.59.46:966][821]LogAnimMontage: Warning: Montage 'AnimMontage /Game/third_person_model/punch.punch' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2018.04.19-10.59.46:966][821]LogAnimMontage: Warning: Montage 'AnimMontage /Game/third_person_model/punch.punch' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2018.04.19-10.59.46:967][821]LogAnimMontage: Warning: Montage 'AnimMontage /Game/third_person_model/punch.punch' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2018.04.19-10.59.46:967][821]LogAnimMontage: Warning: Montage 'AnimMontage /Game/third_person_model/punch.punch' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2018.04.19-10.59.46:967][821]LogAnimMontage: Warning: Montage 'AnimMontage /Game/third_person_model/punch.punch' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2018.04.19-10.59.53:688][386]Cmd: TRANSACTION UNDO
+[2018.04.19-10.59.53:688][386]LogEditorTransaction: Undo Add Slot
+[2018.04.19-10.59.53:689][386]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.04.19-11.04.33:600][623]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/third_person_model/punch" FILE="../../../../../eion resp/backup/Eion/Content/third_person_model/punch.uasset" SILENT=true
+[2018.04.19-11.04.33:614][623]LogSavePackage: Save=11.73ms
+[2018.04.19-11.04.33:614][623]LogSavePackage: Moving '../../../../../eion resp/backup/Eion/Saved/punchDE2486C941D64CC97226AAAA6E59A213.tmp' to '../../../../../eion resp/backup/Eion/Content/third_person_model/punch.uasset'
+[2018.04.19-11.04.33:620][623]LogSavePackage: Display: Finished SavePackage ../../../../../eion resp/backup/Eion/Content/third_person_model/punch.uasset
+[2018.04.19-11.04.53:306][285]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.Actor_1.DebugSkelMeshComponent_3) Already registered. Aborting.
+[2018.04.19-11.05.53:440][711]LogEditorTransaction: Undo Promote To Variable
+[2018.04.19-11.05.53:455][711]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.Actor_1.DebugSkelMeshComponent_3) Already registered. Aborting.
+[2018.04.19-11.05.53:455][711]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.04.19-11.08.17:634][501]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.028
+[2018.04.19-11.08.17:635][501]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/blueprints/ANIMATIONBP] ([1] browsable assets)...
+[2018.04.19-11.08.17:644][501]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/blueprints/ANIMATIONBP.ANIMATIONBP]
+[2018.04.19-11.08.17:644][501]OBJ SavePackage: Finished generating thumbnails for package [/Game/blueprints/ANIMATIONBP]
+[2018.04.19-11.08.17:644][501]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/blueprints/ANIMATIONBP" FILE="../../../../../eion resp/backup/Eion/Saved/Autosaves/Game/blueprints/ANIMATIONBP_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2018.04.19-11.08.17:709][501]LogSavePackage: Save=50.94ms
+[2018.04.19-11.08.17:709][501]LogSavePackage: Moving '../../../../../eion resp/backup/Eion/Saved/ANIMATIONBP_Auto39A023F91423F5550EA8118A9039E3ECA.tmp' to '../../../../../eion resp/backup/Eion/Saved/Autosaves/Game/blueprints/ANIMATIONBP_Auto3.uasset'
+[2018.04.19-11.08.17:930][501]LogSavePackage: Display: Finished SavePackage ../../../../../eion resp/backup/Eion/Saved/Autosaves/Game/blueprints/ANIMATIONBP_Auto3.uasset
+[2018.04.19-11.08.17:936][501]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/third_person_model/character/base_Skeleton] ([1] browsable assets)...
+[2018.04.19-11.08.17:936][501]OBJ SavePackage: Finished generating thumbnails for package [/Game/third_person_model/character/base_Skeleton]
+[2018.04.19-11.08.17:994][501]LogSavePackage: Save=14.66ms
+[2018.04.19-11.08.17:994][501]LogSavePackage: Moving '../../../../../eion resp/backup/Eion/Saved/base_Skeleton_Auto3176CF1274A24400C67CBF781A1092969.tmp' to '../../../../../eion resp/backup/Eion/Saved/Autosaves/Game/third_person_model/character/base_Skeleton_Auto3.uasset'
+[2018.04.19-11.08.18:025][501]LogSavePackage: Display: Finished SavePackage ../../../../../eion resp/backup/Eion/Saved/Autosaves/Game/third_person_model/character/base_Skeleton_Auto3.uasset
+[2018.04.19-11.08.18:027][501]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/third_person_model/punch] ([1] browsable assets)...
+[2018.04.19-11.08.18:053][501]OBJ SavePackage:     Rendered thumbnail for [AnimMontage /Game/third_person_model/punch.punch]
+[2018.04.19-11.08.18:053][501]OBJ SavePackage: Finished generating thumbnails for package [/Game/third_person_model/punch]
+[2018.04.19-11.08.18:053][501]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/third_person_model/punch" FILE="../../../../../eion resp/backup/Eion/Saved/Autosaves/Game/third_person_model/punch_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2018.04.19-11.08.18:094][501]LogSavePackage: Save=17.04ms
+[2018.04.19-11.08.18:094][501]LogSavePackage: Moving '../../../../../eion resp/backup/Eion/Saved/punch_Auto31BB3E868450175A4D9F35A9F5064058F.tmp' to '../../../../../eion resp/backup/Eion/Saved/Autosaves/Game/third_person_model/punch_Auto3.uasset'
+[2018.04.19-11.08.18:095][501]LogSavePackage: Display: Finished SavePackage ../../../../../eion resp/backup/Eion/Saved/Autosaves/Game/third_person_model/punch_Auto3.uasset
+[2018.04.19-11.08.18:095][501]LogFileHelpers: Auto-saving content packages took 0.460
+[2018.04.19-11.09.12:681][496]LogEditorTransaction: Undo Break Pin Links
+[2018.04.19-11.09.12:697][496]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.Actor_1.DebugSkelMeshComponent_3) Already registered. Aborting.
+[2018.04.19-11.09.12:698][496]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.04.19-11.09.16:872][755]LogEditorTransaction: Undo Promote To Variable
+[2018.04.19-11.09.16:890][755]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.Actor_1.DebugSkelMeshComponent_3) Already registered. Aborting.
+[2018.04.19-11.09.16:890][755]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.04.19-11.09.24:162][233]LogEditorTransaction: Undo Straighten Connection(s)
+[2018.04.19-11.09.24:178][233]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.Actor_1.DebugSkelMeshComponent_3) Already registered. Aborting.
+[2018.04.19-11.09.24:179][233]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.04.19-11.09.34:646][909]LogEditorTransaction: Undo Collapses selected nodes into a single node
+[2018.04.19-11.09.34:664][909]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.Actor_1.DebugSkelMeshComponent_3) Already registered. Aborting.
+[2018.04.19-11.09.34:665][909]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.04.19-11.09.38:656][127]BlueprintLog: New page: Collapse to Function
+[2018.04.19-11.09.39:711][192]LogEditorTransaction: Undo Collapses selected nodes into a single node
+[2018.04.19-11.09.39:730][192]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.Actor_1.DebugSkelMeshComponent_3) Already registered. Aborting.
+[2018.04.19-11.09.39:731][192]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.04.19-11.09.43:182][396]BlueprintLog: New page: Collapse to Macro
+[2018.04.19-11.09.44:617][490]LogEditorTransaction: Undo Collapses selected nodes into a single node
+[2018.04.19-11.09.44:636][490]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.Actor_1.DebugSkelMeshComponent_3) Already registered. Aborting.
+[2018.04.19-11.09.44:636][490]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.04.19-11.11.05:429][369]BlueprintLog: New page: Compile ANIMATIONBP
+[2018.04.19-11.18.18:799][758]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.035
+[2018.04.19-11.18.18:802][758]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/blueprints/ANIMATIONBP] ([1] browsable assets)...
+[2018.04.19-11.18.18:813][758]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/blueprints/ANIMATIONBP.ANIMATIONBP]
+[2018.04.19-11.18.18:813][758]OBJ SavePackage: Finished generating thumbnails for package [/Game/blueprints/ANIMATIONBP]
+[2018.04.19-11.18.18:813][758]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/blueprints/ANIMATIONBP" FILE="../../../../../eion resp/backup/Eion/Saved/Autosaves/Game/blueprints/ANIMATIONBP_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2018.04.19-11.18.18:885][758]LogSavePackage: Save=57.51ms
+[2018.04.19-11.18.18:886][758]LogSavePackage: Moving '../../../../../eion resp/backup/Eion/Saved/ANIMATIONBP_Auto428C289234463BC3D9F3320A51DB609E3.tmp' to '../../../../../eion resp/backup/Eion/Saved/Autosaves/Game/blueprints/ANIMATIONBP_Auto4.uasset'
+[2018.04.19-11.18.19:104][758]LogSavePackage: Display: Finished SavePackage ../../../../../eion resp/backup/Eion/Saved/Autosaves/Game/blueprints/ANIMATIONBP_Auto4.uasset
+[2018.04.19-11.18.19:107][758]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/third_person_model/punch] ([1] browsable assets)...
+[2018.04.19-11.18.19:145][758]OBJ SavePackage:     Rendered thumbnail for [AnimMontage /Game/third_person_model/punch.punch]
+[2018.04.19-11.18.19:145][758]OBJ SavePackage: Finished generating thumbnails for package [/Game/third_person_model/punch]
+[2018.04.19-11.18.19:145][758]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/third_person_model/punch" FILE="../../../../../eion resp/backup/Eion/Saved/Autosaves/Game/third_person_model/punch_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2018.04.19-11.18.19:202][758]LogSavePackage: Save=27.37ms
+[2018.04.19-11.18.19:202][758]LogSavePackage: Moving '../../../../../eion resp/backup/Eion/Saved/punch_Auto44A912AF5437AD82E7B1F27A867E39CA2.tmp' to '../../../../../eion resp/backup/Eion/Saved/Autosaves/Game/third_person_model/punch_Auto4.uasset'
+[2018.04.19-11.18.19:204][758]LogSavePackage: Display: Finished SavePackage ../../../../../eion resp/backup/Eion/Saved/Autosaves/Game/third_person_model/punch_Auto4.uasset
+[2018.04.19-11.18.19:204][758]LogFileHelpers: Auto-saving content packages took 0.403
+[2018.04.19-11.37.47:404][676]BlueprintLog: New page: Compile ANIMATIONBP
+[2018.04.19-11.38.18:230][295]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.024
+[2018.04.19-11.38.18:232][295]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/blueprints/ANIMATIONBP] ([1] browsable assets)...
+[2018.04.19-11.38.18:248][295]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/blueprints/ANIMATIONBP.ANIMATIONBP]
+[2018.04.19-11.38.18:248][295]OBJ SavePackage: Finished generating thumbnails for package [/Game/blueprints/ANIMATIONBP]
+[2018.04.19-11.38.18:248][295]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/blueprints/ANIMATIONBP" FILE="../../../../../eion resp/backup/Eion/Saved/Autosaves/Game/blueprints/ANIMATIONBP_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2018.04.19-11.38.18:554][295]LogSavePackage: Save=289.08ms
+[2018.04.19-11.38.18:554][295]LogSavePackage: Moving '../../../../../eion resp/backup/Eion/Saved/ANIMATIONBP_Auto52A8158A648312058C25B89A3193CB6F0.tmp' to '../../../../../eion resp/backup/Eion/Saved/Autosaves/Game/blueprints/ANIMATIONBP_Auto5.uasset'
+[2018.04.19-11.38.18:694][295]LogSavePackage: Display: Finished SavePackage ../../../../../eion resp/backup/Eion/Saved/Autosaves/Game/blueprints/ANIMATIONBP_Auto5.uasset
+[2018.04.19-11.38.18:694][295]LogFileHelpers: Auto-saving content packages took 0.463
+[2018.04.19-11.43.23:793][839]LogEditorTransaction: Undo Add Node
+[2018.04.19-11.43.23:833][839]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.Actor_1.DebugSkelMeshComponent_3) Already registered. Aborting.
+[2018.04.19-11.43.23:836][839]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.04.19-11.43.27:462][126]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.04.19-11.43.38:139][140]LogEditorTransaction: Undo Add Node
+[2018.04.19-11.43.38:174][140]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.Actor_1.DebugSkelMeshComponent_3) Already registered. Aborting.
+[2018.04.19-11.43.38:176][140]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.04.19-11.44.25:133][457]LogEditorTransaction: Undo Add Node
+[2018.04.19-11.44.25:179][457]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.Actor_1.DebugSkelMeshComponent_3) Already registered. Aborting.
+[2018.04.19-11.44.25:182][457]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.04.19-11.45.29:851][999]BlueprintLog: New page: Compile MYCHARACTER
+[2018.04.19-11.45.32:019][185]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.19-11.45.32:040][185]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.19-11.45.32:040][185]PIE: New page: PIE session: Untitled_1 (Apr 19, 2018, 5:45:32 PM)
+[2018.04.19-11.45.32:040][185]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2018.04.19-11.45.32:042][185]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001418s)
+[2018.04.19-11.45.32:042][185]LogAIModule: Creating AISystem for world Untitled_1
+[2018.04.19-11.45.32:043][185]LogPlayLevel: PIE: World Init took: (0.000631s)
+[2018.04.19-11.45.32:043][185]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.002157s)
+[2018.04.19-11.45.32:071][185]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.19-11.45.32:077][185]LogInit: FAudioDevice initialized.
+[2018.04.19-11.45.32:126][185]LogLoad: Game class is 'MYGAMEMODE_C'
+[2018.04.19-11.45.32:127][185]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2018.04.19-14.45.32
+[2018.04.19-11.45.32:127][185]LogWorld: Bringing up level for play took: 0.000447
+[2018.04.19-11.45.32:128][185]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.04.19-11.45.32:128][185]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.04.19-11.45.32:128][185]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.04.19-11.45.32:176][185]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.04.19-11.45.32:193][185]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 0.718
+[2018.04.19-11.45.48:922][987]LogSlate: Window 'Eion Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.04.19-11.47.02:686][258]LogEditorTransaction: Undo Create Pin Link
+[2018.04.19-11.47.02:729][258]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.Actor_1.DebugSkelMeshComponent_3) Already registered. Aborting.
+[2018.04.19-11.47.02:731][258]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.04.19-11.47.26:909][725]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.19-11.47.26:932][725]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.04.19-11.47.26:949][725]LogPlayLevel: [PlayLevel] Compiling MYCHARACTER before play...
+[2018.04.19-11.47.26:968][725]LogBlueprint: Error: [Compiler MYCHARACTER] This blueprint (self) is not a UserWidget, therefore ' Target ' must have a connection.
+[2018.04.19-11.47.27:963][725]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.993 s
+[2018.04.19-11.47.27:963][725]LogOutputDevice: Error: === Handled ensure: ===
+[2018.04.19-11.47.27:963][725]LogOutputDevice: Error: 
+[2018.04.19-11.47.27:963][725]LogOutputDevice: Error: Ensure condition failed: Component && (Component->GetOuter() == GeneratedClass) [File:D:\Build\++UE4+Release-4.19+Compile\Sync\Engine\Source\Runtime\Engine\Private\Blueprint.cpp] [Line: 1164]
+[2018.04.19-11.47.27:963][725]LogOutputDevice: Error: 
+[2018.04.19-11.47.27:963][725]LogOutputDevice: Error: Stack: 
+[2018.04.19-11.47.27:963][725]LogOutputDevice: Error: [Callstack] 0x00000000F9D3B6F6 UE4Editor-Core.dll!UnknownFunction []
+[2018.04.19-11.47.27:963][725]LogOutputDevice: Error: [Callstack] 0x00000000F9A9AE2A UE4Editor-Core.dll!UnknownFunction []
+[2018.04.19-11.47.27:963][725]LogOutputDevice: Error: [Callstack] 0x00000000F9AAECC6 UE4Editor-Core.dll!UnknownFunction []
+[2018.04.19-11.47.27:963][725]LogOutputDevice: Error: [Callstack] 0x00000000EDA8EB44 UE4Editor-Engine.dll!UnknownFunction []
+[2018.04.19-11.47.27:963][725]LogOutputDevice: Error: [Callstack] 0x000000000F18E5B4 UE4Editor-KismetCompiler.dll!UnknownFunction []
+[2018.04.19-11.47.27:963][725]LogOutputDevice: Error: [Callstack] 0x00000000EB61FA5D UE4Editor-Kismet.dll!UnknownFunction []
+[2018.04.19-11.47.27:964][725]LogOutputDevice: Error: [Callstack] 0x00000000EB5C0629 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.04.19-11.47.27:964][725]LogOutputDevice: Error: [Callstack] 0x00000000EC5F72F1 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.04.19-11.47.27:964][725]LogOutputDevice: Error: [Callstack] 0x00000000EC765756 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.04.19-11.47.27:964][725]LogOutputDevice: Error: [Callstack] 0x00000000EC7506DD UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.04.19-11.47.27:964][725]LogOutputDevice: Error: [Callstack] 0x00000000EC76BAFF UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.04.19-11.47.27:964][725]LogOutputDevice: Error: [Callstack] 0x00000000EC1DC961 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.04.19-11.47.27:964][725]LogOutputDevice: Error: [Callstack] 0x00000000ECA79516 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.04.19-11.47.27:964][725]LogOutputDevice: Error: [Callstack] 0x000000004B3C5EAC UE4Editor.exe!UnknownFunction []
+[2018.04.19-11.47.27:964][725]LogOutputDevice: Error: [Callstack] 0x000000004B3D6BD0 UE4Editor.exe!UnknownFunction []
+[2018.04.19-11.47.27:964][725]LogOutputDevice: Error: [Callstack] 0x000000004B3D6C4A UE4Editor.exe!UnknownFunction []
+[2018.04.19-11.47.27:964][725]LogOutputDevice: Error: [Callstack] 0x000000004B3E4149 UE4Editor.exe!UnknownFunction []
+[2018.04.19-11.47.27:964][725]LogOutputDevice: Error: [Callstack] 0x000000004B3E5B57 UE4Editor.exe!UnknownFunction []
+[2018.04.19-11.47.27:964][725]LogOutputDevice: Error: [Callstack] 0x000000003E841FE4 KERNEL32.DLL!UnknownFunction []
+[2018.04.19-11.47.27:964][725]LogOutputDevice: Error: [Callstack] 0x000000003F4BF061 ntdll.dll!UnknownFunction []
+[2018.04.19-11.47.27:964][725]LogOutputDevice: Error: 
+[2018.04.19-11.47.27:972][725]LogStats:                SubmitErrorReport -  0.000 s
